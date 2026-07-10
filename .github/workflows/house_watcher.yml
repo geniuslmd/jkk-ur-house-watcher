@@ -1,0 +1,56 @@
+name: House Watcher
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub cron uses UTC. This is Mon-Fri 09:00-18:50 Japan time.
+    # For every 5 minutes, change */10 to */5.
+    # For a shorter window, adjust the UTC hour range. JST = UTC + 9.
+    - cron: "*/10 0-9 * * 1-5"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: house-watcher
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+
+      - name: Run watcher once
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: python scripts/run_watcher_once.py
+
+      - name: Persist watcher state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # These state files are ignored locally, but deliberately persisted by Actions
+          # so the next scheduled run can identify new/reappeared listings.
+          git add -f data/listings.json data/listing_events.json data/lifecycle_meta.json data/last_notifications.json data/last_run_summary.json watch_stats.json
+          if git diff --cached --quiet; then
+            echo "No watcher state changes to commit."
+          else
+            git commit -m "chore: update house watcher state [skip ci]"
+            git push
+          fi

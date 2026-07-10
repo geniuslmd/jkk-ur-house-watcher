@@ -1,0 +1,38 @@
+{
+  "normal_interval_seconds": 600,
+  "hot_interval_seconds": 300,
+  "event_boost_interval_seconds": 60,
+  "event_boost_duration_minutes": 20,
+  "fast_disappear_minutes": 15,
+  "stable_seen_checks": 3,
+  "popup_cooldown_minutes": 30,
+  "fetch_lock_stale_seconds": 300,
+  "high_priority_ur_names": [
+    "ヌーヴェル赤羽台"
+  ],
+  "high_priority_jkk_names": [
+    "コーシャハイム加賀",
+    "コーシャハイム田端テラス"
+  ],
+  "slack_notifications": {
+    "enabled": true,
+    "cooldown_minutes": 30,
+    "notify_event_types": [
+      "first_seen",
+      "reappeared",
+      "stable"
+    ],
+    "notify_disappeared": false,
+    "notify_jkk_newer_buildings": false,
+    "notify_ordinary_ur": false,
+    "notify_ordinary_jkk": false,
+    "allowed_layouts": [],
+    "priority_min_layout_bedrooms": 2
+  },
+  "quick_judgement": {
+    "low_rent_yen": 100000,
+    "high_rent_yen": 200000,
+    "small_area_m2": 40,
+    "large_area_m2": 60
+  }
+}

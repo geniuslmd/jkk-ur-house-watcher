@@ -1,0 +1,34 @@
+# Local runtime state and evidence. GitHub Actions creates these after its first run.
+data/*.json
+data/evidence/
+data/snapshots/
+data/*.lock
+
+# Local reports, logs and Windows process state.
+*.log
+*.pid
+FOUND_*.txt
+last_report.html
+watch_latest.html
+watch_latest.json
+watch_history.log
+watch_stats.json
+server.err.log
+server.log
+watcher.err.log
+watcher.log
+__pycache__/
+*.py[cod]
+
+# Secrets and editor files.
+.env
+.venv/
+.idea/
+.vscode/
+
+# Personal Windows launchers reference a machine-specific Python runtime.
+JKK监控启动器.bat
+check_once.bat
+start_*.bat
+start_*.ps1
+stop_background.ps1
