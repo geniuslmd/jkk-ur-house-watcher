@@ -4,15 +4,11 @@
 
 这个仓库的云端模式是“定时查询 + 状态保存 + Slack 通知”，不会登录 JKK/UR，也不会自动申请房源。
 
-## Current notification rule
+## Notification rules
 
-默认只通知以下三个重点团地中，`2LDK` 及以上的户型：
+重点团地与通知户型由本人的 [`config/watch_rules.json`](config/watch_rules.json) 决定。项目可分别配置 UR 与 JKK 的高优先级团地，以及最小户型门槛。
 
-- UR: `ヌーヴェル赤羽台`
-- JKK: `コーシャハイム田端テラス`
-- JKK: `コーシャハイム加賀`
-
-例如 `2LDK`、`2SLDK`、`3LDK`、`4LDK` 会通知；`1LDK` 不会通知。其他抓到的房源仍会记录到本地状态 JSON，只是不推送 Slack。
+例如将最小户型设为 `2` 时，`2LDK`、`2SLDK`、`3LDK`、`4LDK` 会通知，`1LDK` 不会通知。其他抓到的房源仍会记录到状态 JSON，只是不推送 Slack。
 
 通知不会反复轰炸：同一房源默认 30 分钟内最多一次；状态变化（例如 `new -> stable` 或再次出现）可再次通知。
 
@@ -44,8 +40,8 @@
 
 ```json
 {
-  "high_priority_ur_names": ["ヌーヴェル赤羽台"],
-  "high_priority_jkk_names": ["コーシャハイム加賀", "コーシャハイム田端テラス"],
+  "high_priority_ur_names": ["Your UR target"],
+  "high_priority_jkk_names": ["Your JKK target"],
   "slack_notifications": {
     "priority_min_layout_bedrooms": 2,
     "cooldown_minutes": 30
