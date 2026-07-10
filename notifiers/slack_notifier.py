@@ -58,7 +58,7 @@ def listing_line(record: dict[str, Any]) -> str:
     first_seen = record.get("first_seen_at") or "-"
     lifetime = record.get("lifetime_minutes", 0)
     detail = record.get("detail_url") or ""
-    prefix = "【赤羽台】 " if "赤羽台" in str(building) else ""
+    prefix = "【重点 UR】 " if source == "UR" and record.get("is_high_priority") else ""
     action = (
         "UR参考房源出现，请关注户型/价格/楼层；如需行动请电话或线下确认"
         if source == "UR"
@@ -80,8 +80,8 @@ def build_slack_payload(
     summary: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
     checked_at = (summary or {}).get("checked_at") or "-"
-    has_akabane = any("赤羽台" in str(item.get("building_name") or "") for item in listings)
-    title = "【赤羽台】房源提醒" if has_akabane else "房源提醒"
+    has_priority_ur = any(item.get("source") == "UR" and item.get("is_high_priority") for item in listings)
+    title = "【重点 UR】房源提醒" if has_priority_ur else "房源提醒"
     text = f"{title}: {len(listings)} 件 / {checked_at}"
     blocks: list[dict[str, Any]] = [
         {"type": "header", "text": {"type": "plain_text", "text": title}},

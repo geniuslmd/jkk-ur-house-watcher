@@ -6,7 +6,7 @@
 
 ## Notification rules
 
-重点团地与通知户型由本人的 [`config/watch_rules.json`](config/watch_rules.json) 决定。项目可分别配置 UR 与 JKK 的高优先级团地，以及最小户型门槛。
+公开的 [`config/watch_rules.json`](config/watch_rules.json) 不包含个人目标。实际团地、排除项与通知户型通过运行环境变量 `WATCH_RULES_JSON` 传入；GitHub Actions 请将它保存为同名 Actions Secret。
 
 例如将最小户型设为 `2` 时，`2LDK`、`2SLDK`、`3LDK`、`4LDK` 会通知，`1LDK` 不会通知。其他抓到的房源仍会记录到状态 JSON，只是不推送 Slack。
 
@@ -17,8 +17,22 @@
 1. 在 GitHub 新建一个空仓库，然后把本目录的代码推送到你的个人账号仓库。
 2. 在仓库页面打开 `Settings -> Secrets and variables -> Actions -> New repository secret`。
 3. 新建名称为 `SLACK_WEBHOOK_URL` 的 secret，值填 Slack Incoming Webhook URL。
-4. 在 `Settings -> Actions -> General -> Workflow permissions` 选择 `Read and write permissions`，让 Actions 能把状态 JSON 提交回仓库。
-5. 打开 `Actions -> House Watcher -> Run workflow` 手动运行一次，确认 Slack 收到测试后的实际通知。
+4. 新建名称为 `WATCH_RULES_JSON` 的 secret，值为你的私人监控规则，例如：
+
+```json
+{
+  "high_priority_ur_names": ["Your UR target"],
+  "high_priority_jkk_names": ["Your JKK target A", "Your JKK target B"],
+  "jkk_exclude_names": ["Optional excluded JKK building"],
+  "slack_notifications": {
+    "priority_min_layout_bedrooms": 2
+  }
+}
+```
+
+5. `WATCH_RULES_JSON` 会覆盖公开默认值，但不会出现在仓库、Actions 日志或 Slack 中。
+6. 在 `Settings -> Actions -> General -> Workflow permissions` 选择 `Read and write permissions`，让 Actions 能把状态 JSON 提交回仓库。
+7. 打开 `Actions -> House Watcher -> Run workflow` 手动运行一次，确认 Slack 收到测试后的实际通知。
 
 工作流文件在 [`.github/workflows/house_watcher.yml`](.github/workflows/house_watcher.yml)。默认计划为工作日日本时间 09:00--18:50 每 10 分钟运行一次。GitHub 的定时任务可能延迟几分钟，不能当作精确计时器。
 
@@ -36,7 +50,7 @@
 
 ## Configuration
 
-所有规则都在 [`config/watch_rules.json`](config/watch_rules.json)。重点字段：
+公开默认规则在 [`config/watch_rules.json`](config/watch_rules.json)。私人目标请通过 `WATCH_RULES_JSON` 传入，不要提交进仓库。重点字段：
 
 ```json
 {
@@ -57,6 +71,7 @@
 
 ```powershell
 $env:SLACK_WEBHOOK_URL = "https://hooks.slack.com/services/..."
+$env:WATCH_RULES_JSON = '{"high_priority_ur_names":["Your UR target"],"high_priority_jkk_names":["Your JKK target"],"slack_notifications":{"priority_min_layout_bedrooms":2}}'
 python scripts/run_watcher_once.py --dry-run-slack
 ```
 
@@ -70,7 +85,7 @@ python scripts/run_watcher_once.py --test-slack
 
 ## Data and privacy
 
-本机运行产生的 `data/*.json`、截图/证据、日志以及 dashboard 状态都被 `.gitignore` 排除，正常 `git add .` 不会上传。请勿把 Slack Webhook URL 写进代码或提交到仓库。
+本机运行产生的 `data/*.json`、截图/证据、日志以及 dashboard 状态都被 `.gitignore` 排除，正常 `git add .` 不会上传。请勿把 Slack Webhook URL 或 `WATCH_RULES_JSON` 写进代码或提交到仓库。
 
 不过，为了让 GitHub Actions 在不同运行之间识别 `new` / `reappeared`，工作流会**有意提交**少量状态文件：`data/listings.json`、`data/listing_events.json`、`data/lifecycle_meta.json`、`data/last_notifications.json`、`data/last_run_summary.json` 和 `watch_stats.json`。如果仓库是 public，这些房源历史也会公开；希望保留历史但不公开时，请使用 private repo。截图、原始证据和 Slack 密钥不会被提交。
 

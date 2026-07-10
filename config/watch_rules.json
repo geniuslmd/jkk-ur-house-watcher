@@ -7,13 +7,9 @@
   "stable_seen_checks": 3,
   "popup_cooldown_minutes": 30,
   "fetch_lock_stale_seconds": 300,
-  "high_priority_ur_names": [
-    "ヌーヴェル赤羽台"
-  ],
-  "high_priority_jkk_names": [
-    "コーシャハイム加賀",
-    "コーシャハイム田端テラス"
-  ],
+  "high_priority_ur_names": [],
+  "high_priority_jkk_names": [],
+  "jkk_exclude_names": [],
   "slack_notifications": {
     "enabled": true,
     "cooldown_minutes": 30,

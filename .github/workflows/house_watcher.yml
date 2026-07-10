@@ -39,6 +39,7 @@ jobs:
       - name: Run watcher once
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          WATCH_RULES_JSON: ${{ secrets.WATCH_RULES_JSON }}
         run: python scripts/run_watcher_once.py
 
       - name: Persist watcher state

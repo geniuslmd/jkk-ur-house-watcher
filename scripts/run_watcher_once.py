@@ -17,7 +17,23 @@ from services.slack_presenter import (  # noqa: E402
     save_notification_state,
     select_slack_notifications,
 )
-from watch_lifecycle import load_watch_rules  # noqa: E402
+from watch_lifecycle import deep_update, load_watch_rules  # noqa: E402
+
+
+def load_runtime_rules(rules_file: Path, env_name: str) -> dict:
+    """Load public defaults and merge optional private JSON from the environment."""
+    rules = load_watch_rules(rules_file)
+    raw_overrides = os.environ.get(env_name, "").strip()
+    if not raw_overrides:
+        return rules
+    try:
+        overrides = json.loads(raw_overrides)
+    except json.JSONDecodeError as error:
+        raise SystemExit(f"{env_name} must contain valid JSON: {error}") from error
+    if not isinstance(overrides, dict):
+        raise SystemExit(f"{env_name} must contain a JSON object.")
+    deep_update(rules, overrides)
+    return rules
 
 
 def build_watcher_args(args: argparse.Namespace) -> argparse.Namespace:
@@ -33,10 +49,10 @@ def build_watcher_args(args: argparse.Namespace) -> argparse.Namespace:
             "--include-excluded",
         ]
     )
-    watcher_args.target = jkk_watch.DEFAULT_TARGETS[:]
-    watcher_args.exclude = jkk_watch.DEFAULT_EXCLUDES[:]
-    watcher_args.ur_target = jkk_watch.DEFAULT_UR_TARGETS[:]
-    watcher_args.rules = load_watch_rules(args.rules_file)
+    watcher_args.rules = load_runtime_rules(args.rules_file, args.rules_json_env)
+    watcher_args.target = list(watcher_args.rules.get("high_priority_jkk_names") or [])
+    watcher_args.exclude = list(watcher_args.rules.get("jkk_exclude_names") or [])
+    watcher_args.ur_target = list(watcher_args.rules.get("high_priority_ur_names") or [])
     return watcher_args
 
 
@@ -74,6 +90,11 @@ def main() -> int:
         type=Path,
         default=PROJECT_ROOT / "config" / "watch_rules.json",
         help="Watcher rules JSON.",
+    )
+    parser.add_argument(
+        "--rules-json-env",
+        default="WATCH_RULES_JSON",
+        help="Environment variable containing private JSON rule overrides.",
     )
     parser.add_argument(
         "--stats-file",

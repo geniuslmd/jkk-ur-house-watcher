@@ -46,11 +46,11 @@ INIT_URL = BASE + "akiyaJyoukenStartInit"
 SEARCH_ACTION = BASE + "akiyaJyoukenRef"
 SEARCH_TOKEN = "E17511BF89D3A101AFEF10EBF1587561"
 DETAIL_TOKEN = "26131A06F36B4487BA38B2958068CA6B"
-DEFAULT_TARGETS = ["コーシャハイム加賀", "コーシャハイム田端テラス"]
-DEFAULT_EXCLUDES = ["カーメスト用賀馬事公苑"]
+DEFAULT_TARGETS: list[str] = []
+DEFAULT_EXCLUDES: list[str] = []
 UR_RESULT_URL = "https://www.ur-net.go.jp/chintai/kanto/tokyo/result/?skcs=117&skcs=117&rent_low=&rent_high=&rent_low=&rent_high=&walk=&walk=&floorspace_low=&floorspace_high=&floorspace_low=&floorspace_high=&years=&years=&tdfk=13&todofuken=tokyo"
 UR_API_BASE = "https://chintai.r6.ur-net.go.jp/chintai/api/"
-DEFAULT_UR_TARGETS = ["ヌーヴェル赤羽台"]
+DEFAULT_UR_TARGETS: list[str] = []
 DEFAULT_INTERVAL_SECONDS = 10 * 60
 DEFAULT_FAST_INTERVAL_SECONDS = 5 * 60
 DEFAULT_STATS_BUCKET_MINUTES = 60
@@ -1578,7 +1578,7 @@ a.export:hover { text-decoration: underline; }
   <header>
     <div>
       <h1>JKK House Watcher</h1>
-      <div class="sub">区部搜索 / 重点：コーシャハイム加賀、コーシャハイム田端テラス / 自适应刷新统计</div>
+      <div class="sub">区部搜索 / 重点团地由运行规则决定 / 自适应刷新统计</div>
     </div>
     <div class="toolbar">
       <a class="export" href="/api/export/listings" target="_blank" rel="noreferrer">导出房源 JSON</a>
@@ -1652,7 +1652,7 @@ function metric(label, value) {
 
 function tagBadges(tags) {
   return (tags || []).map(tag => {
-    const cls = tag.includes("赤羽台") || tag.includes("高优先级") || tag.includes("快速消失") ? "badge hot" : "badge";
+    const cls = tag.includes("重点 UR") || tag.includes("高优先级") || tag.includes("快速消失") ? "badge hot" : "badge";
     return `<span class="${cls}">${escapeHtml(tag)}</span>`;
   }).join("");
 }
@@ -1731,7 +1731,7 @@ function render(data) {
     : newer.length
       ? `<strong>${escapeHtml(data.newer_than_year || 2010)}年以后房源出现了。</strong><br>${escapeHtml(newer.map(item => item.name).join(", "))}`
     : urTargets.length
-      ? `<strong>UR ヌーヴェル赤羽台 有空室。</strong><br>${escapeHtml(urTargets.map(item => `${item.name} ${item.room_count}户`).join(", "))}`
+      ? `<strong>重点 UR 有空室。</strong><br>${escapeHtml(urTargets.map(item => `${item.name} ${item.room_count}户`).join(", "))}`
     : `<strong>重点房源暂未出现。</strong><br>已排除 ${escapeHtml(data.excluded_count)} 条：${escapeHtml(data.exclude_names.join(", "))}`;
   if (data.warning) statusBox.innerHTML += `<br><span class="muted">${escapeHtml(data.warning)}</span>`;
   if (ur?.warning) statusBox.innerHTML += `<br><span class="muted">UR: ${escapeHtml(ur.warning)}</span>`;
@@ -1742,7 +1742,7 @@ function render(data) {
     metric("非排除房源", data.visible_count),
     metric(`${escapeHtml(data.newer_than_year || 2010)}+房源`, newer.length),
     metric("UR北区空室", ur?.total_vacancies ?? "-"),
-    metric("UR赤羽台", urTargets.length ? "有" : "无"),
+    metric("重点 UR", urTargets.length ? "有" : "无"),
     metric("事件提频", data.lifecycle_summary?.boost?.active ? "1分钟" : "普通"),
     metric("已排除", data.excluded_count),
   ].join("");
@@ -1769,7 +1769,7 @@ function render(data) {
 
   urRows.innerHTML = urListings.length ? urListings.map(item => {
     const isUrTarget = item.is_target && Number(item.room_count || 0) > 0;
-    const status = isUrTarget ? "赤羽台" : "UR";
+    const status = isUrTarget ? "重点 UR" : "UR";
     const cls = isUrTarget ? "target" : "";
     const roomDetails = (item.rooms || []).map(room => {
       const tags = tagBadges(room.quick_tags);
@@ -2086,7 +2086,7 @@ function metric(label, value) {
 }
 
 function isAkabane(item) {
-  return String(item?.building_name || item?.name || "").includes("赤羽台");
+  return item?.source === "UR" && item?.is_high_priority;
 }
 
 function isHighPriorityJkk(item) {
@@ -2121,7 +2121,7 @@ function focusSort(a, b) {
 function compactTags(item) {
   const candidates = [];
   const quick = item?.quick_tags || [];
-  if (isAkabane(item)) candidates.push(["赤羽台", "hot"]);
+  if (isAkabane(item)) candidates.push(["重点 UR", "hot"]);
   if (item?.is_high_priority) candidates.push(["高优先级", item.source === "JKK" ? "jkk" : "hot"]);
   if (item?.source === "JKK") candidates.push(["JKK手动确认", "jkk"]);
   if (item?.source === "UR") candidates.push(["UR参考", "ur"]);
@@ -2171,10 +2171,10 @@ function renderActionSummary(data, active) {
   const boost = summary.boost || {};
   const todayNew = events.filter(event => ["first_seen", "reappeared"].includes(event.event_type) && withinLast24Hours(event.created_at, data.checked_at)).length;
   const title = akabaneActive.length
-    ? "赤羽台出现"
+    ? "重点 UR 出现"
     : highJkkActive.length
       ? "高优先级 JKK 出现"
-      : "当前无赤羽台命中";
+      : "当前无重点 UR 命中";
   const best = active[0];
   const note = best
     ? `当前最值得关注：${best.building_name || "-"}`
@@ -2185,7 +2185,7 @@ function renderActionSummary(data, active) {
       <div class="summary-title">${escapeHtml(title)}</div>
       <div class="summary-note">${escapeHtml(note)}</div>
     </div>
-    <div class="summary-cell"><span>赤羽台</span><b>${akabaneActive.length ? "有" : "无"}</b></div>
+    <div class="summary-cell"><span>重点 UR</span><b>${akabaneActive.length ? "有" : "无"}</b></div>
     <div class="summary-cell"><span>高优先级 JKK</span><b>${highJkkActive.length ? "有" : "无"}</b></div>
     <div class="summary-cell"><span>当前提频</span><b>${boost.active ? "提频中" : "普通"}</b></div>
     <div class="summary-cell"><span>今日新命中</span><b>${escapeHtml(todayNew)}</b></div>
@@ -2203,7 +2203,7 @@ function renderMetrics(data, active) {
     metric("检查时间", data.checked_at || "-"),
     metric("JKK当前数", data.total_count ?? "未知"),
     metric("UR北区空室", ur.total_vacancies ?? "-"),
-    metric("赤羽台", akabaneActive ? "有" : "无"),
+    metric("重点 UR", akabaneActive ? "有" : "无"),
     metric("提频", data.lifecycle_summary?.boost?.active ? "提频中" : "普通"),
   ].join("");
 }
@@ -2226,7 +2226,7 @@ function renderFocus(summary) {
       <td>${compactTags(item)}</td>
       <td>${detail}</td>
     </tr>`;
-  }).join("") : `<tr><td colspan="11" class="empty">当前无赤羽台命中，也没有其他仍在房源。</td></tr>`;
+  }).join("") : `<tr><td colspan="11" class="empty">当前无重点 UR 命中，也没有其他仍在房源。</td></tr>`;
   return active;
 }
 
@@ -2267,7 +2267,7 @@ function renderUr() {
     const shortRooms = rooms.slice(0, 2).map(roomSummary).join("<br>");
     const more = rooms.length > 2 ? `<br><span class="muted">另有 ${rooms.length - 2} 间，打开详情查看</span>` : "";
     return `<tr class="${isTarget ? "row-akabane" : Number(item.room_count || 0) > 0 ? "row-ur" : ""}">
-      <td>${isTarget ? "赤羽台" : Number(item.room_count || 0) > 0 ? "有空室" : "无空室"}</td>
+      <td>${isTarget ? "重点 UR" : Number(item.room_count || 0) > 0 ? "有空室" : "无空室"}</td>
       <td>${escapeHtml(item.name || "-")}</td>
       <td>${escapeHtml(item.place || "-")}</td>
       <td>${escapeHtml(item.room_count ?? 0)}</td>
@@ -2715,7 +2715,7 @@ def popup(report: CheckReport) -> None:
             if listing_year_text(listing)
         ],
         *(
-            ["", "UR ヌーヴェル赤羽台 有空室"]
+            ["", "重点 UR 有空室"]
             if ur_rows
             else []
         ),
@@ -2973,7 +2973,7 @@ def main(argv: list[str] | None = None) -> int:
             excluded_count=0,
             listings=[
                 Listing(
-                    name="弹窗测试：コーシャハイム加賀",
+                    name="弹窗测试：重点 JKK 团地",
                     area="テスト区",
                     priority="一般",
                     housing_type="テスト",

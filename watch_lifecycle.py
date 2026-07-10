@@ -18,8 +18,9 @@ DEFAULT_RULES = {
     "stable_seen_checks": 3,
     "popup_cooldown_minutes": 30,
     "fetch_lock_stale_seconds": 300,
-    "high_priority_ur_names": ["ヌーヴェル赤羽台"],
-    "high_priority_jkk_names": ["コーシャハイム加賀", "コーシャハイム田端テラス"],
+    "high_priority_ur_names": [],
+    "high_priority_jkk_names": [],
+    "jkk_exclude_names": [],
     "quick_judgement": {
         "low_rent_yen": 100000,
         "high_rent_yen": 200000,
@@ -375,7 +376,6 @@ class ListingLifecycleStore:
         today_priority = sorted(
             recent_records,
             key=lambda item: (
-                0 if item.get("building_name") == "ヌーヴェル赤羽台" else 1,
                 0 if item.get("is_high_priority") else 1,
                 0 if item.get("is_present") else 1,
                 -(parse_time(item.get("last_seen_at")) or datetime(1970, 1, 1)).timestamp(),
@@ -416,7 +416,6 @@ class ListingLifecycleStore:
         rules = self.rules.get("quick_judgement", {})
         rent = parse_money(str(item.get("rent") or ""))
         area = parse_area(str(item.get("area") or ""))
-        building = str(item.get("building_name") or "")
         status = (state or {}).get("current_status") or item.get("current_status")
         if item.get("source") == "UR":
             tags.append("参考向")
@@ -424,8 +423,6 @@ class ListingLifecycleStore:
             tags.append("建议手动登录确认")
         if item.get("is_high_priority"):
             tags.append("高优先级")
-        if "赤羽台" in building:
-            tags.append("赤羽台")
         if rent is not None and rent <= int(rules.get("low_rent_yen", 100000)):
             tags.append("低价")
         if rent is not None and rent >= int(rules.get("high_rent_yen", 200000)):
