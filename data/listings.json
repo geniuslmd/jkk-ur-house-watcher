@@ -1,0 +1,240 @@
+{
+  "jkk_012809924aff6627": {
+    "stable_id": "jkk_012809924aff6627",
+    "source": "JKK",
+    "official_id": "jkk::L1061:2380030:0002",
+    "building_name": "宇喜田第二",
+    "room_no": "",
+    "layout": "２ＤＫ",
+    "area": "42.83",
+    "rent": "71,800",
+    "common_fee": "3,100",
+    "detail_url": "https://jhomes.to-kousya.or.jp/search/jkknet/service/akiyaJyoukenStartInit",
+    "is_high_priority": false,
+    "source_label": "JKK",
+    "action_hint": "发现新房，请尽快手动登录官网确认。",
+    "raw": {
+      "name": "宇喜田第二",
+      "area": "江戸川区",
+      "priority": "子育・高齢",
+      "housing_type": "一般賃貸住宅（期限付）",
+      "layout": "２ＤＫ",
+      "floor_area_m2": "42.83",
+      "rent_yen": "71,800",
+      "common_fee_yen": "3,100",
+      "units": "1",
+      "detail_onclick": "javascript:senPage('','L1061','2380030','0002'); return false",
+      "detail_params": [
+        "",
+        "L1061",
+        "2380030",
+        "0002"
+      ],
+      "building_year": 1973,
+      "building_year_label": "竣工年月日 1973/12/01",
+      "detail_error": "",
+      "is_target": false,
+      "is_excluded": false,
+      "is_newer_building": false,
+      "stable_id": "",
+      "current_status": "",
+      "first_seen_at": "",
+      "last_seen_at": "",
+      "lifetime_minutes": 0.0,
+      "appearance_count": 0,
+      "quick_tags": null
+    },
+    "first_seen_at": "2026-07-10T09:11:42",
+    "last_seen_at": "2026-07-10T09:11:42",
+    "current_appearance_started_at": "2026-07-10T09:11:42",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260710_091142",
+    "appearances": [
+      {
+        "start": "2026-07-10T09:11:42",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "建议手动登录确认",
+      "低价"
+    ]
+  },
+  "ur_f3be7783c145dda5": {
+    "stable_id": "ur_f3be7783c145dda5",
+    "source": "UR",
+    "official_id": "ur:20:280:0:https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000011230",
+    "building_name": "赤羽北二丁目",
+    "room_no": "1号棟 1230号室",
+    "layout": "1LDK",
+    "area": "48m2",
+    "rent": "117,900円",
+    "common_fee": "4,000円",
+    "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000011230",
+    "is_high_priority": false,
+    "source_label": "UR",
+    "action_hint": "发现参考房源，请关注户型/价格/楼层；如需行动，请电话或线下确认。",
+    "raw": {
+      "listing": {
+        "name": "赤羽北二丁目",
+        "place": "北区赤羽北2-15",
+        "traffic": "JR埼京線「北赤羽」駅 徒歩6～7分",
+        "room_count": 1,
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800.html",
+        "shisya": "20",
+        "danchi": "280",
+        "shikibetu": "0",
+        "is_target": false,
+        "rooms": [
+          {
+            "building": "1号棟",
+            "room_no": "1230号室",
+            "layout": "1LDK",
+            "floor_area_m2": "48m2",
+            "floor": "12階",
+            "rent_yen": "117,900円",
+            "common_fee_yen": "4,000円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000011230",
+            "stable_id": "",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          }
+        ]
+      },
+      "room": {
+        "building": "1号棟",
+        "room_no": "1230号室",
+        "layout": "1LDK",
+        "floor_area_m2": "48m2",
+        "floor": "12階",
+        "rent_yen": "117,900円",
+        "common_fee_yen": "4,000円",
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000011230",
+        "stable_id": "",
+        "current_status": "",
+        "first_seen_at": "",
+        "last_seen_at": "",
+        "lifetime_minutes": 0.0,
+        "appearance_count": 0,
+        "quick_tags": null
+      }
+    },
+    "first_seen_at": "2026-07-10T09:11:42",
+    "last_seen_at": "2026-07-10T09:11:42",
+    "current_appearance_started_at": "2026-07-10T09:11:42",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260710_091142",
+    "appearances": [
+      {
+        "start": "2026-07-10T09:11:42",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "参考向"
+    ]
+  },
+  "ur_3523889a0e02eff0": {
+    "stable_id": "ur_3523889a0e02eff0",
+    "source": "UR",
+    "official_id": "ur:20:401:0:https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4010_room.html?JKSS=000001113",
+    "building_name": "赤羽北二丁目ハイツ",
+    "room_no": "1113号室",
+    "layout": "1LDK",
+    "area": "48m2",
+    "rent": "128,100円",
+    "common_fee": "4,600円",
+    "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4010_room.html?JKSS=000001113",
+    "is_high_priority": false,
+    "source_label": "UR",
+    "action_hint": "发现参考房源，请关注户型/价格/楼层；如需行动，请电话或线下确认。",
+    "raw": {
+      "listing": {
+        "name": "赤羽北二丁目ハイツ",
+        "place": "北区赤羽北2-22-10",
+        "traffic": "JR埼京線「北赤羽」駅 徒歩5分",
+        "room_count": 1,
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4010.html",
+        "shisya": "20",
+        "danchi": "401",
+        "shikibetu": "0",
+        "is_target": false,
+        "rooms": [
+          {
+            "building": "",
+            "room_no": "1113号室",
+            "layout": "1LDK",
+            "floor_area_m2": "48m2",
+            "floor": "11階",
+            "rent_yen": "128,100円",
+            "common_fee_yen": "4,600円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4010_room.html?JKSS=000001113",
+            "stable_id": "",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          }
+        ]
+      },
+      "room": {
+        "building": "",
+        "room_no": "1113号室",
+        "layout": "1LDK",
+        "floor_area_m2": "48m2",
+        "floor": "11階",
+        "rent_yen": "128,100円",
+        "common_fee_yen": "4,600円",
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4010_room.html?JKSS=000001113",
+        "stable_id": "",
+        "current_status": "",
+        "first_seen_at": "",
+        "last_seen_at": "",
+        "lifetime_minutes": 0.0,
+        "appearance_count": 0,
+        "quick_tags": null
+      }
+    },
+    "first_seen_at": "2026-07-10T09:11:42",
+    "last_seen_at": "2026-07-10T09:11:42",
+    "current_appearance_started_at": "2026-07-10T09:11:42",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260710_091142",
+    "appearances": [
+      {
+        "start": "2026-07-10T09:11:42",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "参考向"
+    ]
+  }
+}
