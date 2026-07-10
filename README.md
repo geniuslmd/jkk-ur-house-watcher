@@ -32,7 +32,7 @@
 
 5. `WATCH_RULES_JSON` 会覆盖公开默认值，但不会出现在仓库、Actions 日志或 Slack 中。
 6. 在 `Settings -> Actions -> General -> Workflow permissions` 选择 `Read and write permissions`，让 Actions 能把状态 JSON 提交回仓库。
-7. 打开 `Actions -> House Watcher -> Run workflow` 手动运行一次，确认 Slack 收到测试后的实际通知。
+7. 打开 `Actions -> House Watcher -> Run workflow` 手动运行一次。先勾选 `test_slack` 验证 Slack；再不勾选运行一次真实查询。
 
 工作流文件在 [`.github/workflows/house_watcher.yml`](.github/workflows/house_watcher.yml)。默认计划为工作日日本时间 09:00--18:50 每 10 分钟运行一次。GitHub 的定时任务可能延迟几分钟，不能当作精确计时器。
 

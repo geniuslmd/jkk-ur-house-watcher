@@ -2,6 +2,12 @@ name: House Watcher
 
 on:
   workflow_dispatch:
+    inputs:
+      test_slack:
+        description: "Only send a Slack test message; do not query housing sites."
+        required: false
+        default: false
+        type: boolean
   schedule:
     # GitHub cron uses UTC. This is Mon-Fri 09:00-18:50 Japan time.
     # For every 5 minutes, change */10 to */5.
@@ -40,7 +46,12 @@ jobs:
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
           WATCH_RULES_JSON: ${{ secrets.WATCH_RULES_JSON }}
-        run: python scripts/run_watcher_once.py
+        run: |
+          if [ "${{ inputs.test_slack }}" = "true" ]; then
+            python scripts/run_watcher_once.py --test-slack
+          else
+            python scripts/run_watcher_once.py
+          fi
 
       - name: Persist watcher state
         run: |
