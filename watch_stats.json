@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-07-10T09:11:44",
-  "total_checks": 1,
+  "updated_at": "2026-07-10T11:33:00",
+  "total_checks": 2,
   "buckets": {
     "09:00": {
       "checks": 1,
@@ -34,6 +34,39 @@
           "building_year_label": "竣工年月日 1973/12/01",
           "first_seen_at": "2026-07-10T09:11:42",
           "last_seen_at": "2026-07-10T09:11:42",
+          "seen_count": 1
+        }
+      }
+    },
+    "11:00": {
+      "checks": 1,
+      "candidate_checks": 1,
+      "target_checks": 0,
+      "listing_rows": 4,
+      "candidate_rows": 1,
+      "target_rows": 0,
+      "last_checked_at": "2026-07-10T11:32:38",
+      "last_candidate_at": "2026-07-10T11:32:38",
+      "last_target_at": null,
+      "last_candidate_names": [
+        "宇喜田第二"
+      ],
+      "candidate_names_seen": [
+        "宇喜田第二"
+      ],
+      "candidate_seen": {
+        "宇喜田第二|江戸川区|２ＤＫ|42.83|71,800|3,100": {
+          "name": "宇喜田第二",
+          "area": "江戸川区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "42.83",
+          "rent_yen": "71,800",
+          "common_fee_yen": "3,100",
+          "units": "1",
+          "building_year": 1973,
+          "building_year_label": "竣工年月日 1973/12/01",
+          "first_seen_at": "2026-07-10T11:32:38",
+          "last_seen_at": "2026-07-10T11:32:38",
           "seen_count": 1
         }
       }
