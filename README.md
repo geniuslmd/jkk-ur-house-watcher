@@ -1,5 +1,7 @@
 # JKK / UR House Watcher
 
+[中文](README.md) | [English](README.en.md) | [日本語](README.ja.md)
+
 一个用于监测东京 JKK 与 UR 房源的轻量工具。它会定时查询公开网页，记录房源的出现与消失，并只把值得人工确认的结果发送到 Slack。
 
 这个仓库的云端模式是“定时查询 + 状态保存 + Slack 通知”，不会登录 JKK/UR，也不会自动申请房源。
