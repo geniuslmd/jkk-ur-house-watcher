@@ -87,13 +87,30 @@
         "name": "赤羽北二丁目",
         "place": "北区赤羽北2-15",
         "traffic": "JR埼京線「北赤羽」駅 徒歩6～7分",
-        "room_count": 1,
+        "room_count": 2,
         "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800.html",
         "shisya": "20",
         "danchi": "280",
         "shikibetu": "0",
         "is_target": false,
         "rooms": [
+          {
+            "building": "1号棟",
+            "room_no": "403号室",
+            "layout": "1LDK",
+            "floor_area_m2": "48m2",
+            "floor": "4階",
+            "rent_yen": "116,400円",
+            "common_fee_yen": "4,000円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000010403",
+            "stable_id": "ur_d25ec9c230d10b7e",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          },
           {
             "building": "1号棟",
             "room_no": "1230号室",
@@ -132,16 +149,16 @@
       }
     },
     "first_seen_at": "2026-07-10T09:11:42",
-    "last_seen_at": "2026-07-12T09:30:03",
+    "last_seen_at": "2026-07-12T10:58:17",
     "current_appearance_started_at": "2026-07-12T07:37:25",
     "disappeared_at": null,
-    "lifetime_minutes": 112.6,
+    "lifetime_minutes": 200.9,
     "appearance_count": 2,
-    "consecutive_seen_count": 2,
-    "total_seen_checks": 3,
-    "current_status": "reappeared",
+    "consecutive_seen_count": 3,
+    "total_seen_checks": 4,
+    "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260712_093003",
+    "last_snapshot_id": "snapshot_20260712_105817",
     "appearances": [
       {
         "start": "2026-07-10T09:11:42",
@@ -310,16 +327,16 @@
       }
     },
     "first_seen_at": "2026-07-12T07:37:25",
-    "last_seen_at": "2026-07-12T09:30:03",
+    "last_seen_at": "2026-07-12T10:58:17",
     "current_appearance_started_at": "2026-07-12T07:37:25",
     "disappeared_at": null,
-    "lifetime_minutes": 112.6,
+    "lifetime_minutes": 200.9,
     "appearance_count": 1,
-    "consecutive_seen_count": 2,
-    "total_seen_checks": 2,
-    "current_status": "new",
+    "consecutive_seen_count": 3,
+    "total_seen_checks": 3,
+    "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260712_093003",
+    "last_snapshot_id": "snapshot_20260712_105817",
     "appearances": [
       {
         "start": "2026-07-12T07:37:25",
@@ -330,6 +347,108 @@
     "quick_tags": [
       "参考向",
       "低价"
+    ]
+  },
+  "ur_d25ec9c230d10b7e": {
+    "stable_id": "ur_d25ec9c230d10b7e",
+    "source": "UR",
+    "official_id": "ur:20:280:0:https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000010403",
+    "building_name": "赤羽北二丁目",
+    "room_no": "1号棟 403号室",
+    "layout": "1LDK",
+    "area": "48m2",
+    "rent": "116,400円",
+    "common_fee": "4,000円",
+    "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000010403",
+    "is_high_priority": false,
+    "source_label": "UR",
+    "action_hint": "发现参考房源，请关注户型/价格/楼层；如需行动，请电话或线下确认。",
+    "raw": {
+      "listing": {
+        "name": "赤羽北二丁目",
+        "place": "北区赤羽北2-15",
+        "traffic": "JR埼京線「北赤羽」駅 徒歩6～7分",
+        "room_count": 2,
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800.html",
+        "shisya": "20",
+        "danchi": "280",
+        "shikibetu": "0",
+        "is_target": false,
+        "rooms": [
+          {
+            "building": "1号棟",
+            "room_no": "403号室",
+            "layout": "1LDK",
+            "floor_area_m2": "48m2",
+            "floor": "4階",
+            "rent_yen": "116,400円",
+            "common_fee_yen": "4,000円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000010403",
+            "stable_id": "",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          },
+          {
+            "building": "1号棟",
+            "room_no": "1230号室",
+            "layout": "1LDK",
+            "floor_area_m2": "48m2",
+            "floor": "12階",
+            "rent_yen": "117,900円",
+            "common_fee_yen": "4,000円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000011230",
+            "stable_id": "",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          }
+        ]
+      },
+      "room": {
+        "building": "1号棟",
+        "room_no": "403号室",
+        "layout": "1LDK",
+        "floor_area_m2": "48m2",
+        "floor": "4階",
+        "rent_yen": "116,400円",
+        "common_fee_yen": "4,000円",
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000010403",
+        "stable_id": "",
+        "current_status": "",
+        "first_seen_at": "",
+        "last_seen_at": "",
+        "lifetime_minutes": 0.0,
+        "appearance_count": 0,
+        "quick_tags": null
+      }
+    },
+    "first_seen_at": "2026-07-12T10:58:17",
+    "last_seen_at": "2026-07-12T10:58:17",
+    "current_appearance_started_at": "2026-07-12T10:58:17",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260712_105817",
+    "appearances": [
+      {
+        "start": "2026-07-12T10:58:17",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "参考向"
     ]
   }
 }

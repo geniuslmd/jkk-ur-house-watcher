@@ -1,11 +1,10 @@
 {
-  "boost_until": "2026-07-12T07:57:25",
+  "boost_until": "2026-07-12T11:18:17",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
     "UR:北区总空室上升",
-    "UR:豊島五丁目",
     "UR:赤羽北二丁目"
   ],
-  "last_ur_total_vacancies": 2,
-  "updated_at": "2026-07-12T09:30:03"
+  "last_ur_total_vacancies": 3,
+  "updated_at": "2026-07-12T10:58:17"
 }
