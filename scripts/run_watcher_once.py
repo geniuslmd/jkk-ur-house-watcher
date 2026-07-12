@@ -82,6 +82,38 @@ def run_test_slack() -> int:
     return 0 if ok else 1
 
 
+def build_daily_heartbeat_payload(report: object, summary: dict) -> dict:
+    ur_report = getattr(report, "ur_report", None)
+    jkk_total = getattr(report, "total_count", None)
+    ur_total = getattr(ur_report, "total_vacancies", None) if ur_report else None
+    checked_at = summary.get("checked_at") or getattr(report, "checked_at", "-")
+    text = (
+        f"House watcher daily check: JKK {jkk_total if jkk_total is not None else '-'} / "
+        f"UR Kita vacancies {ur_total if ur_total is not None else '-'}"
+    )
+    return {
+        "text": text,
+        "blocks": [
+            {
+                "type": "header",
+                "text": {"type": "plain_text", "text": "House watcher daily check"},
+            },
+            {
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": (
+                        f"Monitoring is running.\n"
+                        f"*Checked:* {checked_at}\n"
+                        f"*JKK listings:* {jkk_total if jkk_total is not None else '-'}\n"
+                        f"*UR Kita vacancies:* {ur_total if ur_total is not None else '-'}"
+                    ),
+                },
+            },
+        ],
+    }
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Run house watcher once and optionally notify Slack.")
     parser.add_argument("--data-dir", type=Path, default=PROJECT_ROOT, help="Base directory for watcher data.")
@@ -117,6 +149,11 @@ def main() -> int:
     parser.add_argument("--dry-run-slack", action="store_true", help="Print Slack payload instead of sending.")
     parser.add_argument("--no-slack", action="store_true", help="Do not send Slack even when candidates exist.")
     parser.add_argument("--test-slack", action="store_true", help="Send a small Slack test message and exit.")
+    parser.add_argument(
+        "--daily-heartbeat",
+        action="store_true",
+        help="Send one compact monitoring summary after this run.",
+    )
     args = parser.parse_args()
 
     if args.test_slack:
@@ -136,6 +173,7 @@ def main() -> int:
 
     slack_configured = bool(os.environ.get("SLACK_WEBHOOK_URL"))
     slack_sent = False
+    heartbeat_sent = False
     if candidates and not args.no_slack:
         if args.dry_run_slack:
             print(json.dumps(build_slack_payload(candidates, summary), ensure_ascii=False, indent=2))
@@ -147,6 +185,8 @@ def main() -> int:
                     candidates,
                     summary.get("checked_at") or report.checked_at,
                 )
+    if args.daily_heartbeat and not args.no_slack:
+        heartbeat_sent = send_slack_message(build_daily_heartbeat_payload(report, summary))
     save_notification_state(args.notification_state, notification_state)
 
     run_summary = {
@@ -158,6 +198,7 @@ def main() -> int:
         "slack_skipped": len(skipped),
         "slack_configured": slack_configured,
         "slack_sent": slack_sent,
+        "heartbeat_sent": heartbeat_sent,
         "dry_run_slack": bool(args.dry_run_slack),
         "candidate_ids": [item.get("stable_id") for item in candidates],
         "skipped": [

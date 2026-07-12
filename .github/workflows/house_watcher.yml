@@ -9,10 +9,11 @@ on:
         default: false
         type: boolean
   schedule:
-    # GitHub cron uses UTC. This is Mon-Fri 09:00-18:50 Japan time.
-    # For every 5 minutes, change */10 to */5.
-    # For a shorter window, adjust the UTC hour range. JST = UTC + 9.
-    - cron: "*/10 0-9 * * 1-5"
+    # GitHub cron uses UTC. These run every day, JST 09:00-18:50.
+    # 09:00 JST sends one compact daily Slack heartbeat; the other checks are quiet
+    # unless an actionable listing is found. JST = UTC + 9.
+    - cron: "0 0 * * *"
+    - cron: "10-59/10 0-9 * * *"
 
 permissions:
   contents: write
@@ -49,6 +50,8 @@ jobs:
         run: |
           if [ "${{ inputs.test_slack }}" = "true" ]; then
             python scripts/run_watcher_once.py --test-slack
+          elif [ "${{ github.event.schedule }}" = "0 0 * * *" ]; then
+            python scripts/run_watcher_once.py --daily-heartbeat
           else
             python scripts/run_watcher_once.py
           fi
