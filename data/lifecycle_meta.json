@@ -1,12 +1,11 @@
 {
-  "boost_until": "2026-07-10T09:31:42",
+  "boost_until": "2026-07-12T07:57:25",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "JKK:宇喜田第二",
     "UR:北区总空室上升",
-    "UR:赤羽北二丁目",
-    "UR:赤羽北二丁目ハイツ"
+    "UR:豊島五丁目",
+    "UR:赤羽北二丁目"
   ],
-  "last_ur_total_vacancies": 0,
-  "updated_at": "2026-07-10T11:32:38"
+  "last_ur_total_vacancies": 2,
+  "updated_at": "2026-07-12T07:37:25"
 }

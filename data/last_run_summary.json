@@ -1,30 +1,31 @@
 {
-  "checked_at": "2026-07-10T11:32:38",
-  "jkk_total": 4,
-  "ur_total_vacancies": 0,
+  "checked_at": "2026-07-12T07:37:25",
+  "jkk_total": 3,
+  "ur_total_vacancies": 2,
   "new_events": 3,
   "slack_candidates": 0,
   "slack_skipped": 3,
   "slack_configured": true,
   "slack_sent": false,
+  "heartbeat_sent": false,
   "dry_run_slack": false,
   "candidate_ids": [],
   "skipped": [
     {
-      "stable_id": "jkk_012809924aff6627",
-      "building_name": "宇喜田第二",
-      "event_type": "still_seen",
+      "stable_id": "ur_878adb457030193a",
+      "building_name": "豊島五丁目",
+      "event_type": "first_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_f3be7783c145dda5",
       "building_name": "赤羽北二丁目",
-      "event_type": "disappeared",
+      "event_type": "reappeared",
       "reason": "not_actionable"
     },
     {
-      "stable_id": "ur_3523889a0e02eff0",
-      "building_name": "赤羽北二丁目ハイツ",
+      "stable_id": "jkk_012809924aff6627",
+      "building_name": "宇喜田第二",
       "event_type": "disappeared",
       "reason": "not_actionable"
     }
