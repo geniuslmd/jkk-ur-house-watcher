@@ -25,6 +25,7 @@ __pycache__/
 .venv/
 .idea/
 .vscode/
+config/watch_rules.local.json
 
 # Personal Windows launchers reference a machine-specific Python runtime.
 JKK监控启动器.bat

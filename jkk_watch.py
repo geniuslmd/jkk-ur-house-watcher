@@ -2946,13 +2946,13 @@ def build_parser() -> argparse.ArgumentParser:
 def main(argv: list[str] | None = None) -> int:
     parser = build_parser()
     args = parser.parse_args(argv)
-    if not args.target:
-        args.target = DEFAULT_TARGETS[:]
-    if not args.exclude:
-        args.exclude = DEFAULT_EXCLUDES[:]
-    if not args.ur_target:
-        args.ur_target = DEFAULT_UR_TARGETS[:]
     args.rules = load_watch_rules(args.rules_file)
+    if not args.target:
+        args.target = list(args.rules.get("high_priority_jkk_names") or DEFAULT_TARGETS)
+    if not args.exclude:
+        args.exclude = list(args.rules.get("jkk_exclude_names") or DEFAULT_EXCLUDES)
+    if not args.ur_target:
+        args.ur_target = list(args.rules.get("high_priority_ur_names") or DEFAULT_UR_TARGETS)
     if args.interval == DEFAULT_INTERVAL_SECONDS:
         args.interval = int(args.rules.get("normal_interval_seconds", args.interval))
     if args.fast_interval == DEFAULT_FAST_INTERVAL_SECONDS:

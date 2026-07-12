@@ -1,0 +1,5 @@
+{
+  "high_priority_ur_names": ["Your UR target"],
+  "high_priority_jkk_names": ["Your JKK target A", "Your JKK target B"],
+  "jkk_exclude_names": ["Optional excluded JKK building"]
+}

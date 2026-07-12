@@ -34,9 +34,14 @@ def load_watch_rules(path: str | Path | None) -> dict[str, Any]:
     rules = json.loads(json.dumps(DEFAULT_RULES, ensure_ascii=False))
     if path:
         config_path = Path(path)
-        if config_path.exists():
+        for rules_path in (
+            config_path,
+            config_path.with_name(f"{config_path.stem}.local{config_path.suffix}"),
+        ):
+            if not rules_path.exists():
+                continue
             try:
-                user_rules = json.loads(config_path.read_text(encoding="utf-8"))
+                user_rules = json.loads(rules_path.read_text(encoding="utf-8"))
                 deep_update(rules, user_rules)
             except Exception:
                 pass
