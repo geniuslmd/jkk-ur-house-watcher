@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-07-13T07:35:55",
-  "jkk_total": 4,
-  "ur_total_vacancies": 4,
-  "new_events": 7,
+  "checked_at": "2026-07-13T10:42:51",
+  "jkk_total": 5,
+  "ur_total_vacancies": 5,
+  "new_events": 8,
   "slack_candidates": 0,
-  "slack_skipped": 7,
+  "slack_skipped": 8,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -12,21 +12,27 @@
   "candidate_ids": [],
   "skipped": [
     {
-      "stable_id": "jkk_2af168f761e61020",
-      "building_name": "コーシャハイム南葛西五丁目",
+      "stable_id": "jkk_012809924aff6627",
+      "building_name": "宇喜田第二",
+      "event_type": "reappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_11b299dc755d8d82",
+      "building_name": "春江町椿",
       "event_type": "first_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_3e2e14f6ee70fc8b",
       "building_name": "赤羽北二丁目",
-      "event_type": "stable",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_c0f7ce9031adda3a",
       "building_name": "赤羽北二丁目",
-      "event_type": "stable",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
@@ -36,20 +42,20 @@
       "reason": "not_actionable"
     },
     {
-      "stable_id": "ur_a35dc28e3fe5a92b",
-      "building_name": "赤羽南一丁目",
-      "event_type": "first_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_878adb457030193a",
-      "building_name": "豊島五丁目",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
       "stable_id": "ur_4994fa1158a0f7dc",
       "building_name": "豊島五丁目",
+      "event_type": "reappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "ur_a35dc28e3fe5a92b",
+      "building_name": "赤羽南一丁目",
+      "event_type": "still_seen",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_2af168f761e61020",
+      "building_name": "コーシャハイム南葛西五丁目",
       "event_type": "disappeared",
       "reason": "not_actionable"
     }
