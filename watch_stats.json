@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-07-14T08:27:15",
-  "total_checks": 13,
+  "updated_at": "2026-07-14T10:20:49",
+  "total_checks": 14,
   "buckets": {
     "09:00": {
       "checks": 2,
@@ -105,20 +105,20 @@
       }
     },
     "10:00": {
-      "checks": 2,
-      "candidate_checks": 1,
+      "checks": 3,
+      "candidate_checks": 2,
       "target_checks": 0,
-      "listing_rows": 8,
-      "candidate_rows": 2,
+      "listing_rows": 12,
+      "candidate_rows": 3,
       "target_rows": 0,
-      "last_checked_at": "2026-07-13T10:42:51",
-      "last_candidate_at": "2026-07-13T10:42:51",
+      "last_checked_at": "2026-07-14T10:20:45",
+      "last_candidate_at": "2026-07-14T10:20:45",
       "last_target_at": null,
       "last_candidate_names": [
-        "宇喜田第二",
-        "春江町椿"
+        "コーシャハイム小竹町"
       ],
       "candidate_names_seen": [
+        "コーシャハイム小竹町",
         "宇喜田第二",
         "春江町椿"
       ],
@@ -149,6 +149,20 @@
           "building_year_label": "竣工年月日 1976/10/31",
           "first_seen_at": "2026-07-13T10:42:51",
           "last_seen_at": "2026-07-13T10:42:51",
+          "seen_count": 1
+        },
+        "コーシャハイム小竹町|練馬区|２Ｋ|40.09|109,700|5,900": {
+          "name": "コーシャハイム小竹町",
+          "area": "練馬区",
+          "layout": "２Ｋ",
+          "floor_area_m2": "40.09",
+          "rent_yen": "109,700",
+          "common_fee_yen": "5,900",
+          "units": "1",
+          "building_year": 2009,
+          "building_year_label": "竣工年月日 2009/02/17",
+          "first_seen_at": "2026-07-14T10:20:45",
+          "last_seen_at": "2026-07-14T10:20:45",
           "seen_count": 1
         }
       }
