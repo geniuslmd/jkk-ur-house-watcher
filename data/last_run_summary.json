@@ -1,13 +1,13 @@
 {
-  "checked_at": "2026-07-14T03:17:02",
+  "checked_at": "2026-07-14T03:31:22",
   "jkk_total": 3,
   "ur_total_vacancies": 4,
-  "new_events": 7,
+  "new_events": 4,
   "slack_candidates": 0,
-  "slack_skipped": 7,
+  "slack_skipped": 4,
   "slack_configured": true,
   "slack_sent": false,
-  "heartbeat_sent": true,
+  "heartbeat_sent": false,
   "dry_run_slack": false,
   "candidate_ids": [],
   "skipped": [
@@ -32,25 +32,7 @@
     {
       "stable_id": "ur_4994fa1158a0f7dc",
       "building_name": "豊島五丁目",
-      "event_type": "still_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_012809924aff6627",
-      "building_name": "宇喜田第二",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_a35dc28e3fe5a92b",
-      "building_name": "赤羽南一丁目",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_11b299dc755d8d82",
-      "building_name": "春江町椿",
-      "event_type": "disappeared",
+      "event_type": "stable",
       "reason": "not_actionable"
     }
   ]
