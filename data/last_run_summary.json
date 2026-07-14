@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-07-14T03:31:22",
-  "jkk_total": 3,
+  "checked_at": "2026-07-14T05:56:03",
+  "jkk_total": 4,
   "ur_total_vacancies": 4,
-  "new_events": 4,
+  "new_events": 6,
   "slack_candidates": 0,
-  "slack_skipped": 4,
+  "slack_skipped": 6,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -12,13 +12,19 @@
   "candidate_ids": [],
   "skipped": [
     {
-      "stable_id": "ur_3e2e14f6ee70fc8b",
-      "building_name": "赤羽北二丁目",
-      "event_type": "still_seen",
+      "stable_id": "jkk_2af168f761e61020",
+      "building_name": "コーシャハイム南葛西五丁目",
+      "event_type": "reappeared",
       "reason": "not_actionable"
     },
     {
-      "stable_id": "ur_c0f7ce9031adda3a",
+      "stable_id": "ur_f1ea058cae058faa",
+      "building_name": "赤羽北二丁目",
+      "event_type": "first_seen",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "ur_3e2e14f6ee70fc8b",
       "building_name": "赤羽北二丁目",
       "event_type": "still_seen",
       "reason": "not_actionable"
@@ -32,7 +38,13 @@
     {
       "stable_id": "ur_4994fa1158a0f7dc",
       "building_name": "豊島五丁目",
-      "event_type": "stable",
+      "event_type": "still_seen",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "ur_c0f7ce9031adda3a",
+      "building_name": "赤羽北二丁目",
+      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]

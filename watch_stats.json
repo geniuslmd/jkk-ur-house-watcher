@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-07-14T03:31:25",
-  "total_checks": 11,
+  "updated_at": "2026-07-14T05:56:06",
+  "total_checks": 12,
   "buckets": {
     "09:00": {
       "checks": 2,
@@ -166,6 +166,39 @@
       "last_candidate_names": [],
       "candidate_names_seen": [],
       "candidate_seen": {}
+    },
+    "05:00": {
+      "checks": 1,
+      "candidate_checks": 1,
+      "target_checks": 0,
+      "listing_rows": 4,
+      "candidate_rows": 1,
+      "target_rows": 0,
+      "last_checked_at": "2026-07-14T05:56:03",
+      "last_candidate_at": "2026-07-14T05:56:03",
+      "last_target_at": null,
+      "last_candidate_names": [
+        "コーシャハイム南葛西五丁目"
+      ],
+      "candidate_names_seen": [
+        "コーシャハイム南葛西五丁目"
+      ],
+      "candidate_seen": {
+        "コーシャハイム南葛西五丁目|江戸川区|３ＤＫ|60.47|89,000|3,100": {
+          "name": "コーシャハイム南葛西五丁目",
+          "area": "江戸川区",
+          "layout": "３ＤＫ",
+          "floor_area_m2": "60.47",
+          "rent_yen": "89,000",
+          "common_fee_yen": "3,100",
+          "units": "1",
+          "building_year": 1986,
+          "building_year_label": "竣工年月日 1986/03/25",
+          "first_seen_at": "2026-07-14T05:56:03",
+          "last_seen_at": "2026-07-14T05:56:03",
+          "seen_count": 1
+        }
+      }
     }
   }
 }
