@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-07-14T05:56:06",
-  "total_checks": 12,
+  "updated_at": "2026-07-14T08:27:15",
+  "total_checks": 13,
   "buckets": {
     "09:00": {
       "checks": 2,
@@ -196,6 +196,87 @@
           "building_year_label": "竣工年月日 1986/03/25",
           "first_seen_at": "2026-07-14T05:56:03",
           "last_seen_at": "2026-07-14T05:56:03",
+          "seen_count": 1
+        }
+      }
+    },
+    "08:00": {
+      "checks": 1,
+      "candidate_checks": 1,
+      "target_checks": 0,
+      "listing_rows": 7,
+      "candidate_rows": 4,
+      "target_rows": 0,
+      "last_checked_at": "2026-07-14T08:27:09",
+      "last_candidate_at": "2026-07-14T08:27:09",
+      "last_target_at": null,
+      "last_candidate_names": [
+        "コーシャハイム小竹町",
+        "コーシャハイム緑四丁目",
+        "西台",
+        "越中島"
+      ],
+      "candidate_names_seen": [
+        "コーシャハイム小竹町",
+        "コーシャハイム緑四丁目",
+        "西台",
+        "越中島"
+      ],
+      "candidate_seen": {
+        "コーシャハイム緑四丁目|墨田区|３ＤＫ|60.8|143,800|4,000": {
+          "name": "コーシャハイム緑四丁目",
+          "area": "墨田区",
+          "layout": "３ＤＫ",
+          "floor_area_m2": "60.8",
+          "rent_yen": "143,800",
+          "common_fee_yen": "4,000",
+          "units": "1",
+          "building_year": 1991,
+          "building_year_label": "竣工年月日 1991/10/22",
+          "first_seen_at": "2026-07-14T08:27:09",
+          "last_seen_at": "2026-07-14T08:27:09",
+          "seen_count": 1
+        },
+        "越中島|江東区|２ＤＫ|41.25|86,400|3,300": {
+          "name": "越中島",
+          "area": "江東区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "41.25",
+          "rent_yen": "86,400",
+          "common_fee_yen": "3,300",
+          "units": "1",
+          "building_year": 1972,
+          "building_year_label": "竣工年月日 1972/09/15",
+          "first_seen_at": "2026-07-14T08:27:09",
+          "last_seen_at": "2026-07-14T08:27:09",
+          "seen_count": 1
+        },
+        "西台|板橋区|３ＤＫ|43.21|69,100|3,000": {
+          "name": "西台",
+          "area": "板橋区",
+          "layout": "３ＤＫ",
+          "floor_area_m2": "43.21",
+          "rent_yen": "69,100",
+          "common_fee_yen": "3,000",
+          "units": "1",
+          "building_year": 1972,
+          "building_year_label": "竣工年月日 1972/12/05",
+          "first_seen_at": "2026-07-14T08:27:09",
+          "last_seen_at": "2026-07-14T08:27:09",
+          "seen_count": 1
+        },
+        "コーシャハイム小竹町|練馬区|２Ｋ|40.09|109,700|5,900": {
+          "name": "コーシャハイム小竹町",
+          "area": "練馬区",
+          "layout": "２Ｋ",
+          "floor_area_m2": "40.09",
+          "rent_yen": "109,700",
+          "common_fee_yen": "5,900",
+          "units": "1",
+          "building_year": 2009,
+          "building_year_label": "竣工年月日 2009/02/17",
+          "first_seen_at": "2026-07-14T08:27:09",
+          "last_seen_at": "2026-07-14T08:27:09",
           "seen_count": 1
         }
       }
