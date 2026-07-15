@@ -1,26 +1,20 @@
 {
-  "checked_at": "2026-07-14T10:20:45",
-  "jkk_total": 4,
+  "checked_at": "2026-07-15T03:16:33",
+  "jkk_total": 3,
   "ur_total_vacancies": 4,
-  "new_events": 9,
+  "new_events": 5,
   "slack_candidates": 0,
-  "slack_skipped": 9,
+  "slack_skipped": 5,
   "slack_configured": true,
   "slack_sent": false,
-  "heartbeat_sent": false,
+  "heartbeat_sent": true,
   "dry_run_slack": false,
   "candidate_ids": [],
   "skipped": [
     {
-      "stable_id": "jkk_43c4afe5a60dd28f",
-      "building_name": "コーシャハイム小竹町",
-      "event_type": "still_seen",
-      "reason": "not_actionable"
-    },
-    {
       "stable_id": "ur_f1ea058cae058faa",
       "building_name": "赤羽北二丁目",
-      "event_type": "stable",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
@@ -32,7 +26,7 @@
     {
       "stable_id": "ur_c0f7ce9031adda3a",
       "building_name": "赤羽北二丁目",
-      "event_type": "still_seen",
+      "event_type": "stable",
       "reason": "not_actionable"
     },
     {
@@ -42,26 +36,8 @@
       "reason": "not_actionable"
     },
     {
-      "stable_id": "jkk_1175e33dd0e7b8b2",
-      "building_name": "コーシャハイム緑四丁目",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_ab6ae96c516f122a",
-      "building_name": "越中島",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_b820e44af5e44d6a",
-      "building_name": "西台",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_50e68d12504308f5",
-      "building_name": "赤羽北二丁目",
+      "stable_id": "jkk_43c4afe5a60dd28f",
+      "building_name": "コーシャハイム小竹町",
       "event_type": "disappeared",
       "reason": "not_actionable"
     }
