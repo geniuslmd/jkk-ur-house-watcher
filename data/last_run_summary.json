@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-15T10:27:57",
+  "checked_at": "2026-07-16T03:23:12",
   "jkk_total": 3,
   "ur_total_vacancies": 4,
   "new_events": 4,
@@ -7,7 +7,7 @@
   "slack_skipped": 4,
   "slack_configured": true,
   "slack_sent": false,
-  "heartbeat_sent": false,
+  "heartbeat_sent": true,
   "dry_run_slack": false,
   "candidate_ids": [],
   "skipped": [
