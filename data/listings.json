@@ -634,7 +634,7 @@
         "name": "赤羽北二丁目",
         "place": "北区赤羽北2-15",
         "traffic": "JR埼京線「北赤羽」駅 徒歩6～7分",
-        "room_count": 3,
+        "room_count": 2,
         "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800.html",
         "shisya": "20",
         "danchi": "280",
@@ -651,23 +651,6 @@
             "common_fee_yen": "4,000円",
             "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000010311",
             "stable_id": "ur_f1ea058cae058faa",
-            "current_status": "",
-            "first_seen_at": "",
-            "last_seen_at": "",
-            "lifetime_minutes": 0.0,
-            "appearance_count": 0,
-            "quick_tags": null
-          },
-          {
-            "building": "1号棟",
-            "room_no": "316号室",
-            "layout": "1LDK",
-            "floor_area_m2": "48m2",
-            "floor": "3階",
-            "rent_yen": "117,900円",
-            "common_fee_yen": "4,000円",
-            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000010316",
-            "stable_id": "ur_3e2e14f6ee70fc8b",
             "current_status": "",
             "first_seen_at": "",
             "last_seen_at": "",
@@ -713,16 +696,16 @@
       }
     },
     "first_seen_at": "2026-07-13T03:41:27",
-    "last_seen_at": "2026-07-16T03:23:12",
-    "current_appearance_started_at": "2026-07-14T08:27:09",
-    "disappeared_at": "2026-07-16T03:34:52",
-    "lifetime_minutes": 2587.7,
-    "appearance_count": 2,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 14,
-    "current_status": "disappeared",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260716_033452",
+    "last_seen_at": "2026-07-16T06:04:02",
+    "current_appearance_started_at": "2026-07-16T06:04:02",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 3,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 15,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260716_060402",
     "appearances": [
       {
         "start": "2026-07-13T03:41:27",
@@ -735,6 +718,11 @@
         "end": "2026-07-16T03:34:52",
         "status": "disappeared",
         "lifetime_minutes": 2587.7
+      },
+      {
+        "start": "2026-07-16T06:04:02",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
@@ -806,16 +794,16 @@
       }
     },
     "first_seen_at": "2026-07-13T03:41:27",
-    "last_seen_at": "2026-07-16T03:23:12",
-    "current_appearance_started_at": "2026-07-13T10:42:51",
-    "disappeared_at": "2026-07-16T03:34:52",
-    "lifetime_minutes": 3892.0,
-    "appearance_count": 2,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 14,
-    "current_status": "disappeared",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260716_033452",
+    "last_seen_at": "2026-07-16T06:04:02",
+    "current_appearance_started_at": "2026-07-16T06:04:02",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 3,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 15,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260716_060402",
     "appearances": [
       {
         "start": "2026-07-13T03:41:27",
@@ -828,6 +816,11 @@
         "end": "2026-07-16T03:34:52",
         "status": "disappeared",
         "lifetime_minutes": 3892.0
+      },
+      {
+        "start": "2026-07-16T06:04:02",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
@@ -1088,7 +1081,7 @@
         "name": "赤羽北二丁目",
         "place": "北区赤羽北2-15",
         "traffic": "JR埼京線「北赤羽」駅 徒歩6～7分",
-        "room_count": 3,
+        "room_count": 2,
         "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800.html",
         "shisya": "20",
         "danchi": "280",
@@ -1104,23 +1097,6 @@
             "rent_yen": "117,900円",
             "common_fee_yen": "4,000円",
             "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000010311",
-            "stable_id": "",
-            "current_status": "",
-            "first_seen_at": "",
-            "last_seen_at": "",
-            "lifetime_minutes": 0.0,
-            "appearance_count": 0,
-            "quick_tags": null
-          },
-          {
-            "building": "1号棟",
-            "room_no": "316号室",
-            "layout": "1LDK",
-            "floor_area_m2": "48m2",
-            "floor": "3階",
-            "rent_yen": "117,900円",
-            "common_fee_yen": "4,000円",
-            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000010316",
             "stable_id": "",
             "current_status": "",
             "first_seen_at": "",
@@ -1167,26 +1143,32 @@
       }
     },
     "first_seen_at": "2026-07-14T05:56:03",
-    "last_seen_at": "2026-07-16T03:23:12",
-    "current_appearance_started_at": "2026-07-14T05:56:03",
-    "disappeared_at": "2026-07-16T03:34:52",
-    "lifetime_minutes": 2738.8,
-    "appearance_count": 1,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 9,
-    "current_status": "disappeared",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260716_033452",
+    "last_seen_at": "2026-07-16T06:04:02",
+    "current_appearance_started_at": "2026-07-16T06:04:02",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 2,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 10,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260716_060402",
     "appearances": [
       {
         "start": "2026-07-14T05:56:03",
         "end": "2026-07-16T03:34:52",
         "status": "disappeared",
         "lifetime_minutes": 2738.8
+      },
+      {
+        "start": "2026-07-16T06:04:02",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
-      "参考向"
+      "参考向",
+      "重复出现"
     ]
   },
   "jkk_1175e33dd0e7b8b2": {
