@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-07-16T08:32:45",
+  "checked_at": "2026-07-16T10:34:30",
   "jkk_total": 3,
-  "ur_total_vacancies": 2,
+  "ur_total_vacancies": 3,
   "new_events": 3,
   "slack_candidates": 0,
   "slack_skipped": 3,
@@ -14,19 +14,19 @@
     {
       "stable_id": "ur_f1ea058cae058faa",
       "building_name": "赤羽北二丁目",
-      "event_type": "still_seen",
+      "event_type": "stable",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_c0f7ce9031adda3a",
       "building_name": "赤羽北二丁目",
-      "event_type": "still_seen",
+      "event_type": "stable",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_4994fa1158a0f7dc",
       "building_name": "豊島五丁目",
-      "event_type": "disappeared",
+      "event_type": "reappeared",
       "reason": "not_actionable"
     }
   ]
