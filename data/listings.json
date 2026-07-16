@@ -595,19 +595,20 @@
     "first_seen_at": "2026-07-13T03:41:27",
     "last_seen_at": "2026-07-16T03:23:12",
     "current_appearance_started_at": "2026-07-13T03:41:27",
-    "disappeared_at": null,
-    "lifetime_minutes": 4301.8,
+    "disappeared_at": "2026-07-16T03:34:52",
+    "lifetime_minutes": 4313.4,
     "appearance_count": 1,
-    "consecutive_seen_count": 15,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 15,
-    "current_status": "stable",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260716_032312",
+    "current_status": "disappeared",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260716_033452",
     "appearances": [
       {
         "start": "2026-07-13T03:41:27",
-        "end": null,
-        "status": "active"
+        "end": "2026-07-16T03:34:52",
+        "status": "disappeared",
+        "lifetime_minutes": 4313.4
       }
     ],
     "quick_tags": [
@@ -714,14 +715,14 @@
     "first_seen_at": "2026-07-13T03:41:27",
     "last_seen_at": "2026-07-16T03:23:12",
     "current_appearance_started_at": "2026-07-14T08:27:09",
-    "disappeared_at": null,
-    "lifetime_minutes": 2576.1,
+    "disappeared_at": "2026-07-16T03:34:52",
+    "lifetime_minutes": 2587.7,
     "appearance_count": 2,
-    "consecutive_seen_count": 8,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 14,
-    "current_status": "stable",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260716_032312",
+    "current_status": "disappeared",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260716_033452",
     "appearances": [
       {
         "start": "2026-07-13T03:41:27",
@@ -731,8 +732,9 @@
       },
       {
         "start": "2026-07-14T08:27:09",
-        "end": null,
-        "status": "active"
+        "end": "2026-07-16T03:34:52",
+        "status": "disappeared",
+        "lifetime_minutes": 2587.7
       }
     ],
     "quick_tags": [
@@ -806,14 +808,14 @@
     "first_seen_at": "2026-07-13T03:41:27",
     "last_seen_at": "2026-07-16T03:23:12",
     "current_appearance_started_at": "2026-07-13T10:42:51",
-    "disappeared_at": null,
-    "lifetime_minutes": 3880.3,
+    "disappeared_at": "2026-07-16T03:34:52",
+    "lifetime_minutes": 3892.0,
     "appearance_count": 2,
-    "consecutive_seen_count": 12,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 14,
-    "current_status": "stable",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260716_032312",
+    "current_status": "disappeared",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260716_033452",
     "appearances": [
       {
         "start": "2026-07-13T03:41:27",
@@ -823,8 +825,9 @@
       },
       {
         "start": "2026-07-13T10:42:51",
-        "end": null,
-        "status": "active"
+        "end": "2026-07-16T03:34:52",
+        "status": "disappeared",
+        "lifetime_minutes": 3892.0
       }
     ],
     "quick_tags": [
@@ -1166,19 +1169,20 @@
     "first_seen_at": "2026-07-14T05:56:03",
     "last_seen_at": "2026-07-16T03:23:12",
     "current_appearance_started_at": "2026-07-14T05:56:03",
-    "disappeared_at": null,
-    "lifetime_minutes": 2727.2,
+    "disappeared_at": "2026-07-16T03:34:52",
+    "lifetime_minutes": 2738.8,
     "appearance_count": 1,
-    "consecutive_seen_count": 9,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 9,
-    "current_status": "stable",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260716_032312",
+    "current_status": "disappeared",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260716_033452",
     "appearances": [
       {
         "start": "2026-07-14T05:56:03",
-        "end": null,
-        "status": "active"
+        "end": "2026-07-16T03:34:52",
+        "status": "disappeared",
+        "lifetime_minutes": 2738.8
       }
     ],
     "quick_tags": [
