@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-17T06:04:27",
+  "checked_at": "2026-07-17T08:27:07",
   "jkk_total": 3,
   "ur_total_vacancies": 4,
   "new_events": 4,
@@ -14,25 +14,25 @@
     {
       "stable_id": "ur_3e2e14f6ee70fc8b",
       "building_name": "赤羽北二丁目",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_c0f7ce9031adda3a",
       "building_name": "赤羽北二丁目",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_50e68d12504308f5",
       "building_name": "赤羽北二丁目",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_8a43bf06839984f0",
       "building_name": "フレーシェル王子神谷",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     }
   ]
