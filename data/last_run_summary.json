@@ -1,13 +1,13 @@
 {
-  "checked_at": "2026-07-18T03:15:07",
+  "checked_at": "2026-07-18T03:29:03",
   "jkk_total": 3,
   "ur_total_vacancies": 6,
-  "new_events": 7,
+  "new_events": 6,
   "slack_candidates": 0,
-  "slack_skipped": 7,
+  "slack_skipped": 6,
   "slack_configured": true,
   "slack_sent": false,
-  "heartbeat_sent": true,
+  "heartbeat_sent": false,
   "dry_run_slack": false,
   "candidate_ids": [],
   "skipped": [
@@ -26,7 +26,7 @@
     {
       "stable_id": "ur_b1fc642d1e11286e",
       "building_name": "赤羽北二丁目",
-      "event_type": "first_seen",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
@@ -38,19 +38,13 @@
     {
       "stable_id": "ur_a8d7d7e13769f540",
       "building_name": "豊島五丁目",
-      "event_type": "first_seen",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_677172bfb66f3473",
       "building_name": "神谷堀公園ハイツ",
-      "event_type": "first_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_8a43bf06839984f0",
-      "building_name": "フレーシェル王子神谷",
-      "event_type": "disappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     }
   ]
