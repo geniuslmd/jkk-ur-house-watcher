@@ -1,27 +1,14 @@
 {
-  "checked_at": "2026-07-18T07:38:08",
+  "checked_at": "2026-07-18T09:11:27",
   "jkk_total": 3,
   "ur_total_vacancies": 0,
-  "new_events": 2,
+  "new_events": 0,
   "slack_candidates": 0,
-  "slack_skipped": 2,
+  "slack_skipped": 0,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
   "dry_run_slack": false,
   "candidate_ids": [],
-  "skipped": [
-    {
-      "stable_id": "jkk_f59b2b32671d80a0",
-      "building_name": "トミンタワー台場一番街",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_d57ad729fc64ca15",
-      "building_name": "コーシャハイム光が丘第二",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    }
-  ]
+  "skipped": []
 }
