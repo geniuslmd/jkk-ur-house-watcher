@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-07-18T05:49:45",
-  "jkk_total": 5,
+  "checked_at": "2026-07-18T07:38:08",
+  "jkk_total": 3,
   "ur_total_vacancies": 0,
-  "new_events": 8,
+  "new_events": 2,
   "slack_candidates": 0,
-  "slack_skipped": 8,
+  "slack_skipped": 2,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -14,48 +14,12 @@
     {
       "stable_id": "jkk_f59b2b32671d80a0",
       "building_name": "トミンタワー台場一番街",
-      "event_type": "first_seen",
+      "event_type": "disappeared",
       "reason": "not_actionable"
     },
     {
       "stable_id": "jkk_d57ad729fc64ca15",
       "building_name": "コーシャハイム光が丘第二",
-      "event_type": "first_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_3e2e14f6ee70fc8b",
-      "building_name": "赤羽北二丁目",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_c0f7ce9031adda3a",
-      "building_name": "赤羽北二丁目",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_50e68d12504308f5",
-      "building_name": "赤羽北二丁目",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_b1fc642d1e11286e",
-      "building_name": "赤羽北二丁目",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_a8d7d7e13769f540",
-      "building_name": "豊島五丁目",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_677172bfb66f3473",
-      "building_name": "神谷堀公園ハイツ",
       "event_type": "disappeared",
       "reason": "not_actionable"
     }
