@@ -45,16 +45,16 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-10T09:11:42",
-    "last_seen_at": "2026-07-21T03:29:46",
+    "last_seen_at": "2026-07-21T03:43:01",
     "current_appearance_started_at": "2026-07-21T03:29:46",
     "disappeared_at": null,
-    "lifetime_minutes": 0.0,
+    "lifetime_minutes": 13.2,
     "appearance_count": 3,
-    "consecutive_seen_count": 1,
-    "total_seen_checks": 4,
+    "consecutive_seen_count": 2,
+    "total_seen_checks": 5,
     "current_status": "reappeared",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260721_032946",
+    "last_snapshot_id": "snapshot_20260721_034301",
     "appearances": [
       {
         "start": "2026-07-10T09:11:42",
@@ -663,7 +663,7 @@
         "name": "赤羽北二丁目",
         "place": "北区赤羽北2-15",
         "traffic": "JR埼京線「北赤羽」駅 徒歩6～7分",
-        "room_count": 3,
+        "room_count": 2,
         "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800.html",
         "shisya": "20",
         "danchi": "280",
@@ -703,23 +703,6 @@
             "lifetime_minutes": 0.0,
             "appearance_count": 0,
             "quick_tags": null
-          },
-          {
-            "building": "2号棟",
-            "room_no": "508号室",
-            "layout": "3DK",
-            "floor_area_m2": "67m2",
-            "floor": "5階",
-            "rent_yen": "151,100円",
-            "common_fee_yen": "4,000円",
-            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000020508",
-            "stable_id": "",
-            "current_status": "",
-            "first_seen_at": "",
-            "last_seen_at": "",
-            "lifetime_minutes": 0.0,
-            "appearance_count": 0,
-            "quick_tags": null
           }
         ]
       },
@@ -742,16 +725,16 @@
       }
     },
     "first_seen_at": "2026-07-13T03:41:27",
-    "last_seen_at": "2026-07-21T03:29:46",
+    "last_seen_at": "2026-07-21T03:43:01",
     "current_appearance_started_at": "2026-07-21T03:29:46",
     "disappeared_at": null,
-    "lifetime_minutes": 0.0,
+    "lifetime_minutes": 13.2,
     "appearance_count": 5,
-    "consecutive_seen_count": 1,
-    "total_seen_checks": 24,
+    "consecutive_seen_count": 2,
+    "total_seen_checks": 25,
     "current_status": "reappeared",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260721_032946",
+    "last_snapshot_id": "snapshot_20260721_034301",
     "appearances": [
       {
         "start": "2026-07-13T03:41:27",
@@ -852,16 +835,16 @@
       }
     },
     "first_seen_at": "2026-07-13T03:41:27",
-    "last_seen_at": "2026-07-21T03:29:46",
+    "last_seen_at": "2026-07-21T03:43:01",
     "current_appearance_started_at": "2026-07-21T03:29:46",
     "disappeared_at": null,
-    "lifetime_minutes": 0.0,
+    "lifetime_minutes": 13.2,
     "appearance_count": 5,
-    "consecutive_seen_count": 1,
-    "total_seen_checks": 18,
+    "consecutive_seen_count": 2,
+    "total_seen_checks": 19,
     "current_status": "reappeared",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260721_032946",
+    "last_snapshot_id": "snapshot_20260721_034301",
     "appearances": [
       {
         "start": "2026-07-13T03:41:27",
@@ -1624,14 +1607,14 @@
     "first_seen_at": "2026-07-14T08:27:09",
     "last_seen_at": "2026-07-21T03:29:46",
     "current_appearance_started_at": "2026-07-21T03:29:46",
-    "disappeared_at": null,
-    "lifetime_minutes": 0.0,
+    "disappeared_at": "2026-07-21T03:43:01",
+    "lifetime_minutes": 13.2,
     "appearance_count": 3,
-    "consecutive_seen_count": 1,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 7,
-    "current_status": "reappeared",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260721_032946",
+    "current_status": "disappeared_fast",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260721_034301",
     "appearances": [
       {
         "start": "2026-07-14T08:27:09",
@@ -1647,8 +1630,9 @@
       },
       {
         "start": "2026-07-21T03:29:46",
-        "end": null,
-        "status": "active"
+        "end": "2026-07-21T03:43:01",
+        "status": "disappeared_fast",
+        "lifetime_minutes": 13.2
       }
     ],
     "quick_tags": [
@@ -2670,7 +2654,7 @@
         "name": "赤羽北二丁目",
         "place": "北区赤羽北2-15",
         "traffic": "JR埼京線「北赤羽」駅 徒歩6～7分",
-        "room_count": 3,
+        "room_count": 2,
         "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800.html",
         "shisya": "20",
         "danchi": "280",
@@ -2710,23 +2694,6 @@
             "lifetime_minutes": 0.0,
             "appearance_count": 0,
             "quick_tags": null
-          },
-          {
-            "building": "2号棟",
-            "room_no": "508号室",
-            "layout": "3DK",
-            "floor_area_m2": "67m2",
-            "floor": "5階",
-            "rent_yen": "151,100円",
-            "common_fee_yen": "4,000円",
-            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000020508",
-            "stable_id": "",
-            "current_status": "",
-            "first_seen_at": "",
-            "last_seen_at": "",
-            "lifetime_minutes": 0.0,
-            "appearance_count": 0,
-            "quick_tags": null
           }
         ]
       },
@@ -2749,16 +2716,16 @@
       }
     },
     "first_seen_at": "2026-07-21T03:29:46",
-    "last_seen_at": "2026-07-21T03:29:46",
+    "last_seen_at": "2026-07-21T03:43:01",
     "current_appearance_started_at": "2026-07-21T03:29:46",
     "disappeared_at": null,
-    "lifetime_minutes": 0.0,
+    "lifetime_minutes": 13.2,
     "appearance_count": 1,
-    "consecutive_seen_count": 1,
-    "total_seen_checks": 1,
+    "consecutive_seen_count": 2,
+    "total_seen_checks": 2,
     "current_status": "new",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260721_032946",
+    "last_snapshot_id": "snapshot_20260721_034301",
     "appearances": [
       {
         "start": "2026-07-21T03:29:46",
