@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-07-21T09:07:37",
+  "checked_at": "2026-07-21T11:18:33",
   "jkk_total": 4,
   "ur_total_vacancies": 1,
-  "new_events": 4,
+  "new_events": 2,
   "slack_candidates": 0,
-  "slack_skipped": 4,
+  "slack_skipped": 2,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -14,25 +14,13 @@
     {
       "stable_id": "jkk_f59b2b32671d80a0",
       "building_name": "トミンタワー台場一番街",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_4994fa1158a0f7dc",
       "building_name": "豊島五丁目",
       "event_type": "still_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_c0f7ce9031adda3a",
-      "building_name": "赤羽北二丁目",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_d46e157f60951549",
-      "building_name": "赤羽北二丁目",
-      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]
