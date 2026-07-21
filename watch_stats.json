@@ -2,23 +2,24 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-07-21T06:19:02",
-  "total_checks": 38,
+  "updated_at": "2026-07-21T09:07:40",
+  "total_checks": 39,
   "buckets": {
     "09:00": {
-      "checks": 3,
-      "candidate_checks": 1,
+      "checks": 4,
+      "candidate_checks": 2,
       "target_checks": 0,
-      "listing_rows": 10,
-      "candidate_rows": 1,
+      "listing_rows": 14,
+      "candidate_rows": 2,
       "target_rows": 0,
-      "last_checked_at": "2026-07-18T09:11:27",
-      "last_candidate_at": "2026-07-10T09:11:42",
+      "last_checked_at": "2026-07-21T09:07:37",
+      "last_candidate_at": "2026-07-21T09:07:37",
       "last_target_at": null,
       "last_candidate_names": [
-        "宇喜田第二"
+        "トミンタワー台場一番街"
       ],
       "candidate_names_seen": [
+        "トミンタワー台場一番街",
         "宇喜田第二"
       ],
       "candidate_seen": {
@@ -34,6 +35,20 @@
           "building_year_label": "竣工年月日 1973/12/01",
           "first_seen_at": "2026-07-10T09:11:42",
           "last_seen_at": "2026-07-10T09:11:42",
+          "seen_count": 1
+        },
+        "トミンタワー台場一番街|港区|３ＬＤＫ|73.3|298,000|5,500": {
+          "name": "トミンタワー台場一番街",
+          "area": "港区",
+          "layout": "３ＬＤＫ",
+          "floor_area_m2": "73.3",
+          "rent_yen": "298,000",
+          "common_fee_yen": "5,500",
+          "units": "1",
+          "building_year": 2000,
+          "building_year_label": "竣工年月日 2000/02/08",
+          "first_seen_at": "2026-07-21T09:07:37",
+          "last_seen_at": "2026-07-21T09:07:37",
           "seen_count": 1
         }
       }
