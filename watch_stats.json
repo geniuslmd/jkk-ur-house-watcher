@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-07-21T11:18:37",
-  "total_checks": 40,
+  "updated_at": "2026-07-22T03:28:26",
+  "total_checks": 41,
   "buckets": {
     "09:00": {
       "checks": 4,
@@ -198,19 +198,23 @@
       }
     },
     "03:00": {
-      "checks": 14,
-      "candidate_checks": 2,
+      "checks": 15,
+      "candidate_checks": 3,
       "target_checks": 0,
-      "listing_rows": 44,
-      "candidate_rows": 2,
+      "listing_rows": 50,
+      "candidate_rows": 5,
       "target_rows": 0,
-      "last_checked_at": "2026-07-21T03:43:01",
-      "last_candidate_at": "2026-07-21T03:43:01",
+      "last_checked_at": "2026-07-22T03:28:20",
+      "last_candidate_at": "2026-07-22T03:28:20",
       "last_target_at": null,
       "last_candidate_names": [
+        "トミンタワー台場一番街",
+        "南葛西",
         "宇喜田第二"
       ],
       "candidate_names_seen": [
+        "トミンタワー台場一番街",
+        "南葛西",
         "宇喜田第二"
       ],
       "candidate_seen": {
@@ -227,6 +231,48 @@
           "first_seen_at": "2026-07-21T03:29:46",
           "last_seen_at": "2026-07-21T03:43:01",
           "seen_count": 2
+        },
+        "トミンタワー台場一番街|港区|３ＬＤＫ|73.3|298,000|5,500": {
+          "name": "トミンタワー台場一番街",
+          "area": "港区",
+          "layout": "３ＬＤＫ",
+          "floor_area_m2": "73.3",
+          "rent_yen": "298,000",
+          "common_fee_yen": "5,500",
+          "units": "1",
+          "building_year": 2000,
+          "building_year_label": "竣工年月日 2000/02/08",
+          "first_seen_at": "2026-07-22T03:28:20",
+          "last_seen_at": "2026-07-22T03:28:20",
+          "seen_count": 1
+        },
+        "宇喜田第二|江戸川区|２ＤＫ|42.83|73,200|3,100": {
+          "name": "宇喜田第二",
+          "area": "江戸川区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "42.83",
+          "rent_yen": "73,200",
+          "common_fee_yen": "3,100",
+          "units": "1",
+          "building_year": 1973,
+          "building_year_label": "竣工年月日 1973/12/01",
+          "first_seen_at": "2026-07-22T03:28:20",
+          "last_seen_at": "2026-07-22T03:28:20",
+          "seen_count": 1
+        },
+        "南葛西|江戸川区|２ＤＫ|46.7|84,500|4,900": {
+          "name": "南葛西",
+          "area": "江戸川区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "46.7",
+          "rent_yen": "84,500",
+          "common_fee_yen": "4,900",
+          "units": "1",
+          "building_year": 1980,
+          "building_year_label": "竣工年月日 1980/11/29",
+          "first_seen_at": "2026-07-22T03:28:20",
+          "last_seen_at": "2026-07-22T03:28:20",
+          "seen_count": 1
         }
       }
     },

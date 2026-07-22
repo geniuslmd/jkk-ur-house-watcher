@@ -1,26 +1,50 @@
 {
-  "checked_at": "2026-07-21T11:18:33",
-  "jkk_total": 4,
-  "ur_total_vacancies": 1,
-  "new_events": 2,
+  "checked_at": "2026-07-22T03:28:20",
+  "jkk_total": 6,
+  "ur_total_vacancies": 3,
+  "new_events": 6,
   "slack_candidates": 0,
-  "slack_skipped": 2,
+  "slack_skipped": 6,
   "slack_configured": true,
   "slack_sent": false,
-  "heartbeat_sent": false,
+  "heartbeat_sent": true,
   "dry_run_slack": false,
   "candidate_ids": [],
   "skipped": [
     {
       "stable_id": "jkk_f59b2b32671d80a0",
       "building_name": "トミンタワー台場一番街",
-      "event_type": "still_seen",
+      "event_type": "stable",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_012809924aff6627",
+      "building_name": "宇喜田第二",
+      "event_type": "reappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_7a6932488b578ead",
+      "building_name": "南葛西",
+      "event_type": "first_seen",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "ur_40dff66740453804",
+      "building_name": "豊島五丁目",
+      "event_type": "first_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_4994fa1158a0f7dc",
       "building_name": "豊島五丁目",
       "event_type": "still_seen",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "ur_88a2ff0111a07273",
+      "building_name": "豊島五丁目",
+      "event_type": "first_seen",
       "reason": "not_actionable"
     }
   ]
