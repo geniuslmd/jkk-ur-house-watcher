@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-07-22T06:17:58",
-  "jkk_total": 12,
+  "checked_at": "2026-07-22T09:05:31",
+  "jkk_total": 5,
   "ur_total_vacancies": 3,
-  "new_events": 15,
+  "new_events": 12,
   "slack_candidates": 0,
-  "slack_skipped": 15,
+  "slack_skipped": 12,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -18,57 +18,15 @@
       "reason": "not_actionable"
     },
     {
-      "stable_id": "jkk_9374c16b42cfd32a",
-      "building_name": "コーシャハイム緑四丁目",
-      "event_type": "first_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_b75b32d3b86bfe78",
-      "building_name": "コーシャハイム大森東",
-      "event_type": "first_seen",
-      "reason": "not_actionable"
-    },
-    {
       "stable_id": "jkk_06e16c86a8eab82a",
       "building_name": "コーシャハイム上鷺宮",
-      "event_type": "first_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_2b437f3701fda728",
-      "building_name": "青井五丁目",
-      "event_type": "first_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_5defb50600af1cdb",
-      "building_name": "春江町",
-      "event_type": "first_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_012809924aff6627",
-      "building_name": "宇喜田第二",
-      "event_type": "stable",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_11774355eaa41ec4",
-      "building_name": "堀江",
-      "event_type": "first_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_8a7b1800aeb3e7d7",
-      "building_name": "コーシャハイム春江町五丁目",
-      "event_type": "first_seen",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_40dff66740453804",
       "building_name": "豊島五丁目",
-      "event_type": "stable",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
@@ -80,24 +38,48 @@
     {
       "stable_id": "ur_88a2ff0111a07273",
       "building_name": "豊島五丁目",
-      "event_type": "stable",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
-      "stable_id": "jkk_7a6932488b578ead",
-      "building_name": "南葛西",
+      "stable_id": "jkk_012809924aff6627",
+      "building_name": "宇喜田第二",
       "event_type": "disappeared",
       "reason": "not_actionable"
     },
     {
-      "stable_id": "jkk_6e403c2d1b24af89",
-      "building_name": "新田",
+      "stable_id": "jkk_9374c16b42cfd32a",
+      "building_name": "コーシャハイム緑四丁目",
       "event_type": "disappeared",
       "reason": "not_actionable"
     },
     {
-      "stable_id": "jkk_21894ad1c8257ef2",
-      "building_name": "コーシャハイム清新",
+      "stable_id": "jkk_b75b32d3b86bfe78",
+      "building_name": "コーシャハイム大森東",
+      "event_type": "disappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_2b437f3701fda728",
+      "building_name": "青井五丁目",
+      "event_type": "disappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_5defb50600af1cdb",
+      "building_name": "春江町",
+      "event_type": "disappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_11774355eaa41ec4",
+      "building_name": "堀江",
+      "event_type": "disappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_8a7b1800aeb3e7d7",
+      "building_name": "コーシャハイム春江町五丁目",
       "event_type": "disappeared",
       "reason": "not_actionable"
     }
