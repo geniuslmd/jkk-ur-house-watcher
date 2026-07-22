@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-07-22T03:28:26",
-  "total_checks": 41,
+  "updated_at": "2026-07-22T03:43:43",
+  "total_checks": 42,
   "buckets": {
     "09:00": {
       "checks": 4,
@@ -198,24 +198,28 @@
       }
     },
     "03:00": {
-      "checks": 15,
-      "candidate_checks": 3,
+      "checks": 16,
+      "candidate_checks": 4,
       "target_checks": 0,
-      "listing_rows": 50,
-      "candidate_rows": 5,
+      "listing_rows": 58,
+      "candidate_rows": 10,
       "target_rows": 0,
-      "last_checked_at": "2026-07-22T03:28:20",
-      "last_candidate_at": "2026-07-22T03:28:20",
+      "last_checked_at": "2026-07-22T03:43:38",
+      "last_candidate_at": "2026-07-22T03:43:38",
       "last_target_at": null,
       "last_candidate_names": [
+        "コーシャハイム清新",
         "トミンタワー台場一番街",
         "南葛西",
-        "宇喜田第二"
+        "宇喜田第二",
+        "新田"
       ],
       "candidate_names_seen": [
+        "コーシャハイム清新",
         "トミンタワー台場一番街",
         "南葛西",
-        "宇喜田第二"
+        "宇喜田第二",
+        "新田"
       ],
       "candidate_seen": {
         "宇喜田第二|江戸川区|２ＤＫ|42.83|72,500|3,100": {
@@ -243,8 +247,8 @@
           "building_year": 2000,
           "building_year_label": "竣工年月日 2000/02/08",
           "first_seen_at": "2026-07-22T03:28:20",
-          "last_seen_at": "2026-07-22T03:28:20",
-          "seen_count": 1
+          "last_seen_at": "2026-07-22T03:43:38",
+          "seen_count": 2
         },
         "宇喜田第二|江戸川区|２ＤＫ|42.83|73,200|3,100": {
           "name": "宇喜田第二",
@@ -257,8 +261,8 @@
           "building_year": 1973,
           "building_year_label": "竣工年月日 1973/12/01",
           "first_seen_at": "2026-07-22T03:28:20",
-          "last_seen_at": "2026-07-22T03:28:20",
-          "seen_count": 1
+          "last_seen_at": "2026-07-22T03:43:38",
+          "seen_count": 2
         },
         "南葛西|江戸川区|２ＤＫ|46.7|84,500|4,900": {
           "name": "南葛西",
@@ -271,7 +275,35 @@
           "building_year": 1980,
           "building_year_label": "竣工年月日 1980/11/29",
           "first_seen_at": "2026-07-22T03:28:20",
-          "last_seen_at": "2026-07-22T03:28:20",
+          "last_seen_at": "2026-07-22T03:43:38",
+          "seen_count": 2
+        },
+        "新田|江戸川区|２ＤＫ|43.0|76,300|3,900": {
+          "name": "新田",
+          "area": "江戸川区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "43.0",
+          "rent_yen": "76,300",
+          "common_fee_yen": "3,900",
+          "units": "2",
+          "building_year": 1975,
+          "building_year_label": "竣工年月日 1975/08/30",
+          "first_seen_at": "2026-07-22T03:43:38",
+          "last_seen_at": "2026-07-22T03:43:38",
+          "seen_count": 1
+        },
+        "コーシャハイム清新|江戸川区|３ＤＫ|63.04|107,200|4,300": {
+          "name": "コーシャハイム清新",
+          "area": "江戸川区",
+          "layout": "３ＤＫ",
+          "floor_area_m2": "63.04",
+          "rent_yen": "107,200",
+          "common_fee_yen": "4,300",
+          "units": "1",
+          "building_year": 1983,
+          "building_year_label": "竣工年月日 1983/01/19",
+          "first_seen_at": "2026-07-22T03:43:38",
+          "last_seen_at": "2026-07-22T03:43:38",
           "seen_count": 1
         }
       }
