@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-07-23T09:11:23",
-  "total_checks": 49,
+  "updated_at": "2026-07-23T11:22:17",
+  "total_checks": 50,
   "buckets": {
     "09:00": {
       "checks": 6,
@@ -148,23 +148,27 @@
       }
     },
     "11:00": {
-      "checks": 3,
-      "candidate_checks": 3,
+      "checks": 4,
+      "candidate_checks": 4,
       "target_checks": 0,
-      "listing_rows": 13,
-      "candidate_rows": 4,
+      "listing_rows": 21,
+      "candidate_rows": 9,
       "target_rows": 0,
-      "last_checked_at": "2026-07-22T11:18:35",
-      "last_candidate_at": "2026-07-22T11:18:35",
+      "last_checked_at": "2026-07-23T11:22:11",
+      "last_candidate_at": "2026-07-23T11:22:11",
       "last_target_at": null,
       "last_candidate_names": [
         "コーシャハイム上鷺宮",
-        "トミンタワー台場一番街"
+        "トミンタワー台場一番街",
+        "新田第二",
+        "春江町椿"
       ],
       "candidate_names_seen": [
         "コーシャハイム上鷺宮",
         "トミンタワー台場一番街",
-        "宇喜田第二"
+        "宇喜田第二",
+        "新田第二",
+        "春江町椿"
       ],
       "candidate_seen": {
         "宇喜田第二|江戸川区|２ＤＫ|42.83|71,800|3,100": {
@@ -192,8 +196,8 @@
           "building_year": 2000,
           "building_year_label": "竣工年月日 2000/02/08",
           "first_seen_at": "2026-07-21T11:18:33",
-          "last_seen_at": "2026-07-22T11:18:35",
-          "seen_count": 2
+          "last_seen_at": "2026-07-23T11:22:11",
+          "seen_count": 3
         },
         "コーシャハイム上鷺宮|中野区|１ＬＤＫ|44.65|117,700|6,000": {
           "name": "コーシャハイム上鷺宮",
@@ -206,7 +210,49 @@
           "building_year": 2008,
           "building_year_label": "竣工年月日 2008/01/09",
           "first_seen_at": "2026-07-22T11:18:35",
-          "last_seen_at": "2026-07-22T11:18:35",
+          "last_seen_at": "2026-07-23T11:22:11",
+          "seen_count": 2
+        },
+        "トミンタワー台場一番街|港区|２ＬＤＫ|72.95|287,600|5,500": {
+          "name": "トミンタワー台場一番街",
+          "area": "港区",
+          "layout": "２ＬＤＫ",
+          "floor_area_m2": "72.95",
+          "rent_yen": "287,600",
+          "common_fee_yen": "5,500",
+          "units": "1",
+          "building_year": 2000,
+          "building_year_label": "竣工年月日 2000/02/08",
+          "first_seen_at": "2026-07-23T11:22:11",
+          "last_seen_at": "2026-07-23T11:22:11",
+          "seen_count": 1
+        },
+        "春江町椿|江戸川区|２ＤＫ|43.35|68,600|3,200": {
+          "name": "春江町椿",
+          "area": "江戸川区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "43.35",
+          "rent_yen": "68,600",
+          "common_fee_yen": "3,200",
+          "units": "1",
+          "building_year": 1976,
+          "building_year_label": "竣工年月日 1976/10/31",
+          "first_seen_at": "2026-07-23T11:22:11",
+          "last_seen_at": "2026-07-23T11:22:11",
+          "seen_count": 1
+        },
+        "新田第二|江戸川区|２ＤＫ|45.96|81,600|3,500": {
+          "name": "新田第二",
+          "area": "江戸川区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "45.96",
+          "rent_yen": "81,600",
+          "common_fee_yen": "3,500",
+          "units": "1",
+          "building_year": 1979,
+          "building_year_label": "竣工年月日 1979/06/30",
+          "first_seen_at": "2026-07-23T11:22:11",
+          "last_seen_at": "2026-07-23T11:22:11",
           "seen_count": 1
         }
       }
