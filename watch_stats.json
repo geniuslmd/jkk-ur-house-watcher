@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-07-23T03:33:30",
-  "total_checks": 46,
+  "updated_at": "2026-07-23T03:42:41",
+  "total_checks": 47,
   "buckets": {
     "09:00": {
       "checks": 5,
@@ -230,14 +230,14 @@
       }
     },
     "03:00": {
-      "checks": 17,
-      "candidate_checks": 5,
+      "checks": 18,
+      "candidate_checks": 6,
       "target_checks": 0,
-      "listing_rows": 62,
-      "candidate_rows": 11,
+      "listing_rows": 66,
+      "candidate_rows": 12,
       "target_rows": 0,
-      "last_checked_at": "2026-07-23T03:33:26",
-      "last_candidate_at": "2026-07-23T03:33:26",
+      "last_checked_at": "2026-07-23T03:42:39",
+      "last_candidate_at": "2026-07-23T03:42:39",
       "last_target_at": null,
       "last_candidate_names": [
         "トミンタワー台場一番街"
@@ -275,8 +275,8 @@
           "building_year": 2000,
           "building_year_label": "竣工年月日 2000/02/08",
           "first_seen_at": "2026-07-22T03:28:20",
-          "last_seen_at": "2026-07-23T03:33:26",
-          "seen_count": 3
+          "last_seen_at": "2026-07-23T03:42:39",
+          "seen_count": 4
         },
         "宇喜田第二|江戸川区|２ＤＫ|42.83|73,200|3,100": {
           "name": "宇喜田第二",
