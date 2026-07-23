@@ -2,27 +2,35 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-07-23T06:21:17",
-  "total_checks": 48,
+  "updated_at": "2026-07-23T09:11:23",
+  "total_checks": 49,
   "buckets": {
     "09:00": {
-      "checks": 5,
-      "candidate_checks": 3,
+      "checks": 6,
+      "candidate_checks": 4,
       "target_checks": 0,
-      "listing_rows": 19,
-      "candidate_rows": 4,
+      "listing_rows": 29,
+      "candidate_rows": 11,
       "target_rows": 0,
-      "last_checked_at": "2026-07-22T09:05:31",
-      "last_candidate_at": "2026-07-22T09:05:31",
+      "last_checked_at": "2026-07-23T09:11:14",
+      "last_candidate_at": "2026-07-23T09:11:14",
       "last_target_at": null,
       "last_candidate_names": [
         "コーシャハイム上鷺宮",
-        "トミンタワー台場一番街"
+        "コーシャハイム南葛西五丁目",
+        "コーシャハイム大森東",
+        "トミンタワー台場一番街",
+        "新田第二",
+        "春江町椿"
       ],
       "candidate_names_seen": [
         "コーシャハイム上鷺宮",
+        "コーシャハイム南葛西五丁目",
+        "コーシャハイム大森東",
         "トミンタワー台場一番街",
-        "宇喜田第二"
+        "宇喜田第二",
+        "新田第二",
+        "春江町椿"
       ],
       "candidate_seen": {
         "宇喜田第二|江戸川区|２ＤＫ|42.83|71,800|3,100": {
@@ -50,8 +58,8 @@
           "building_year": 2000,
           "building_year_label": "竣工年月日 2000/02/08",
           "first_seen_at": "2026-07-21T09:07:37",
-          "last_seen_at": "2026-07-22T09:05:31",
-          "seen_count": 2
+          "last_seen_at": "2026-07-23T09:11:14",
+          "seen_count": 3
         },
         "コーシャハイム上鷺宮|中野区|１ＬＤＫ|44.65|117,700|6,000": {
           "name": "コーシャハイム上鷺宮",
@@ -64,7 +72,77 @@
           "building_year": 2008,
           "building_year_label": "竣工年月日 2008/01/09",
           "first_seen_at": "2026-07-22T09:05:31",
-          "last_seen_at": "2026-07-22T09:05:31",
+          "last_seen_at": "2026-07-23T09:11:14",
+          "seen_count": 2
+        },
+        "トミンタワー台場一番街|港区|２ＬＤＫ|72.95|287,600|5,500": {
+          "name": "トミンタワー台場一番街",
+          "area": "港区",
+          "layout": "２ＬＤＫ",
+          "floor_area_m2": "72.95",
+          "rent_yen": "287,600",
+          "common_fee_yen": "5,500",
+          "units": "1",
+          "building_year": 2000,
+          "building_year_label": "竣工年月日 2000/02/08",
+          "first_seen_at": "2026-07-23T09:11:14",
+          "last_seen_at": "2026-07-23T09:11:14",
+          "seen_count": 1
+        },
+        "コーシャハイム大森東|大田区|３ＤＫ|62.97|118,900|3,900": {
+          "name": "コーシャハイム大森東",
+          "area": "大田区",
+          "layout": "３ＤＫ",
+          "floor_area_m2": "62.97",
+          "rent_yen": "118,900",
+          "common_fee_yen": "3,900",
+          "units": "1",
+          "building_year": null,
+          "building_year_label": "",
+          "first_seen_at": "2026-07-23T09:11:14",
+          "last_seen_at": "2026-07-23T09:11:14",
+          "seen_count": 1
+        },
+        "春江町椿|江戸川区|２ＤＫ|43.35|68,600|3,200": {
+          "name": "春江町椿",
+          "area": "江戸川区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "43.35",
+          "rent_yen": "68,600",
+          "common_fee_yen": "3,200",
+          "units": "1",
+          "building_year": 1976,
+          "building_year_label": "竣工年月日 1976/10/31",
+          "first_seen_at": "2026-07-23T09:11:14",
+          "last_seen_at": "2026-07-23T09:11:14",
+          "seen_count": 1
+        },
+        "新田第二|江戸川区|２ＤＫ|45.96|81,600|3,500": {
+          "name": "新田第二",
+          "area": "江戸川区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "45.96",
+          "rent_yen": "81,600",
+          "common_fee_yen": "3,500",
+          "units": "1",
+          "building_year": 1979,
+          "building_year_label": "竣工年月日 1979/06/30",
+          "first_seen_at": "2026-07-23T09:11:14",
+          "last_seen_at": "2026-07-23T09:11:14",
+          "seen_count": 1
+        },
+        "コーシャハイム南葛西五丁目|江戸川区|３ＤＫ|60.47|90,800|3,100": {
+          "name": "コーシャハイム南葛西五丁目",
+          "area": "江戸川区",
+          "layout": "３ＤＫ",
+          "floor_area_m2": "60.47",
+          "rent_yen": "90,800",
+          "common_fee_yen": "3,100",
+          "units": "1",
+          "building_year": 1986,
+          "building_year_label": "竣工年月日 1986/03/25",
+          "first_seen_at": "2026-07-23T09:11:14",
+          "last_seen_at": "2026-07-23T09:11:14",
           "seen_count": 1
         }
       }

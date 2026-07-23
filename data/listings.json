@@ -115,14 +115,14 @@
         "rooms": [
           {
             "building": "1号棟",
-            "room_no": "311号室",
+            "room_no": "331号室",
             "layout": "1LDK",
             "floor_area_m2": "48m2",
             "floor": "3階",
-            "rent_yen": "117,900円",
+            "rent_yen": "116,400円",
             "common_fee_yen": "4,000円",
-            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000010311",
-            "stable_id": "ur_f1ea058cae058faa",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000010331",
+            "stable_id": "ur_c0f7ce9031adda3a",
             "current_status": "",
             "first_seen_at": "",
             "last_seen_at": "",
@@ -132,14 +132,14 @@
           },
           {
             "building": "1号棟",
-            "room_no": "316号室",
+            "room_no": "1127号室",
             "layout": "1LDK",
-            "floor_area_m2": "48m2",
-            "floor": "3階",
-            "rent_yen": "117,900円",
+            "floor_area_m2": "49m2",
+            "floor": "11階",
+            "rent_yen": "120,800円",
             "common_fee_yen": "4,000円",
-            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000010316",
-            "stable_id": "ur_3e2e14f6ee70fc8b",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000011127",
+            "stable_id": "ur_d46e157f60951549",
             "current_status": "",
             "first_seen_at": "",
             "last_seen_at": "",
@@ -185,16 +185,16 @@
       }
     },
     "first_seen_at": "2026-07-10T09:11:42",
-    "last_seen_at": "2026-07-14T05:56:03",
-    "current_appearance_started_at": "2026-07-12T07:37:25",
-    "disappeared_at": "2026-07-14T08:27:09",
-    "lifetime_minutes": 2929.7,
-    "appearance_count": 2,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 11,
-    "current_status": "disappeared",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260714_082709",
+    "last_seen_at": "2026-07-23T09:11:14",
+    "current_appearance_started_at": "2026-07-23T09:11:14",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 3,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 12,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260723_091114",
     "appearances": [
       {
         "start": "2026-07-10T09:11:42",
@@ -207,6 +207,11 @@
         "end": "2026-07-14T08:27:09",
         "status": "disappeared",
         "lifetime_minutes": 2929.7
+      },
+      {
+        "start": "2026-07-23T09:11:14",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
@@ -670,7 +675,7 @@
         "name": "赤羽北二丁目",
         "place": "北区赤羽北2-15",
         "traffic": "JR埼京線「北赤羽」駅 徒歩6～7分",
-        "room_count": 2,
+        "room_count": 3,
         "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800.html",
         "shisya": "20",
         "danchi": "280",
@@ -710,6 +715,23 @@
             "lifetime_minutes": 0.0,
             "appearance_count": 0,
             "quick_tags": null
+          },
+          {
+            "building": "1号棟",
+            "room_no": "1230号室",
+            "layout": "1LDK",
+            "floor_area_m2": "48m2",
+            "floor": "12階",
+            "rent_yen": "117,900円",
+            "common_fee_yen": "4,000円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000011230",
+            "stable_id": "",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
           }
         ]
       },
@@ -732,16 +754,16 @@
       }
     },
     "first_seen_at": "2026-07-13T03:41:27",
-    "last_seen_at": "2026-07-21T06:18:59",
-    "current_appearance_started_at": "2026-07-21T03:29:46",
-    "disappeared_at": "2026-07-21T09:07:37",
-    "lifetime_minutes": 337.9,
-    "appearance_count": 5,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 26,
-    "current_status": "disappeared",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260721_090737",
+    "last_seen_at": "2026-07-23T09:11:14",
+    "current_appearance_started_at": "2026-07-23T09:11:14",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 6,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 27,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260723_091114",
     "appearances": [
       {
         "start": "2026-07-13T03:41:27",
@@ -772,6 +794,11 @@
         "end": "2026-07-21T09:07:37",
         "status": "disappeared",
         "lifetime_minutes": 337.9
+      },
+      {
+        "start": "2026-07-23T09:11:14",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
@@ -933,7 +960,7 @@
     "room_no": "",
     "layout": "３ＤＫ",
     "area": "60.47",
-    "rent": "89,000",
+    "rent": "90,800",
     "common_fee": "3,100",
     "detail_url": "https://jhomes.to-kousya.or.jp/search/jkknet/service/akiyaJyoukenStartInit",
     "is_high_priority": false,
@@ -946,7 +973,7 @@
       "housing_type": "一般賃貸住宅",
       "layout": "３ＤＫ",
       "floor_area_m2": "60.47",
-      "rent_yen": "89,000",
+      "rent_yen": "90,800",
       "common_fee_yen": "3,100",
       "units": "1",
       "detail_onclick": "javascript:senPage('','A1522','2380140','0002'); return false",
@@ -971,16 +998,16 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-13T07:35:55",
-    "last_seen_at": "2026-07-14T05:56:03",
-    "current_appearance_started_at": "2026-07-14T05:56:03",
-    "disappeared_at": "2026-07-14T08:27:09",
-    "lifetime_minutes": 151.1,
-    "appearance_count": 2,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 2,
-    "current_status": "disappeared",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260714_082709",
+    "last_seen_at": "2026-07-23T09:11:14",
+    "current_appearance_started_at": "2026-07-23T09:11:14",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 3,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 3,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260723_091114",
     "appearances": [
       {
         "start": "2026-07-13T07:35:55",
@@ -993,6 +1020,11 @@
         "end": "2026-07-14T08:27:09",
         "status": "disappeared",
         "lifetime_minutes": 151.1
+      },
+      {
+        "start": "2026-07-23T09:11:14",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
@@ -1104,7 +1136,7 @@
     "room_no": "",
     "layout": "２ＤＫ",
     "area": "43.35",
-    "rent": "69,300",
+    "rent": "68,600",
     "common_fee": "3,200",
     "detail_url": "https://jhomes.to-kousya.or.jp/search/jkknet/service/akiyaJyoukenStartInit",
     "is_high_priority": false,
@@ -1117,7 +1149,7 @@
       "housing_type": "一般賃貸住宅（期限付）",
       "layout": "２ＤＫ",
       "floor_area_m2": "43.35",
-      "rent_yen": "69,300",
+      "rent_yen": "68,600",
       "common_fee_yen": "3,200",
       "units": "1",
       "detail_onclick": "javascript:senPage('','L1171','2380070','0002'); return false",
@@ -1142,27 +1174,33 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-13T10:42:51",
-    "last_seen_at": "2026-07-13T10:42:51",
-    "current_appearance_started_at": "2026-07-13T10:42:51",
-    "disappeared_at": "2026-07-14T03:17:02",
-    "lifetime_minutes": 994.2,
-    "appearance_count": 1,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 1,
-    "current_status": "disappeared",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260714_031702",
+    "last_seen_at": "2026-07-23T09:11:14",
+    "current_appearance_started_at": "2026-07-23T09:11:14",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 2,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 2,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260723_091114",
     "appearances": [
       {
         "start": "2026-07-13T10:42:51",
         "end": "2026-07-14T03:17:02",
         "status": "disappeared",
         "lifetime_minutes": 994.2
+      },
+      {
+        "start": "2026-07-23T09:11:14",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
       "建议手动登录确认",
-      "低价"
+      "低价",
+      "重复出现"
     ]
   },
   "ur_f1ea058cae058faa": {
@@ -2585,16 +2623,16 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-18T05:49:45",
-    "last_seen_at": "2026-07-23T06:21:12",
+    "last_seen_at": "2026-07-23T09:11:14",
     "current_appearance_started_at": "2026-07-21T09:07:37",
     "disappeared_at": null,
-    "lifetime_minutes": 2713.6,
+    "lifetime_minutes": 2883.6,
     "appearance_count": 2,
-    "consecutive_seen_count": 10,
-    "total_seen_checks": 11,
+    "consecutive_seen_count": 11,
+    "total_seen_checks": 12,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260723_062112",
+    "last_snapshot_id": "snapshot_20260723_091114",
     "appearances": [
       {
         "start": "2026-07-18T05:49:45",
@@ -2703,7 +2741,7 @@
         "name": "赤羽北二丁目",
         "place": "北区赤羽北2-15",
         "traffic": "JR埼京線「北赤羽」駅 徒歩6～7分",
-        "room_count": 2,
+        "room_count": 3,
         "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800.html",
         "shisya": "20",
         "danchi": "280",
@@ -2743,6 +2781,23 @@
             "lifetime_minutes": 0.0,
             "appearance_count": 0,
             "quick_tags": null
+          },
+          {
+            "building": "1号棟",
+            "room_no": "1230号室",
+            "layout": "1LDK",
+            "floor_area_m2": "48m2",
+            "floor": "12階",
+            "rent_yen": "117,900円",
+            "common_fee_yen": "4,000円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000011230",
+            "stable_id": "",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
           }
         ]
       },
@@ -2765,26 +2820,32 @@
       }
     },
     "first_seen_at": "2026-07-21T03:29:46",
-    "last_seen_at": "2026-07-21T06:18:59",
-    "current_appearance_started_at": "2026-07-21T03:29:46",
-    "disappeared_at": "2026-07-21T09:07:37",
-    "lifetime_minutes": 337.9,
-    "appearance_count": 1,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 3,
-    "current_status": "disappeared",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260721_090737",
+    "last_seen_at": "2026-07-23T09:11:14",
+    "current_appearance_started_at": "2026-07-23T09:11:14",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 2,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 4,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260723_091114",
     "appearances": [
       {
         "start": "2026-07-21T03:29:46",
         "end": "2026-07-21T09:07:37",
         "status": "disappeared",
         "lifetime_minutes": 337.9
+      },
+      {
+        "start": "2026-07-23T09:11:14",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
-      "参考向"
+      "参考向",
+      "重复出现"
     ]
   },
   "jkk_7a6932488b578ead": {
@@ -2920,16 +2981,16 @@
       }
     },
     "first_seen_at": "2026-07-22T03:28:20",
-    "last_seen_at": "2026-07-23T06:21:12",
+    "last_seen_at": "2026-07-23T09:11:14",
     "current_appearance_started_at": "2026-07-22T03:28:20",
     "disappeared_at": null,
-    "lifetime_minutes": 1612.9,
+    "lifetime_minutes": 1782.9,
     "appearance_count": 1,
-    "consecutive_seen_count": 8,
-    "total_seen_checks": 8,
+    "consecutive_seen_count": 9,
+    "total_seen_checks": 9,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260723_062112",
+    "last_snapshot_id": "snapshot_20260723_091114",
     "appearances": [
       {
         "start": "2026-07-22T03:28:20",
@@ -3277,7 +3338,7 @@
     "room_no": "",
     "layout": "３ＤＫ",
     "area": "62.97",
-    "rent": "120,000",
+    "rent": "118,900",
     "common_fee": "3,900",
     "detail_url": "https://jhomes.to-kousya.or.jp/search/jkknet/service/akiyaJyoukenStartInit",
     "is_high_priority": false,
@@ -3290,7 +3351,7 @@
       "housing_type": "一般賃貸住宅",
       "layout": "３ＤＫ",
       "floor_area_m2": "62.97",
-      "rent_yen": "120,000",
+      "rent_yen": "118,900",
       "common_fee_yen": "3,900",
       "units": "1",
       "detail_onclick": "javascript:senPage('','A1461','1180210','0002'); return false",
@@ -3300,8 +3361,8 @@
         "1180210",
         "0002"
       ],
-      "building_year": 1983,
-      "building_year_label": "竣工年月日 1983/06/15",
+      "building_year": null,
+      "building_year_label": "",
       "detail_error": "",
       "is_target": false,
       "is_excluded": false,
@@ -3315,27 +3376,33 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-22T06:17:58",
-    "last_seen_at": "2026-07-22T06:17:58",
-    "current_appearance_started_at": "2026-07-22T06:17:58",
-    "disappeared_at": "2026-07-22T09:05:31",
-    "lifetime_minutes": 167.6,
-    "appearance_count": 1,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 1,
-    "current_status": "disappeared",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260722_090531",
+    "last_seen_at": "2026-07-23T09:11:14",
+    "current_appearance_started_at": "2026-07-23T09:11:14",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 2,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 2,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260723_091114",
     "appearances": [
       {
         "start": "2026-07-22T06:17:58",
         "end": "2026-07-22T09:05:31",
         "status": "disappeared",
         "lifetime_minutes": 167.6
+      },
+      {
+        "start": "2026-07-23T09:11:14",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
       "建议手动登录确认",
-      "大户型"
+      "大户型",
+      "重复出现"
     ]
   },
   "jkk_06e16c86a8eab82a": {
@@ -3384,16 +3451,16 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-22T06:17:58",
-    "last_seen_at": "2026-07-23T06:21:12",
+    "last_seen_at": "2026-07-23T09:11:14",
     "current_appearance_started_at": "2026-07-23T06:21:12",
     "disappeared_at": null,
-    "lifetime_minutes": 0.0,
+    "lifetime_minutes": 170.0,
     "appearance_count": 2,
-    "consecutive_seen_count": 1,
-    "total_seen_checks": 4,
+    "consecutive_seen_count": 2,
+    "total_seen_checks": 5,
     "current_status": "reappeared",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260723_062112",
+    "last_snapshot_id": "snapshot_20260723_091114",
     "appearances": [
       {
         "start": "2026-07-22T06:17:58",
@@ -3686,6 +3753,143 @@
     "quick_tags": [
       "建议手动登录确认",
       "大户型"
+    ]
+  },
+  "jkk_97b6df5145ba696f": {
+    "stable_id": "jkk_97b6df5145ba696f",
+    "source": "JKK",
+    "official_id": "jkk::C5412:0380100:0000",
+    "building_name": "トミンタワー台場一番街",
+    "room_no": "",
+    "layout": "２ＬＤＫ",
+    "area": "72.95",
+    "rent": "287,600",
+    "common_fee": "5,500",
+    "detail_url": "https://jhomes.to-kousya.or.jp/search/jkknet/service/akiyaJyoukenStartInit",
+    "is_high_priority": false,
+    "source_label": "JKK",
+    "action_hint": "发现新房，请尽快手动登录官网确认。",
+    "raw": {
+      "name": "トミンタワー台場一番街",
+      "area": "港区",
+      "priority": "一般",
+      "housing_type": "一般賃貸リニューアル",
+      "layout": "２ＬＤＫ",
+      "floor_area_m2": "72.95",
+      "rent_yen": "287,600",
+      "common_fee_yen": "5,500",
+      "units": "1",
+      "detail_onclick": "javascript:senPage('','C5412','0380100','0000'); return false",
+      "detail_params": [
+        "",
+        "C5412",
+        "0380100",
+        "0000"
+      ],
+      "building_year": 2000,
+      "building_year_label": "竣工年月日 2000/02/08",
+      "detail_error": "",
+      "is_target": false,
+      "is_excluded": false,
+      "is_newer_building": false,
+      "stable_id": "",
+      "current_status": "",
+      "first_seen_at": "",
+      "last_seen_at": "",
+      "lifetime_minutes": 0.0,
+      "appearance_count": 0,
+      "quick_tags": null
+    },
+    "first_seen_at": "2026-07-23T09:11:14",
+    "last_seen_at": "2026-07-23T09:11:14",
+    "current_appearance_started_at": "2026-07-23T09:11:14",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260723_091114",
+    "appearances": [
+      {
+        "start": "2026-07-23T09:11:14",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "建议手动登录确认",
+      "高价",
+      "大户型"
+    ]
+  },
+  "jkk_51ade5b9abdc4b4c": {
+    "stable_id": "jkk_51ade5b9abdc4b4c",
+    "source": "JKK",
+    "official_id": "jkk::A1301:2380080:0002",
+    "building_name": "新田第二",
+    "room_no": "",
+    "layout": "２ＤＫ",
+    "area": "45.96",
+    "rent": "81,600",
+    "common_fee": "3,500",
+    "detail_url": "https://jhomes.to-kousya.or.jp/search/jkknet/service/akiyaJyoukenStartInit",
+    "is_high_priority": false,
+    "source_label": "JKK",
+    "action_hint": "发现新房，请尽快手动登录官网确认。",
+    "raw": {
+      "name": "新田第二",
+      "area": "江戸川区",
+      "priority": "子育・高齢",
+      "housing_type": "一般賃貸住宅",
+      "layout": "２ＤＫ",
+      "floor_area_m2": "45.96",
+      "rent_yen": "81,600",
+      "common_fee_yen": "3,500",
+      "units": "1",
+      "detail_onclick": "javascript:senPage('','A1301','2380080','0002'); return false",
+      "detail_params": [
+        "",
+        "A1301",
+        "2380080",
+        "0002"
+      ],
+      "building_year": 1979,
+      "building_year_label": "竣工年月日 1979/06/30",
+      "detail_error": "",
+      "is_target": false,
+      "is_excluded": false,
+      "is_newer_building": false,
+      "stable_id": "",
+      "current_status": "",
+      "first_seen_at": "",
+      "last_seen_at": "",
+      "lifetime_minutes": 0.0,
+      "appearance_count": 0,
+      "quick_tags": null
+    },
+    "first_seen_at": "2026-07-23T09:11:14",
+    "last_seen_at": "2026-07-23T09:11:14",
+    "current_appearance_started_at": "2026-07-23T09:11:14",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260723_091114",
+    "appearances": [
+      {
+        "start": "2026-07-23T09:11:14",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "建议手动登录确认",
+      "低价"
     ]
   }
 }
