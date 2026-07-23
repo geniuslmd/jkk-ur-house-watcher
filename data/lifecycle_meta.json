@@ -1,15 +1,9 @@
 {
-  "boost_until": "2026-07-22T06:37:58",
+  "boost_until": "2026-07-23T06:41:12",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "JKK:コーシャハイム上鷺宮",
-    "JKK:コーシャハイム大森東",
-    "JKK:コーシャハイム春江町五丁目",
-    "JKK:コーシャハイム緑四丁目",
-    "JKK:堀江",
-    "JKK:春江町",
-    "JKK:青井五丁目"
+    "JKK:コーシャハイム上鷺宮"
   ],
   "last_ur_total_vacancies": 1,
-  "updated_at": "2026-07-23T03:42:39"
+  "updated_at": "2026-07-23T06:21:12"
 }

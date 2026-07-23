@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-07-23T03:42:41",
-  "total_checks": 47,
+  "updated_at": "2026-07-23T06:21:17",
+  "total_checks": 48,
   "buckets": {
     "09:00": {
       "checks": 5,
@@ -482,25 +482,18 @@
       }
     },
     "06:00": {
-      "checks": 4,
-      "candidate_checks": 1,
+      "checks": 5,
+      "candidate_checks": 2,
       "target_checks": 0,
-      "listing_rows": 21,
-      "candidate_rows": 9,
+      "listing_rows": 26,
+      "candidate_rows": 11,
       "target_rows": 0,
-      "last_checked_at": "2026-07-22T06:17:58",
-      "last_candidate_at": "2026-07-22T06:17:58",
+      "last_checked_at": "2026-07-23T06:21:12",
+      "last_candidate_at": "2026-07-23T06:21:12",
       "last_target_at": null,
       "last_candidate_names": [
         "コーシャハイム上鷺宮",
-        "コーシャハイム大森東",
-        "コーシャハイム春江町五丁目",
-        "コーシャハイム緑四丁目",
-        "トミンタワー台場一番街",
-        "堀江",
-        "宇喜田第二",
-        "春江町",
-        "青井五丁目"
+        "トミンタワー台場一番街"
       ],
       "candidate_names_seen": [
         "コーシャハイム上鷺宮",
@@ -525,8 +518,8 @@
           "building_year": 2000,
           "building_year_label": "竣工年月日 2000/02/08",
           "first_seen_at": "2026-07-22T06:17:58",
-          "last_seen_at": "2026-07-22T06:17:58",
-          "seen_count": 1
+          "last_seen_at": "2026-07-23T06:21:12",
+          "seen_count": 2
         },
         "コーシャハイム緑四丁目|墨田区|２ＬＤＫ|57.0|135,200|4,000": {
           "name": "コーシャハイム緑四丁目",
@@ -567,8 +560,8 @@
           "building_year": 2008,
           "building_year_label": "竣工年月日 2008/01/09",
           "first_seen_at": "2026-07-22T06:17:58",
-          "last_seen_at": "2026-07-22T06:17:58",
-          "seen_count": 1
+          "last_seen_at": "2026-07-23T06:21:12",
+          "seen_count": 2
         },
         "青井五丁目|足立区|２ＤＫ|46.1|72,700|4,000": {
           "name": "青井五丁目",
