@@ -1,12 +1,10 @@
 {
-  "boost_until": "2026-07-24T03:49:40",
+  "boost_until": "2026-07-24T04:01:25",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "UR:フレーシェル王子神谷",
     "UR:北区总空室上升",
-    "UR:豊島五丁目",
-    "UR:赤羽北二丁目"
+    "UR:王子五丁目"
   ],
-  "last_ur_total_vacancies": 7,
-  "updated_at": "2026-07-24T03:29:40"
+  "last_ur_total_vacancies": 8,
+  "updated_at": "2026-07-24T03:41:25"
 }

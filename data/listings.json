@@ -202,16 +202,16 @@
       }
     },
     "first_seen_at": "2026-07-10T09:11:42",
-    "last_seen_at": "2026-07-24T03:29:40",
+    "last_seen_at": "2026-07-24T03:41:25",
     "current_appearance_started_at": "2026-07-23T09:11:14",
     "disappeared_at": null,
-    "lifetime_minutes": 1098.4,
+    "lifetime_minutes": 1110.2,
     "appearance_count": 3,
-    "consecutive_seen_count": 3,
-    "total_seen_checks": 14,
+    "consecutive_seen_count": 4,
+    "total_seen_checks": 15,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260724_032940",
+    "last_snapshot_id": "snapshot_20260724_034125",
     "appearances": [
       {
         "start": "2026-07-10T09:11:42",
@@ -788,16 +788,16 @@
       }
     },
     "first_seen_at": "2026-07-13T03:41:27",
-    "last_seen_at": "2026-07-24T03:29:40",
+    "last_seen_at": "2026-07-24T03:41:25",
     "current_appearance_started_at": "2026-07-23T09:11:14",
     "disappeared_at": null,
-    "lifetime_minutes": 1098.4,
+    "lifetime_minutes": 1110.2,
     "appearance_count": 6,
-    "consecutive_seen_count": 3,
-    "total_seen_checks": 29,
+    "consecutive_seen_count": 4,
+    "total_seen_checks": 30,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260724_032940",
+    "last_snapshot_id": "snapshot_20260724_034125",
     "appearances": [
       {
         "start": "2026-07-13T03:41:27",
@@ -2659,16 +2659,16 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-18T05:49:45",
-    "last_seen_at": "2026-07-24T03:29:40",
+    "last_seen_at": "2026-07-24T03:41:25",
     "current_appearance_started_at": "2026-07-21T09:07:37",
     "disappeared_at": null,
-    "lifetime_minutes": 3982.1,
+    "lifetime_minutes": 3993.8,
     "appearance_count": 2,
-    "consecutive_seen_count": 13,
-    "total_seen_checks": 14,
+    "consecutive_seen_count": 14,
+    "total_seen_checks": 15,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260724_032940",
+    "last_snapshot_id": "snapshot_20260724_034125",
     "appearances": [
       {
         "start": "2026-07-18T05:49:45",
@@ -2873,16 +2873,16 @@
       }
     },
     "first_seen_at": "2026-07-21T03:29:46",
-    "last_seen_at": "2026-07-24T03:29:40",
+    "last_seen_at": "2026-07-24T03:41:25",
     "current_appearance_started_at": "2026-07-23T09:11:14",
     "disappeared_at": null,
-    "lifetime_minutes": 1098.4,
+    "lifetime_minutes": 1110.2,
     "appearance_count": 2,
-    "consecutive_seen_count": 3,
-    "total_seen_checks": 6,
+    "consecutive_seen_count": 4,
+    "total_seen_checks": 7,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260724_032940",
+    "last_snapshot_id": "snapshot_20260724_034125",
     "appearances": [
       {
         "start": "2026-07-21T03:29:46",
@@ -3051,16 +3051,16 @@
       }
     },
     "first_seen_at": "2026-07-22T03:28:20",
-    "last_seen_at": "2026-07-24T03:29:40",
+    "last_seen_at": "2026-07-24T03:41:25",
     "current_appearance_started_at": "2026-07-22T03:28:20",
     "disappeared_at": null,
-    "lifetime_minutes": 2881.3,
+    "lifetime_minutes": 2893.1,
     "appearance_count": 1,
-    "consecutive_seen_count": 11,
-    "total_seen_checks": 11,
+    "consecutive_seen_count": 12,
+    "total_seen_checks": 12,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260724_032940",
+    "last_snapshot_id": "snapshot_20260724_034125",
     "appearances": [
       {
         "start": "2026-07-22T03:28:20",
@@ -3522,16 +3522,16 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-22T06:17:58",
-    "last_seen_at": "2026-07-24T03:29:40",
+    "last_seen_at": "2026-07-24T03:41:25",
     "current_appearance_started_at": "2026-07-23T06:21:12",
     "disappeared_at": null,
-    "lifetime_minutes": 1268.5,
+    "lifetime_minutes": 1280.2,
     "appearance_count": 2,
-    "consecutive_seen_count": 4,
-    "total_seen_checks": 7,
+    "consecutive_seen_count": 5,
+    "total_seen_checks": 8,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260724_032940",
+    "last_snapshot_id": "snapshot_20260724_034125",
     "appearances": [
       {
         "start": "2026-07-22T06:17:58",
@@ -3872,16 +3872,16 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-23T09:11:14",
-    "last_seen_at": "2026-07-24T03:29:40",
+    "last_seen_at": "2026-07-24T03:41:25",
     "current_appearance_started_at": "2026-07-23T09:11:14",
     "disappeared_at": null,
-    "lifetime_minutes": 1098.4,
+    "lifetime_minutes": 1110.2,
     "appearance_count": 1,
-    "consecutive_seen_count": 3,
-    "total_seen_checks": 3,
+    "consecutive_seen_count": 4,
+    "total_seen_checks": 4,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260724_032940",
+    "last_snapshot_id": "snapshot_20260724_034125",
     "appearances": [
       {
         "start": "2026-07-23T09:11:14",
@@ -4079,16 +4079,16 @@
       }
     },
     "first_seen_at": "2026-07-24T03:29:40",
-    "last_seen_at": "2026-07-24T03:29:40",
+    "last_seen_at": "2026-07-24T03:41:25",
     "current_appearance_started_at": "2026-07-24T03:29:40",
     "disappeared_at": null,
-    "lifetime_minutes": 0.0,
+    "lifetime_minutes": 11.8,
     "appearance_count": 1,
-    "consecutive_seen_count": 1,
-    "total_seen_checks": 1,
+    "consecutive_seen_count": 2,
+    "total_seen_checks": 2,
     "current_status": "new",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260724_032940",
+    "last_snapshot_id": "snapshot_20260724_034125",
     "appearances": [
       {
         "start": "2026-07-24T03:29:40",
@@ -4181,16 +4181,16 @@
       }
     },
     "first_seen_at": "2026-07-24T03:29:40",
-    "last_seen_at": "2026-07-24T03:29:40",
+    "last_seen_at": "2026-07-24T03:41:25",
     "current_appearance_started_at": "2026-07-24T03:29:40",
     "disappeared_at": null,
-    "lifetime_minutes": 0.0,
+    "lifetime_minutes": 11.8,
     "appearance_count": 1,
-    "consecutive_seen_count": 1,
-    "total_seen_checks": 1,
+    "consecutive_seen_count": 2,
+    "total_seen_checks": 2,
     "current_status": "new",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260724_032940",
+    "last_snapshot_id": "snapshot_20260724_034125",
     "appearances": [
       {
         "start": "2026-07-24T03:29:40",
@@ -4267,8 +4267,93 @@
       }
     },
     "first_seen_at": "2026-07-24T03:29:40",
-    "last_seen_at": "2026-07-24T03:29:40",
+    "last_seen_at": "2026-07-24T03:41:25",
     "current_appearance_started_at": "2026-07-24T03:29:40",
+    "disappeared_at": null,
+    "lifetime_minutes": 11.8,
+    "appearance_count": 1,
+    "consecutive_seen_count": 2,
+    "total_seen_checks": 2,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260724_034125",
+    "appearances": [
+      {
+        "start": "2026-07-24T03:29:40",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "参考向"
+    ]
+  },
+  "ur_a9615f47db4fa922": {
+    "stable_id": "ur_a9615f47db4fa922",
+    "source": "UR",
+    "official_id": "ur:20:267:0:https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2670_room.html?JKSS=000020519",
+    "building_name": "王子五丁目",
+    "room_no": "2号棟 519号室",
+    "layout": "1LDK",
+    "area": "48m2",
+    "rent": "115,200円",
+    "common_fee": "4,200円",
+    "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2670_room.html?JKSS=000020519",
+    "is_high_priority": false,
+    "source_label": "UR",
+    "action_hint": "发现参考房源，请关注户型/价格/楼层；如需行动，请电话或线下确认。",
+    "raw": {
+      "listing": {
+        "name": "王子五丁目",
+        "place": "北区王子5-2",
+        "traffic": "東京メトロ南北線「王子神谷」駅 徒歩2～5分 JR京浜東北・根岸線「東十条」駅 徒歩10～15分",
+        "room_count": 1,
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2670.html",
+        "shisya": "20",
+        "danchi": "267",
+        "shikibetu": "0",
+        "is_target": false,
+        "rooms": [
+          {
+            "building": "2号棟",
+            "room_no": "519号室",
+            "layout": "1LDK",
+            "floor_area_m2": "48m2",
+            "floor": "5階",
+            "rent_yen": "115,200円",
+            "common_fee_yen": "4,200円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2670_room.html?JKSS=000020519",
+            "stable_id": "",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          }
+        ]
+      },
+      "room": {
+        "building": "2号棟",
+        "room_no": "519号室",
+        "layout": "1LDK",
+        "floor_area_m2": "48m2",
+        "floor": "5階",
+        "rent_yen": "115,200円",
+        "common_fee_yen": "4,200円",
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2670_room.html?JKSS=000020519",
+        "stable_id": "",
+        "current_status": "",
+        "first_seen_at": "",
+        "last_seen_at": "",
+        "lifetime_minutes": 0.0,
+        "appearance_count": 0,
+        "quick_tags": null
+      }
+    },
+    "first_seen_at": "2026-07-24T03:41:25",
+    "last_seen_at": "2026-07-24T03:41:25",
+    "current_appearance_started_at": "2026-07-24T03:41:25",
     "disappeared_at": null,
     "lifetime_minutes": 0.0,
     "appearance_count": 1,
@@ -4276,10 +4361,10 @@
     "total_seen_checks": 1,
     "current_status": "new",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260724_032940",
+    "last_snapshot_id": "snapshot_20260724_034125",
     "appearances": [
       {
-        "start": "2026-07-24T03:29:40",
+        "start": "2026-07-24T03:41:25",
         "end": null,
         "status": "active"
       }

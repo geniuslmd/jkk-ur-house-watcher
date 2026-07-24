@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-07-24T03:29:49",
-  "total_checks": 51,
+  "updated_at": "2026-07-24T03:41:35",
+  "total_checks": 52,
   "buckets": {
     "09:00": {
       "checks": 6,
@@ -354,14 +354,14 @@
       }
     },
     "03:00": {
-      "checks": 19,
-      "candidate_checks": 7,
+      "checks": 20,
+      "candidate_checks": 8,
       "target_checks": 0,
-      "listing_rows": 72,
-      "candidate_rows": 15,
+      "listing_rows": 78,
+      "candidate_rows": 18,
       "target_rows": 0,
-      "last_checked_at": "2026-07-24T03:29:40",
-      "last_candidate_at": "2026-07-24T03:29:40",
+      "last_checked_at": "2026-07-24T03:41:25",
+      "last_candidate_at": "2026-07-24T03:41:25",
       "last_target_at": null,
       "last_candidate_names": [
         "コーシャハイム上鷺宮",
@@ -401,8 +401,8 @@
           "building_year": 2000,
           "building_year_label": "竣工年月日 2000/02/08",
           "first_seen_at": "2026-07-22T03:28:20",
-          "last_seen_at": "2026-07-24T03:29:40",
-          "seen_count": 5
+          "last_seen_at": "2026-07-24T03:41:25",
+          "seen_count": 6
         },
         "宇喜田第二|江戸川区|２ＤＫ|42.83|73,200|3,100": {
           "name": "宇喜田第二",
@@ -471,8 +471,8 @@
           "building_year": 2000,
           "building_year_label": "竣工年月日 2000/02/08",
           "first_seen_at": "2026-07-24T03:29:40",
-          "last_seen_at": "2026-07-24T03:29:40",
-          "seen_count": 1
+          "last_seen_at": "2026-07-24T03:41:25",
+          "seen_count": 2
         },
         "コーシャハイム上鷺宮|中野区|１ＬＤＫ|44.65|117,700|6,000": {
           "name": "コーシャハイム上鷺宮",
@@ -485,8 +485,8 @@
           "building_year": 2008,
           "building_year_label": "竣工年月日 2008/01/09",
           "first_seen_at": "2026-07-24T03:29:40",
-          "last_seen_at": "2026-07-24T03:29:40",
-          "seen_count": 1
+          "last_seen_at": "2026-07-24T03:41:25",
+          "seen_count": 2
         }
       }
     },
