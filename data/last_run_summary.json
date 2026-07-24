@@ -1,20 +1,20 @@
 {
-  "checked_at": "2026-07-23T11:22:11",
-  "jkk_total": 8,
-  "ur_total_vacancies": 4,
-  "new_events": 11,
+  "checked_at": "2026-07-24T03:29:40",
+  "jkk_total": 6,
+  "ur_total_vacancies": 7,
+  "new_events": 12,
   "slack_candidates": 0,
-  "slack_skipped": 11,
+  "slack_skipped": 12,
   "slack_configured": true,
   "slack_sent": false,
-  "heartbeat_sent": false,
+  "heartbeat_sent": true,
   "dry_run_slack": false,
   "candidate_ids": [],
   "skipped": [
     {
       "stable_id": "jkk_97b6df5145ba696f",
       "building_name": "トミンタワー台場一番街",
-      "event_type": "still_seen",
+      "event_type": "stable",
       "reason": "not_actionable"
     },
     {
@@ -26,37 +26,37 @@
     {
       "stable_id": "jkk_06e16c86a8eab82a",
       "building_name": "コーシャハイム上鷺宮",
-      "event_type": "stable",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_11b299dc755d8d82",
-      "building_name": "春江町椿",
-      "event_type": "still_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_51ade5b9abdc4b4c",
-      "building_name": "新田第二",
       "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_c0f7ce9031adda3a",
       "building_name": "赤羽北二丁目",
-      "event_type": "still_seen",
+      "event_type": "stable",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "ur_a61ef500a10bf351",
+      "building_name": "赤羽北二丁目",
+      "event_type": "first_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_d46e157f60951549",
       "building_name": "赤羽北二丁目",
-      "event_type": "still_seen",
+      "event_type": "stable",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_f3be7783c145dda5",
       "building_name": "赤羽北二丁目",
-      "event_type": "still_seen",
+      "event_type": "stable",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "ur_0faee2274e0a3aaa",
+      "building_name": "豊島五丁目",
+      "event_type": "first_seen",
       "reason": "not_actionable"
     },
     {
@@ -66,14 +66,20 @@
       "reason": "not_actionable"
     },
     {
-      "stable_id": "jkk_2af168f761e61020",
-      "building_name": "コーシャハイム南葛西五丁目",
+      "stable_id": "ur_d8c7b4ea1e2ce4f3",
+      "building_name": "フレーシェル王子神谷",
+      "event_type": "first_seen",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_11b299dc755d8d82",
+      "building_name": "春江町椿",
       "event_type": "disappeared",
       "reason": "not_actionable"
     },
     {
-      "stable_id": "jkk_b75b32d3b86bfe78",
-      "building_name": "コーシャハイム大森東",
+      "stable_id": "jkk_51ade5b9abdc4b4c",
+      "building_name": "新田第二",
       "event_type": "disappeared",
       "reason": "not_actionable"
     }

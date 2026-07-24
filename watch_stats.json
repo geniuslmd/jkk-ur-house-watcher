@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-07-23T11:22:17",
-  "total_checks": 50,
+  "updated_at": "2026-07-24T03:29:49",
+  "total_checks": 51,
   "buckets": {
     "09:00": {
       "checks": 6,
@@ -354,19 +354,21 @@
       }
     },
     "03:00": {
-      "checks": 18,
-      "candidate_checks": 6,
+      "checks": 19,
+      "candidate_checks": 7,
       "target_checks": 0,
-      "listing_rows": 66,
-      "candidate_rows": 12,
+      "listing_rows": 72,
+      "candidate_rows": 15,
       "target_rows": 0,
-      "last_checked_at": "2026-07-23T03:42:39",
-      "last_candidate_at": "2026-07-23T03:42:39",
+      "last_checked_at": "2026-07-24T03:29:40",
+      "last_candidate_at": "2026-07-24T03:29:40",
       "last_target_at": null,
       "last_candidate_names": [
+        "コーシャハイム上鷺宮",
         "トミンタワー台場一番街"
       ],
       "candidate_names_seen": [
+        "コーシャハイム上鷺宮",
         "コーシャハイム清新",
         "トミンタワー台場一番街",
         "南葛西",
@@ -399,8 +401,8 @@
           "building_year": 2000,
           "building_year_label": "竣工年月日 2000/02/08",
           "first_seen_at": "2026-07-22T03:28:20",
-          "last_seen_at": "2026-07-23T03:42:39",
-          "seen_count": 4
+          "last_seen_at": "2026-07-24T03:29:40",
+          "seen_count": 5
         },
         "宇喜田第二|江戸川区|２ＤＫ|42.83|73,200|3,100": {
           "name": "宇喜田第二",
@@ -456,6 +458,34 @@
           "building_year_label": "竣工年月日 1983/01/19",
           "first_seen_at": "2026-07-22T03:43:38",
           "last_seen_at": "2026-07-22T03:43:38",
+          "seen_count": 1
+        },
+        "トミンタワー台場一番街|港区|２ＬＤＫ|72.95|287,600|5,500": {
+          "name": "トミンタワー台場一番街",
+          "area": "港区",
+          "layout": "２ＬＤＫ",
+          "floor_area_m2": "72.95",
+          "rent_yen": "287,600",
+          "common_fee_yen": "5,500",
+          "units": "1",
+          "building_year": 2000,
+          "building_year_label": "竣工年月日 2000/02/08",
+          "first_seen_at": "2026-07-24T03:29:40",
+          "last_seen_at": "2026-07-24T03:29:40",
+          "seen_count": 1
+        },
+        "コーシャハイム上鷺宮|中野区|１ＬＤＫ|44.65|117,700|6,000": {
+          "name": "コーシャハイム上鷺宮",
+          "area": "中野区",
+          "layout": "１ＬＤＫ",
+          "floor_area_m2": "44.65",
+          "rent_yen": "117,700",
+          "common_fee_yen": "6,000",
+          "units": "1",
+          "building_year": 2008,
+          "building_year_label": "竣工年月日 2008/01/09",
+          "first_seen_at": "2026-07-24T03:29:40",
+          "last_seen_at": "2026-07-24T03:29:40",
           "seen_count": 1
         }
       }

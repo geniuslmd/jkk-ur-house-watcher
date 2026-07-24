@@ -1,15 +1,12 @@
 {
-  "boost_until": "2026-07-23T09:31:14",
+  "boost_until": "2026-07-24T03:49:40",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "JKK:コーシャハイム南葛西五丁目",
-    "JKK:コーシャハイム大森東",
-    "JKK:トミンタワー台場一番街",
-    "JKK:新田第二",
-    "JKK:春江町椿",
+    "UR:フレーシェル王子神谷",
     "UR:北区总空室上升",
+    "UR:豊島五丁目",
     "UR:赤羽北二丁目"
   ],
-  "last_ur_total_vacancies": 4,
-  "updated_at": "2026-07-23T11:22:11"
+  "last_ur_total_vacancies": 7,
+  "updated_at": "2026-07-24T03:29:40"
 }
