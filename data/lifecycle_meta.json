@@ -1,10 +1,9 @@
 {
-  "boost_until": "2026-07-24T04:01:25",
+  "boost_until": "2026-07-24T06:35:28",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "UR:北区总空室上升",
-    "UR:王子五丁目"
+    "UR:神谷堀公園ハイツ"
   ],
-  "last_ur_total_vacancies": 8,
-  "updated_at": "2026-07-24T03:41:25"
+  "last_ur_total_vacancies": 6,
+  "updated_at": "2026-07-24T06:15:28"
 }

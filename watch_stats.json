@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-07-24T03:41:35",
-  "total_checks": 52,
+  "updated_at": "2026-07-24T06:15:35",
+  "total_checks": 53,
   "buckets": {
     "09:00": {
       "checks": 6,
@@ -636,14 +636,14 @@
       }
     },
     "06:00": {
-      "checks": 5,
-      "candidate_checks": 2,
+      "checks": 6,
+      "candidate_checks": 3,
       "target_checks": 0,
-      "listing_rows": 26,
-      "candidate_rows": 11,
+      "listing_rows": 32,
+      "candidate_rows": 14,
       "target_rows": 0,
-      "last_checked_at": "2026-07-23T06:21:12",
-      "last_candidate_at": "2026-07-23T06:21:12",
+      "last_checked_at": "2026-07-24T06:15:28",
+      "last_candidate_at": "2026-07-24T06:15:28",
       "last_target_at": null,
       "last_candidate_names": [
         "コーシャハイム上鷺宮",
@@ -672,8 +672,8 @@
           "building_year": 2000,
           "building_year_label": "竣工年月日 2000/02/08",
           "first_seen_at": "2026-07-22T06:17:58",
-          "last_seen_at": "2026-07-23T06:21:12",
-          "seen_count": 2
+          "last_seen_at": "2026-07-24T06:15:28",
+          "seen_count": 3
         },
         "コーシャハイム緑四丁目|墨田区|２ＬＤＫ|57.0|135,200|4,000": {
           "name": "コーシャハイム緑四丁目",
@@ -714,8 +714,8 @@
           "building_year": 2008,
           "building_year_label": "竣工年月日 2008/01/09",
           "first_seen_at": "2026-07-22T06:17:58",
-          "last_seen_at": "2026-07-23T06:21:12",
-          "seen_count": 2
+          "last_seen_at": "2026-07-24T06:15:28",
+          "seen_count": 3
         },
         "青井五丁目|足立区|２ＤＫ|46.1|72,700|4,000": {
           "name": "青井五丁目",
@@ -785,6 +785,20 @@
           "building_year_label": "竣工年月日 1990/06/05",
           "first_seen_at": "2026-07-22T06:17:58",
           "last_seen_at": "2026-07-22T06:17:58",
+          "seen_count": 1
+        },
+        "トミンタワー台場一番街|港区|２ＬＤＫ|72.95|287,600|5,500": {
+          "name": "トミンタワー台場一番街",
+          "area": "港区",
+          "layout": "２ＬＤＫ",
+          "floor_area_m2": "72.95",
+          "rent_yen": "287,600",
+          "common_fee_yen": "5,500",
+          "units": "1",
+          "building_year": 2000,
+          "building_year_label": "竣工年月日 2000/02/08",
+          "first_seen_at": "2026-07-24T06:15:28",
+          "last_seen_at": "2026-07-24T06:15:28",
           "seen_count": 1
         }
       }

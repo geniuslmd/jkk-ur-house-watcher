@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-07-24T03:41:25",
+  "checked_at": "2026-07-24T06:15:28",
   "jkk_total": 6,
-  "ur_total_vacancies": 8,
-  "new_events": 11,
+  "ur_total_vacancies": 6,
+  "new_events": 12,
   "slack_candidates": 0,
-  "slack_skipped": 11,
+  "slack_skipped": 12,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -38,7 +38,7 @@
     {
       "stable_id": "ur_a61ef500a10bf351",
       "building_name": "赤羽北二丁目",
-      "event_type": "still_seen",
+      "event_type": "stable",
       "reason": "not_actionable"
     },
     {
@@ -54,27 +54,33 @@
       "reason": "not_actionable"
     },
     {
-      "stable_id": "ur_0faee2274e0a3aaa",
-      "building_name": "豊島五丁目",
-      "event_type": "still_seen",
-      "reason": "not_actionable"
-    },
-    {
       "stable_id": "ur_40dff66740453804",
       "building_name": "豊島五丁目",
       "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
-      "stable_id": "ur_a9615f47db4fa922",
-      "building_name": "王子五丁目",
+      "stable_id": "ur_3f16d9c1797292f4",
+      "building_name": "神谷堀公園ハイツ",
       "event_type": "first_seen",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "ur_0faee2274e0a3aaa",
+      "building_name": "豊島五丁目",
+      "event_type": "disappeared",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_d8c7b4ea1e2ce4f3",
       "building_name": "フレーシェル王子神谷",
-      "event_type": "still_seen",
+      "event_type": "disappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "ur_a9615f47db4fa922",
+      "building_name": "王子五丁目",
+      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]
