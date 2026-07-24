@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-07-24T09:00:35",
-  "jkk_total": 6,
+  "checked_at": "2026-07-24T11:11:07",
+  "jkk_total": 5,
   "ur_total_vacancies": 7,
   "new_events": 10,
   "slack_candidates": 0,
@@ -20,12 +20,6 @@
     {
       "stable_id": "jkk_f59b2b32671d80a0",
       "building_name": "トミンタワー台場一番街",
-      "event_type": "still_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_06e16c86a8eab82a",
-      "building_name": "コーシャハイム上鷺宮",
       "event_type": "still_seen",
       "reason": "not_actionable"
     },
@@ -62,13 +56,19 @@
     {
       "stable_id": "ur_3f16d9c1797292f4",
       "building_name": "神谷堀公園ハイツ",
-      "event_type": "still_seen",
+      "event_type": "stable",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_d8c7b4ea1e2ce4f3",
       "building_name": "フレーシェル王子神谷",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_06e16c86a8eab82a",
+      "building_name": "コーシャハイム上鷺宮",
+      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]
