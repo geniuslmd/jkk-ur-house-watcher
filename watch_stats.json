@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-07-25T03:27:39",
-  "total_checks": 56,
+  "updated_at": "2026-07-25T03:35:23",
+  "total_checks": 57,
   "buckets": {
     "09:00": {
       "checks": 7,
@@ -347,14 +347,14 @@
       }
     },
     "03:00": {
-      "checks": 21,
-      "candidate_checks": 9,
+      "checks": 22,
+      "candidate_checks": 10,
       "target_checks": 0,
-      "listing_rows": 83,
-      "candidate_rows": 20,
+      "listing_rows": 88,
+      "candidate_rows": 22,
       "target_rows": 0,
-      "last_checked_at": "2026-07-25T03:27:09",
-      "last_candidate_at": "2026-07-25T03:27:09",
+      "last_checked_at": "2026-07-25T03:35:01",
+      "last_candidate_at": "2026-07-25T03:35:01",
       "last_target_at": null,
       "last_candidate_names": [
         "トミンタワー台場一番街"
@@ -393,8 +393,8 @@
           "building_year": 2000,
           "building_year_label": "竣工年月日 2000/02/08",
           "first_seen_at": "2026-07-22T03:28:20",
-          "last_seen_at": "2026-07-25T03:27:09",
-          "seen_count": 7
+          "last_seen_at": "2026-07-25T03:35:01",
+          "seen_count": 8
         },
         "宇喜田第二|江戸川区|２ＤＫ|42.83|73,200|3,100": {
           "name": "宇喜田第二",
@@ -463,8 +463,8 @@
           "building_year": 2000,
           "building_year_label": "竣工年月日 2000/02/08",
           "first_seen_at": "2026-07-24T03:29:40",
-          "last_seen_at": "2026-07-25T03:27:09",
-          "seen_count": 3
+          "last_seen_at": "2026-07-25T03:35:01",
+          "seen_count": 4
         },
         "コーシャハイム上鷺宮|中野区|１ＬＤＫ|44.65|117,700|6,000": {
           "name": "コーシャハイム上鷺宮",
