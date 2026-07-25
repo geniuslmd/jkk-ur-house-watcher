@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-07-25T03:35:23",
-  "total_checks": 57,
+  "updated_at": "2026-07-25T06:05:48",
+  "total_checks": 58,
   "buckets": {
     "09:00": {
       "checks": 7,
@@ -628,27 +628,40 @@
       }
     },
     "06:00": {
-      "checks": 6,
-      "candidate_checks": 3,
+      "checks": 7,
+      "candidate_checks": 4,
       "target_checks": 0,
-      "listing_rows": 32,
-      "candidate_rows": 14,
+      "listing_rows": 45,
+      "candidate_rows": 24,
       "target_rows": 0,
-      "last_checked_at": "2026-07-24T06:15:28",
-      "last_candidate_at": "2026-07-24T06:15:28",
+      "last_checked_at": "2026-07-25T06:05:36",
+      "last_candidate_at": "2026-07-25T06:05:36",
       "last_target_at": null,
       "last_candidate_names": [
-        "コーシャハイム上鷺宮",
-        "トミンタワー台場一番街"
+        "カーメスト新高円寺",
+        "コーシャハイム久我山",
+        "コーシャハイム仲池上",
+        "コーシャハイム坂下",
+        "コーシャハイム大森東",
+        "コーシャハイム緑四丁目",
+        "トミンタワー台場一番街",
+        "南葛西",
+        "新田"
       ],
       "candidate_names_seen": [
+        "カーメスト新高円寺",
         "コーシャハイム上鷺宮",
+        "コーシャハイム久我山",
+        "コーシャハイム仲池上",
+        "コーシャハイム坂下",
         "コーシャハイム大森東",
         "コーシャハイム春江町五丁目",
         "コーシャハイム緑四丁目",
         "トミンタワー台場一番街",
+        "南葛西",
         "堀江",
         "宇喜田第二",
+        "新田",
         "春江町",
         "青井五丁目"
       ],
@@ -664,8 +677,8 @@
           "building_year": 2000,
           "building_year_label": "竣工年月日 2000/02/08",
           "first_seen_at": "2026-07-22T06:17:58",
-          "last_seen_at": "2026-07-24T06:15:28",
-          "seen_count": 3
+          "last_seen_at": "2026-07-25T06:05:36",
+          "seen_count": 4
         },
         "コーシャハイム緑四丁目|墨田区|２ＬＤＫ|57.0|135,200|4,000": {
           "name": "コーシャハイム緑四丁目",
@@ -678,8 +691,8 @@
           "building_year": 1991,
           "building_year_label": "竣工年月日 1991/10/22",
           "first_seen_at": "2026-07-22T06:17:58",
-          "last_seen_at": "2026-07-22T06:17:58",
-          "seen_count": 1
+          "last_seen_at": "2026-07-25T06:05:36",
+          "seen_count": 2
         },
         "コーシャハイム大森東|大田区|３ＤＫ|62.97|120,000|3,900": {
           "name": "コーシャハイム大森東",
@@ -692,8 +705,8 @@
           "building_year": 1983,
           "building_year_label": "竣工年月日 1983/06/15",
           "first_seen_at": "2026-07-22T06:17:58",
-          "last_seen_at": "2026-07-22T06:17:58",
-          "seen_count": 1
+          "last_seen_at": "2026-07-25T06:05:36",
+          "seen_count": 2
         },
         "コーシャハイム上鷺宮|中野区|１ＬＤＫ|44.65|117,700|6,000": {
           "name": "コーシャハイム上鷺宮",
@@ -790,7 +803,91 @@
           "building_year": 2000,
           "building_year_label": "竣工年月日 2000/02/08",
           "first_seen_at": "2026-07-24T06:15:28",
-          "last_seen_at": "2026-07-24T06:15:28",
+          "last_seen_at": "2026-07-25T06:05:36",
+          "seen_count": 2
+        },
+        "コーシャハイム仲池上|大田区|２Ｋ|40.5|106,900|5,800": {
+          "name": "コーシャハイム仲池上",
+          "area": "大田区",
+          "layout": "２Ｋ",
+          "floor_area_m2": "40.5",
+          "rent_yen": "106,900",
+          "common_fee_yen": "5,800",
+          "units": "1",
+          "building_year": 2008,
+          "building_year_label": "竣工年月日 2008/02/12",
+          "first_seen_at": "2026-07-25T06:05:36",
+          "last_seen_at": "2026-07-25T06:05:36",
+          "seen_count": 1
+        },
+        "コーシャハイム久我山|世田谷区|２Ｋ|40.63|112,700|7,600": {
+          "name": "コーシャハイム久我山",
+          "area": "世田谷区",
+          "layout": "２Ｋ",
+          "floor_area_m2": "40.63",
+          "rent_yen": "112,700",
+          "common_fee_yen": "7,600",
+          "units": "1",
+          "building_year": 2012,
+          "building_year_label": "竣工年月日 2012/03/29",
+          "first_seen_at": "2026-07-25T06:05:36",
+          "last_seen_at": "2026-07-25T06:05:36",
+          "seen_count": 1
+        },
+        "カーメスト新高円寺|杉並区|１ＬＤＫ|39.52|133,400|7,800": {
+          "name": "カーメスト新高円寺",
+          "area": "杉並区",
+          "layout": "１ＬＤＫ",
+          "floor_area_m2": "39.52",
+          "rent_yen": "133,400",
+          "common_fee_yen": "7,800",
+          "units": "1",
+          "building_year": 2023,
+          "building_year_label": "竣工年月日 2023/08/15",
+          "first_seen_at": "2026-07-25T06:05:36",
+          "last_seen_at": "2026-07-25T06:05:36",
+          "seen_count": 1
+        },
+        "コーシャハイム坂下|板橋区|２ＤＫ|50.96|105,900|6,400": {
+          "name": "コーシャハイム坂下",
+          "area": "板橋区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "50.96",
+          "rent_yen": "105,900",
+          "common_fee_yen": "6,400",
+          "units": "1",
+          "building_year": 2005,
+          "building_year_label": "竣工年月日 2005/03/17",
+          "first_seen_at": "2026-07-25T06:05:36",
+          "last_seen_at": "2026-07-25T06:05:36",
+          "seen_count": 1
+        },
+        "新田|江戸川区|２ＤＫ|43.0|77,800|3,900": {
+          "name": "新田",
+          "area": "江戸川区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "43.0",
+          "rent_yen": "77,800",
+          "common_fee_yen": "3,900",
+          "units": "1",
+          "building_year": 1975,
+          "building_year_label": "竣工年月日 1975/08/30",
+          "first_seen_at": "2026-07-25T06:05:36",
+          "last_seen_at": "2026-07-25T06:05:36",
+          "seen_count": 1
+        },
+        "南葛西|江戸川区|２ＤＫ|46.7|84,500|4,900": {
+          "name": "南葛西",
+          "area": "江戸川区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "46.7",
+          "rent_yen": "84,500",
+          "common_fee_yen": "4,900",
+          "units": "1",
+          "building_year": 1980,
+          "building_year_label": "竣工年月日 1980/11/29",
+          "first_seen_at": "2026-07-25T06:05:36",
+          "last_seen_at": "2026-07-25T06:05:36",
           "seen_count": 1
         }
       }

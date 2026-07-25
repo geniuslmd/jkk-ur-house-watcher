@@ -1,13 +1,21 @@
 {
-  "boost_until": "2026-07-25T03:47:09",
+  "boost_until": "2026-07-25T06:25:36",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
+    "JKK:カーメスト新高円寺",
+    "JKK:コーシャハイム久我山",
+    "JKK:コーシャハイム仲池上",
+    "JKK:コーシャハイム坂下",
+    "JKK:コーシャハイム大森東",
+    "JKK:コーシャハイム緑四丁目",
+    "JKK:南葛西",
+    "JKK:新田",
+    "UR:フレーシェル王子神谷",
     "UR:北区总空室上升",
-    "UR:王子五丁目",
+    "UR:神谷堀公園ハイツ",
     "UR:豊島五丁目",
-    "UR:赤羽北二丁目ハイツ",
-    "UR:赤羽南一丁目"
+    "UR:赤羽北二丁目ハイツ"
   ],
-  "last_ur_total_vacancies": 0,
-  "updated_at": "2026-07-25T03:35:01"
+  "last_ur_total_vacancies": 5,
+  "updated_at": "2026-07-25T06:05:36"
 }
