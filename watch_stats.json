@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-07-26T03:40:28",
-  "total_checks": 61,
+  "updated_at": "2026-07-26T03:53:19",
+  "total_checks": 62,
   "buckets": {
     "09:00": {
       "checks": 7,
@@ -424,14 +424,14 @@
       }
     },
     "03:00": {
-      "checks": 23,
-      "candidate_checks": 11,
+      "checks": 24,
+      "candidate_checks": 12,
       "target_checks": 0,
-      "listing_rows": 93,
-      "candidate_rows": 24,
+      "listing_rows": 98,
+      "candidate_rows": 26,
       "target_rows": 0,
-      "last_checked_at": "2026-07-26T03:40:23",
-      "last_candidate_at": "2026-07-26T03:40:23",
+      "last_checked_at": "2026-07-26T03:53:13",
+      "last_candidate_at": "2026-07-26T03:53:13",
       "last_target_at": null,
       "last_candidate_names": [
         "トミンタワー台場一番街",
@@ -471,8 +471,8 @@
           "building_year": 2000,
           "building_year_label": "竣工年月日 2000/02/08",
           "first_seen_at": "2026-07-22T03:28:20",
-          "last_seen_at": "2026-07-26T03:40:23",
-          "seen_count": 9
+          "last_seen_at": "2026-07-26T03:53:13",
+          "seen_count": 10
         },
         "宇喜田第二|江戸川区|２ＤＫ|42.83|73,200|3,100": {
           "name": "宇喜田第二",
@@ -499,8 +499,8 @@
           "building_year": 1980,
           "building_year_label": "竣工年月日 1980/11/29",
           "first_seen_at": "2026-07-22T03:28:20",
-          "last_seen_at": "2026-07-26T03:40:23",
-          "seen_count": 3
+          "last_seen_at": "2026-07-26T03:53:13",
+          "seen_count": 4
         },
         "新田|江戸川区|２ＤＫ|43.0|76,300|3,900": {
           "name": "新田",

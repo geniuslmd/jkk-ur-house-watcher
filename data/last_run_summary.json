@@ -1,13 +1,13 @@
 {
-  "checked_at": "2026-07-26T03:40:23",
+  "checked_at": "2026-07-26T03:53:13",
   "jkk_total": 5,
   "ur_total_vacancies": 3,
-  "new_events": 10,
+  "new_events": 5,
   "slack_candidates": 0,
-  "slack_skipped": 10,
+  "slack_skipped": 5,
   "slack_configured": true,
   "slack_sent": false,
-  "heartbeat_sent": true,
+  "heartbeat_sent": false,
   "dry_run_slack": false,
   "candidate_ids": [],
   "skipped": [
@@ -26,49 +26,19 @@
     {
       "stable_id": "ur_c93aff9f6053cff8",
       "building_name": "豊島五丁目",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_88a2ff0111a07273",
       "building_name": "豊島五丁目",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_f5ab123d275a0ee1",
       "building_name": "赤羽北二丁目ハイツ",
       "event_type": "still_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_b75b32d3b86bfe78",
-      "building_name": "コーシャハイム大森東",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_97b6df5145ba696f",
-      "building_name": "トミンタワー台場一番街",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_51ade5b9abdc4b4c",
-      "building_name": "新田第二",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_d8c7b4ea1e2ce4f3",
-      "building_name": "フレーシェル王子神谷",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_3f16d9c1797292f4",
-      "building_name": "神谷堀公園ハイツ",
-      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]
