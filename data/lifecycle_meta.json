@@ -1,9 +1,9 @@
 {
-  "boost_until": "2026-07-25T08:43:06",
+  "boost_until": "2026-07-26T04:00:23",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "JKK:新田第二"
+    "UR:豊島五丁目"
   ],
   "last_ur_total_vacancies": 3,
-  "updated_at": "2026-07-25T10:10:40"
+  "updated_at": "2026-07-26T03:40:23"
 }
