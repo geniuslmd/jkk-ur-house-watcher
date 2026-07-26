@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-07-26T03:53:19",
-  "total_checks": 62,
+  "updated_at": "2026-07-26T06:47:32",
+  "total_checks": 63,
   "buckets": {
     "09:00": {
       "checks": 7,
@@ -796,25 +796,17 @@
       }
     },
     "06:00": {
-      "checks": 7,
-      "candidate_checks": 4,
+      "checks": 8,
+      "candidate_checks": 5,
       "target_checks": 0,
-      "listing_rows": 45,
-      "candidate_rows": 24,
+      "listing_rows": 49,
+      "candidate_rows": 25,
       "target_rows": 0,
-      "last_checked_at": "2026-07-25T06:05:36",
-      "last_candidate_at": "2026-07-25T06:05:36",
+      "last_checked_at": "2026-07-26T06:47:29",
+      "last_candidate_at": "2026-07-26T06:47:29",
       "last_target_at": null,
       "last_candidate_names": [
-        "カーメスト新高円寺",
-        "コーシャハイム久我山",
-        "コーシャハイム仲池上",
-        "コーシャハイム坂下",
-        "コーシャハイム大森東",
-        "コーシャハイム緑四丁目",
-        "トミンタワー台場一番街",
-        "南葛西",
-        "新田"
+        "南葛西"
       ],
       "candidate_names_seen": [
         "カーメスト新高円寺",
@@ -1055,8 +1047,8 @@
           "building_year": 1980,
           "building_year_label": "竣工年月日 1980/11/29",
           "first_seen_at": "2026-07-25T06:05:36",
-          "last_seen_at": "2026-07-25T06:05:36",
-          "seen_count": 1
+          "last_seen_at": "2026-07-26T06:47:29",
+          "seen_count": 2
         }
       }
     }
