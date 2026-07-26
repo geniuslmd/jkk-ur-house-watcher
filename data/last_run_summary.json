@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-26T09:06:13",
+  "checked_at": "2026-07-26T10:53:08",
   "jkk_total": 4,
   "ur_total_vacancies": 4,
   "new_events": 5,
@@ -32,7 +32,7 @@
     {
       "stable_id": "ur_50e68d12504308f5",
       "building_name": "赤羽北二丁目",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {

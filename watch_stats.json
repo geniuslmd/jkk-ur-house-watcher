@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-07-26T09:06:19",
-  "total_checks": 64,
+  "updated_at": "2026-07-26T10:53:15",
+  "total_checks": 65,
   "buckets": {
     "09:00": {
       "checks": 8,
@@ -298,20 +298,17 @@
       }
     },
     "10:00": {
-      "checks": 8,
-      "candidate_checks": 3,
+      "checks": 9,
+      "candidate_checks": 4,
       "target_checks": 0,
-      "listing_rows": 32,
-      "candidate_rows": 8,
+      "listing_rows": 36,
+      "candidate_rows": 9,
       "target_rows": 0,
-      "last_checked_at": "2026-07-25T10:10:40",
-      "last_candidate_at": "2026-07-25T10:10:40",
+      "last_checked_at": "2026-07-26T10:53:08",
+      "last_candidate_at": "2026-07-26T10:53:08",
       "last_target_at": null,
       "last_candidate_names": [
-        "コーシャハイム大森東",
-        "トミンタワー台場一番街",
-        "南葛西",
-        "新田第二"
+        "南葛西"
       ],
       "candidate_names_seen": [
         "コーシャハイム大森東",
@@ -432,8 +429,8 @@
           "building_year": 1980,
           "building_year_label": "竣工年月日 1980/11/29",
           "first_seen_at": "2026-07-25T10:10:40",
-          "last_seen_at": "2026-07-25T10:10:40",
-          "seen_count": 1
+          "last_seen_at": "2026-07-26T10:53:08",
+          "seen_count": 2
         }
       }
     },
