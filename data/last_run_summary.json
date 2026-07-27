@@ -1,50 +1,44 @@
 {
-  "checked_at": "2026-07-27T03:50:14",
-  "jkk_total": 7,
+  "checked_at": "2026-07-27T04:00:03",
+  "jkk_total": 6,
   "ur_total_vacancies": 3,
-  "new_events": 11,
+  "new_events": 7,
   "slack_candidates": 0,
-  "slack_skipped": 11,
+  "slack_skipped": 7,
   "slack_configured": true,
   "slack_sent": false,
-  "heartbeat_sent": true,
+  "heartbeat_sent": false,
   "dry_run_slack": false,
   "candidate_ids": [],
   "skipped": [
     {
       "stable_id": "jkk_f59b2b32671d80a0",
       "building_name": "トミンタワー台場一番街",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "jkk_d4385554509ec877",
       "building_name": "コーシャハイム仲池上",
-      "event_type": "reappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_d78f7d91bbf924e4",
-      "building_name": "カーメスト大蔵の杜",
-      "event_type": "first_seen",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "jkk_6e403c2d1b24af89",
       "building_name": "新田",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_909ada53d6be01cd",
       "building_name": "豊島五丁目",
-      "event_type": "first_seen",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_c0f7ce9031adda3a",
       "building_name": "赤羽北二丁目",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
@@ -54,27 +48,9 @@
       "reason": "not_actionable"
     },
     {
-      "stable_id": "ur_50e68d12504308f5",
-      "building_name": "赤羽北二丁目",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_7a6932488b578ead",
-      "building_name": "南葛西",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_88a2ff0111a07273",
-      "building_name": "豊島五丁目",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_c93aff9f6053cff8",
-      "building_name": "豊島五丁目",
-      "event_type": "disappeared",
+      "stable_id": "jkk_d78f7d91bbf924e4",
+      "building_name": "カーメスト大蔵の杜",
+      "event_type": "disappeared_fast",
       "reason": "not_actionable"
     }
   ]
