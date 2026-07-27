@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-07-27T04:00:12",
-  "total_checks": 67,
+  "updated_at": "2026-07-27T07:48:24",
+  "total_checks": 68,
   "buckets": {
     "09:00": {
       "checks": 8,
@@ -265,20 +265,21 @@
       }
     },
     "07:00": {
-      "checks": 3,
-      "candidate_checks": 1,
+      "checks": 4,
+      "candidate_checks": 2,
       "target_checks": 0,
-      "listing_rows": 10,
-      "candidate_rows": 1,
+      "listing_rows": 14,
+      "candidate_rows": 2,
       "target_rows": 0,
-      "last_checked_at": "2026-07-18T07:38:08",
-      "last_candidate_at": "2026-07-13T07:35:55",
+      "last_checked_at": "2026-07-27T07:48:20",
+      "last_candidate_at": "2026-07-27T07:48:20",
       "last_target_at": null,
       "last_candidate_names": [
-        "コーシャハイム南葛西五丁目"
+        "トミンタワー台場一番街"
       ],
       "candidate_names_seen": [
-        "コーシャハイム南葛西五丁目"
+        "コーシャハイム南葛西五丁目",
+        "トミンタワー台場一番街"
       ],
       "candidate_seen": {
         "コーシャハイム南葛西五丁目|江戸川区|３ＤＫ|60.47|94,000|3,100": {
@@ -293,6 +294,20 @@
           "building_year_label": "竣工年月日 1988/03/11",
           "first_seen_at": "2026-07-13T07:35:55",
           "last_seen_at": "2026-07-13T07:35:55",
+          "seen_count": 1
+        },
+        "トミンタワー台場一番街|港区|３ＬＤＫ|73.3|298,000|5,500": {
+          "name": "トミンタワー台場一番街",
+          "area": "港区",
+          "layout": "３ＬＤＫ",
+          "floor_area_m2": "73.3",
+          "rent_yen": "298,000",
+          "common_fee_yen": "5,500",
+          "units": "1",
+          "building_year": 2000,
+          "building_year_label": "竣工年月日 2000/02/08",
+          "first_seen_at": "2026-07-27T07:48:20",
+          "last_seen_at": "2026-07-27T07:48:20",
           "seen_count": 1
         }
       }

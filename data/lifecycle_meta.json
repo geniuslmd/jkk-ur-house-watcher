@@ -1,14 +1,9 @@
 {
-  "boost_until": "2026-07-27T04:10:14",
+  "boost_until": "2026-07-27T08:08:20",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "JKK:カーメスト大蔵の杜",
-    "JKK:コーシャハイム仲池上",
-    "JKK:トミンタワー台場一番街",
-    "JKK:新田",
-    "UR:豊島五丁目",
     "UR:赤羽北二丁目"
   ],
   "last_ur_total_vacancies": 3,
-  "updated_at": "2026-07-27T04:00:03"
+  "updated_at": "2026-07-27T07:48:20"
 }
