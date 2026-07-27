@@ -755,16 +755,16 @@
       }
     },
     "first_seen_at": "2026-07-13T03:41:27",
-    "last_seen_at": "2026-07-27T07:48:20",
+    "last_seen_at": "2026-07-27T11:00:47",
     "current_appearance_started_at": "2026-07-27T03:50:14",
     "disappeared_at": null,
-    "lifetime_minutes": 238.1,
+    "lifetime_minutes": 430.6,
     "appearance_count": 7,
-    "consecutive_seen_count": 3,
-    "total_seen_checks": 37,
+    "consecutive_seen_count": 4,
+    "total_seen_checks": 38,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260727_074820",
+    "last_snapshot_id": "snapshot_20260727_110047",
     "appearances": [
       {
         "start": "2026-07-13T03:41:27",
@@ -1678,16 +1678,16 @@
       }
     },
     "first_seen_at": "2026-07-14T08:27:09",
-    "last_seen_at": "2026-07-27T07:48:20",
+    "last_seen_at": "2026-07-27T11:00:47",
     "current_appearance_started_at": "2026-07-27T07:48:20",
     "disappeared_at": null,
-    "lifetime_minutes": 0.0,
+    "lifetime_minutes": 192.4,
     "appearance_count": 5,
-    "consecutive_seen_count": 1,
-    "total_seen_checks": 10,
+    "consecutive_seen_count": 2,
+    "total_seen_checks": 11,
     "current_status": "reappeared",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260727_074820",
+    "last_snapshot_id": "snapshot_20260727_110047",
     "appearances": [
       {
         "start": "2026-07-14T08:27:09",
@@ -2626,16 +2626,16 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-18T05:49:45",
-    "last_seen_at": "2026-07-27T07:48:20",
+    "last_seen_at": "2026-07-27T11:00:47",
     "current_appearance_started_at": "2026-07-27T03:50:14",
     "disappeared_at": null,
-    "lifetime_minutes": 238.1,
+    "lifetime_minutes": 430.6,
     "appearance_count": 3,
-    "consecutive_seen_count": 3,
-    "total_seen_checks": 28,
+    "consecutive_seen_count": 4,
+    "total_seen_checks": 29,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260727_074820",
+    "last_snapshot_id": "snapshot_20260727_110047",
     "appearances": [
       {
         "start": "2026-07-18T05:49:45",
@@ -4468,16 +4468,16 @@
       }
     },
     "first_seen_at": "2026-07-24T06:15:28",
-    "last_seen_at": "2026-07-25T10:10:40",
-    "current_appearance_started_at": "2026-07-25T06:05:36",
-    "disappeared_at": "2026-07-26T03:40:23",
-    "lifetime_minutes": 1294.8,
-    "appearance_count": 2,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 7,
-    "current_status": "disappeared",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260726_034023",
+    "last_seen_at": "2026-07-27T11:00:47",
+    "current_appearance_started_at": "2026-07-27T11:00:47",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 3,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 8,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260727_110047",
     "appearances": [
       {
         "start": "2026-07-24T06:15:28",
@@ -4490,6 +4490,11 @@
         "end": "2026-07-26T03:40:23",
         "status": "disappeared",
         "lifetime_minutes": 1294.8
+      },
+      {
+        "start": "2026-07-27T11:00:47",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
@@ -4956,16 +4961,16 @@
       }
     },
     "first_seen_at": "2026-07-25T03:27:09",
-    "last_seen_at": "2026-07-27T07:48:20",
+    "last_seen_at": "2026-07-27T11:00:47",
     "current_appearance_started_at": "2026-07-25T06:05:36",
     "disappeared_at": null,
-    "lifetime_minutes": 2982.7,
+    "lifetime_minutes": 3175.2,
     "appearance_count": 2,
-    "consecutive_seen_count": 11,
-    "total_seen_checks": 12,
+    "consecutive_seen_count": 12,
+    "total_seen_checks": 13,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260727_074820",
+    "last_snapshot_id": "snapshot_20260727_110047",
     "appearances": [
       {
         "start": "2026-07-25T03:27:09",

@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-07-27T07:48:20",
+  "checked_at": "2026-07-27T11:00:47",
   "jkk_total": 4,
-  "ur_total_vacancies": 3,
-  "new_events": 7,
+  "ur_total_vacancies": 4,
+  "new_events": 5,
   "slack_candidates": 0,
-  "slack_skipped": 7,
+  "slack_skipped": 5,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -14,19 +14,19 @@
     {
       "stable_id": "jkk_f59b2b32671d80a0",
       "building_name": "トミンタワー台場一番街",
-      "event_type": "stable",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_c0f7ce9031adda3a",
       "building_name": "赤羽北二丁目",
-      "event_type": "stable",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_50e68d12504308f5",
       "building_name": "赤羽北二丁目",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
@@ -36,21 +36,9 @@
       "reason": "not_actionable"
     },
     {
-      "stable_id": "jkk_6e403c2d1b24af89",
-      "building_name": "新田",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_d4385554509ec877",
-      "building_name": "コーシャハイム仲池上",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_909ada53d6be01cd",
-      "building_name": "豊島五丁目",
-      "event_type": "disappeared",
+      "stable_id": "ur_3f16d9c1797292f4",
+      "building_name": "神谷堀公園ハイツ",
+      "event_type": "reappeared",
       "reason": "not_actionable"
     }
   ]
