@@ -1008,14 +1008,14 @@
     "first_seen_at": "2026-07-13T07:35:55",
     "last_seen_at": "2026-07-28T03:32:34",
     "current_appearance_started_at": "2026-07-28T03:21:10",
-    "disappeared_at": null,
-    "lifetime_minutes": 11.4,
+    "disappeared_at": "2026-07-28T06:14:03",
+    "lifetime_minutes": 172.9,
     "appearance_count": 4,
-    "consecutive_seen_count": 2,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 5,
-    "current_status": "reappeared",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260728_033234",
+    "current_status": "disappeared",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260728_061403",
     "appearances": [
       {
         "start": "2026-07-13T07:35:55",
@@ -1037,8 +1037,9 @@
       },
       {
         "start": "2026-07-28T03:21:10",
-        "end": null,
-        "status": "active"
+        "end": "2026-07-28T06:14:03",
+        "status": "disappeared",
+        "lifetime_minutes": 172.9
       }
     ],
     "quick_tags": [
@@ -2633,16 +2634,16 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-18T05:49:45",
-    "last_seen_at": "2026-07-28T03:32:34",
+    "last_seen_at": "2026-07-28T06:14:03",
     "current_appearance_started_at": "2026-07-27T03:50:14",
     "disappeared_at": null,
-    "lifetime_minutes": 1422.3,
+    "lifetime_minutes": 1583.8,
     "appearance_count": 3,
-    "consecutive_seen_count": 6,
-    "total_seen_checks": 31,
+    "consecutive_seen_count": 7,
+    "total_seen_checks": 32,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260728_033234",
+    "last_snapshot_id": "snapshot_20260728_061403",
     "appearances": [
       {
         "start": "2026-07-18T05:49:45",
@@ -2677,7 +2678,7 @@
     "room_no": "",
     "layout": "３ＤＫ",
     "area": "60.17",
-    "rent": "105,300",
+    "rent": "106,300",
     "common_fee": "3,400",
     "detail_url": "https://jhomes.to-kousya.or.jp/search/jkknet/service/akiyaJyoukenStartInit",
     "is_high_priority": false,
@@ -2690,7 +2691,7 @@
       "housing_type": "一般賃貸住宅",
       "layout": "３ＤＫ",
       "floor_area_m2": "60.17",
-      "rent_yen": "105,300",
+      "rent_yen": "106,300",
       "common_fee_yen": "3,400",
       "units": "1",
       "detail_onclick": "javascript:senPage('','A1492','2080070','0002'); return false",
@@ -2715,16 +2716,16 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-18T05:49:45",
-    "last_seen_at": "2026-07-28T03:32:34",
+    "last_seen_at": "2026-07-28T06:14:03",
     "current_appearance_started_at": "2026-07-28T03:21:10",
     "disappeared_at": null,
-    "lifetime_minutes": 11.4,
+    "lifetime_minutes": 172.9,
     "appearance_count": 2,
-    "consecutive_seen_count": 2,
-    "total_seen_checks": 3,
-    "current_status": "reappeared",
+    "consecutive_seen_count": 3,
+    "total_seen_checks": 4,
+    "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260728_033234",
+    "last_snapshot_id": "snapshot_20260728_061403",
     "appearances": [
       {
         "start": "2026-07-18T05:49:45",
@@ -2983,7 +2984,7 @@
         "name": "豊島五丁目",
         "place": "北区豊島5-4ほか",
         "traffic": "JR京浜東北・根岸線「王子」駅バス7分 徒歩2～6分 東京メトロ南北線「王子」駅バス7分 徒歩2～6分",
-        "room_count": 2,
+        "room_count": 1,
         "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320.html",
         "shisya": "20",
         "danchi": "232",
@@ -2999,23 +3000,6 @@
             "rent_yen": "93,200円",
             "common_fee_yen": "3,300円",
             "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000070204",
-            "stable_id": "",
-            "current_status": "",
-            "first_seen_at": "",
-            "last_seen_at": "",
-            "lifetime_minutes": 0.0,
-            "appearance_count": 0,
-            "quick_tags": null
-          },
-          {
-            "building": "8号棟",
-            "room_no": "911号室",
-            "layout": "2DK",
-            "floor_area_m2": "49m2",
-            "floor": "9階",
-            "rent_yen": "87,300円",
-            "common_fee_yen": "3,300円",
-            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000080911",
             "stable_id": "",
             "current_status": "",
             "first_seen_at": "",
@@ -3045,16 +3029,16 @@
       }
     },
     "first_seen_at": "2026-07-22T03:28:20",
-    "last_seen_at": "2026-07-25T06:05:36",
-    "current_appearance_started_at": "2026-07-25T06:05:36",
-    "disappeared_at": "2026-07-25T08:23:06",
-    "lifetime_minutes": 137.5,
-    "appearance_count": 2,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 17,
-    "current_status": "disappeared",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260725_082306",
+    "last_seen_at": "2026-07-28T06:14:03",
+    "current_appearance_started_at": "2026-07-28T06:14:03",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 3,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 18,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260728_061403",
     "appearances": [
       {
         "start": "2026-07-22T03:28:20",
@@ -3067,6 +3051,11 @@
         "end": "2026-07-25T08:23:06",
         "status": "disappeared",
         "lifetime_minutes": 137.5
+      },
+      {
+        "start": "2026-07-28T06:14:03",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
@@ -3234,14 +3223,14 @@
     "first_seen_at": "2026-07-22T03:43:38",
     "last_seen_at": "2026-07-28T03:32:34",
     "current_appearance_started_at": "2026-07-28T03:21:10",
-    "disappeared_at": null,
-    "lifetime_minutes": 11.4,
+    "disappeared_at": "2026-07-28T06:14:03",
+    "lifetime_minutes": 172.9,
     "appearance_count": 4,
-    "consecutive_seen_count": 2,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 6,
-    "current_status": "reappeared",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260728_033234",
+    "current_status": "disappeared",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260728_061403",
     "appearances": [
       {
         "start": "2026-07-22T03:43:38",
@@ -3263,8 +3252,9 @@
       },
       {
         "start": "2026-07-28T03:21:10",
-        "end": null,
-        "status": "active"
+        "end": "2026-07-28T06:14:03",
+        "status": "disappeared",
+        "lifetime_minutes": 172.9
       }
     ],
     "quick_tags": [
@@ -4980,16 +4970,16 @@
       }
     },
     "first_seen_at": "2026-07-25T03:27:09",
-    "last_seen_at": "2026-07-28T03:21:10",
-    "current_appearance_started_at": "2026-07-25T06:05:36",
-    "disappeared_at": "2026-07-28T03:32:34",
-    "lifetime_minutes": 4167.0,
-    "appearance_count": 2,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 14,
-    "current_status": "disappeared",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260728_033234",
+    "last_seen_at": "2026-07-28T06:14:03",
+    "current_appearance_started_at": "2026-07-28T06:14:03",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 3,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 15,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260728_061403",
     "appearances": [
       {
         "start": "2026-07-25T03:27:09",
@@ -5002,6 +4992,11 @@
         "end": "2026-07-28T03:32:34",
         "status": "disappeared",
         "lifetime_minutes": 4167.0
+      },
+      {
+        "start": "2026-07-28T06:14:03",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
@@ -5201,14 +5196,14 @@
     "first_seen_at": "2026-07-25T06:05:36",
     "last_seen_at": "2026-07-28T03:32:34",
     "current_appearance_started_at": "2026-07-28T03:21:10",
-    "disappeared_at": null,
-    "lifetime_minutes": 11.4,
+    "disappeared_at": "2026-07-28T06:14:03",
+    "lifetime_minutes": 172.9,
     "appearance_count": 2,
-    "consecutive_seen_count": 2,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 3,
-    "current_status": "reappeared",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260728_033234",
+    "current_status": "disappeared",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260728_061403",
     "appearances": [
       {
         "start": "2026-07-25T06:05:36",
@@ -5218,8 +5213,9 @@
       },
       {
         "start": "2026-07-28T03:21:10",
-        "end": null,
-        "status": "active"
+        "end": "2026-07-28T06:14:03",
+        "status": "disappeared",
+        "lifetime_minutes": 172.9
       }
     ],
     "quick_tags": [
@@ -5501,16 +5497,16 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-28T03:21:10",
-    "last_seen_at": "2026-07-28T03:32:34",
+    "last_seen_at": "2026-07-28T06:14:03",
     "current_appearance_started_at": "2026-07-28T03:21:10",
     "disappeared_at": null,
-    "lifetime_minutes": 11.4,
+    "lifetime_minutes": 172.9,
     "appearance_count": 1,
-    "consecutive_seen_count": 2,
-    "total_seen_checks": 2,
-    "current_status": "new",
+    "consecutive_seen_count": 3,
+    "total_seen_checks": 3,
+    "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260728_033234",
+    "last_snapshot_id": "snapshot_20260728_061403",
     "appearances": [
       {
         "start": "2026-07-28T03:21:10",
@@ -5639,19 +5635,20 @@
     "first_seen_at": "2026-07-28T03:21:10",
     "last_seen_at": "2026-07-28T03:32:34",
     "current_appearance_started_at": "2026-07-28T03:21:10",
-    "disappeared_at": null,
-    "lifetime_minutes": 11.4,
+    "disappeared_at": "2026-07-28T06:14:03",
+    "lifetime_minutes": 172.9,
     "appearance_count": 1,
-    "consecutive_seen_count": 2,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 2,
-    "current_status": "new",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260728_033234",
+    "current_status": "disappeared",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260728_061403",
     "appearances": [
       {
         "start": "2026-07-28T03:21:10",
-        "end": null,
-        "status": "active"
+        "end": "2026-07-28T06:14:03",
+        "status": "disappeared",
+        "lifetime_minutes": 172.9
       }
     ],
     "quick_tags": [
@@ -5745,6 +5742,75 @@
       "参考向",
       "高价",
       "大户型"
+    ]
+  },
+  "jkk_eef6ee72ae75dffe": {
+    "stable_id": "jkk_eef6ee72ae75dffe",
+    "source": "JKK",
+    "official_id": "jkk::L8792:2180440:0000",
+    "building_name": "カーメスト興野町",
+    "room_no": "",
+    "layout": "１ＬＤＫ",
+    "area": "40.71",
+    "rent": "90,200",
+    "common_fee": "6,000",
+    "detail_url": "https://jhomes.to-kousya.or.jp/search/jkknet/service/akiyaJyoukenStartInit",
+    "is_high_priority": true,
+    "source_label": "JKK",
+    "action_hint": "发现新房，请尽快手动登录官网确认。",
+    "raw": {
+      "name": "カーメスト興野町",
+      "area": "足立区",
+      "priority": "一般",
+      "housing_type": "一般賃貸住宅（期限付）",
+      "layout": "１ＬＤＫ",
+      "floor_area_m2": "40.71",
+      "rent_yen": "90,200",
+      "common_fee_yen": "6,000",
+      "units": "1",
+      "detail_onclick": "javascript:senPage('','L8792','2180440','0000'); return false",
+      "detail_params": [
+        "",
+        "L8792",
+        "2180440",
+        "0000"
+      ],
+      "building_year": 2022,
+      "building_year_label": "竣工年月日 2022/09/30",
+      "detail_error": "",
+      "is_target": false,
+      "is_excluded": false,
+      "is_newer_building": true,
+      "stable_id": "",
+      "current_status": "",
+      "first_seen_at": "",
+      "last_seen_at": "",
+      "lifetime_minutes": 0.0,
+      "appearance_count": 0,
+      "quick_tags": null
+    },
+    "first_seen_at": "2026-07-28T06:14:03",
+    "last_seen_at": "2026-07-28T06:14:03",
+    "current_appearance_started_at": "2026-07-28T06:14:03",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260728_061403",
+    "appearances": [
+      {
+        "start": "2026-07-28T06:14:03",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "建议手动登录确认",
+      "高优先级",
+      "低价"
     ]
   }
 }

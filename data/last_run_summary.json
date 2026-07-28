@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-07-28T03:32:34",
-  "jkk_total": 10,
-  "ur_total_vacancies": 0,
-  "new_events": 12,
+  "checked_at": "2026-07-28T06:14:03",
+  "jkk_total": 7,
+  "ur_total_vacancies": 2,
+  "new_events": 10,
   "slack_candidates": 0,
-  "slack_skipped": 12,
+  "slack_skipped": 10,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -20,67 +20,55 @@
     {
       "stable_id": "jkk_60b7a36f005e9cc2",
       "building_name": "トミンハイム宮坂二丁目",
-      "event_type": "still_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_e5e2911e2aaf3052",
-      "building_name": "カーメスト新高円寺",
-      "event_type": "still_seen",
+      "event_type": "stable",
       "reason": "not_actionable"
     },
     {
       "stable_id": "jkk_d57ad729fc64ca15",
       "building_name": "コーシャハイム光が丘第二",
-      "event_type": "still_seen",
+      "event_type": "stable",
       "reason": "not_actionable"
     },
     {
-      "stable_id": "jkk_6e403c2d1b24af89",
-      "building_name": "新田",
-      "event_type": "still_seen",
+      "stable_id": "jkk_eef6ee72ae75dffe",
+      "building_name": "カーメスト興野町",
+      "event_type": "first_seen",
       "reason": "not_actionable"
     },
     {
-      "stable_id": "jkk_2af168f761e61020",
-      "building_name": "コーシャハイム南葛西五丁目",
-      "event_type": "still_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_0fc4886ea90956b6",
-      "building_name": "コーシャタワー小松川",
-      "event_type": "still_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_c0f7ce9031adda3a",
-      "building_name": "赤羽北二丁目",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_50e68d12504308f5",
-      "building_name": "赤羽北二丁目",
-      "event_type": "disappeared",
+      "stable_id": "ur_40dff66740453804",
+      "building_name": "豊島五丁目",
+      "event_type": "reappeared",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_f5ab123d275a0ee1",
       "building_name": "赤羽北二丁目ハイツ",
+      "event_type": "reappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_2af168f761e61020",
+      "building_name": "コーシャハイム南葛西五丁目",
       "event_type": "disappeared",
       "reason": "not_actionable"
     },
     {
-      "stable_id": "jkk_d439e92d156da8a0",
-      "building_name": "コーシャハイム太子堂",
-      "event_type": "disappeared_fast",
+      "stable_id": "jkk_6e403c2d1b24af89",
+      "building_name": "新田",
+      "event_type": "disappeared",
       "reason": "not_actionable"
     },
     {
-      "stable_id": "ur_632f23f76db15621",
-      "building_name": "フレーシェル王子神谷",
-      "event_type": "disappeared_fast",
+      "stable_id": "jkk_e5e2911e2aaf3052",
+      "building_name": "カーメスト新高円寺",
+      "event_type": "disappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_0fc4886ea90956b6",
+      "building_name": "コーシャタワー小松川",
+      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]

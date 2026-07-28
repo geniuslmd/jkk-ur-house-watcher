@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-07-28T03:33:02",
-  "total_checks": 71,
+  "updated_at": "2026-07-28T06:14:08",
+  "total_checks": 72,
   "buckets": {
     "09:00": {
       "checks": 8,
@@ -961,28 +961,34 @@
       }
     },
     "06:00": {
-      "checks": 8,
-      "candidate_checks": 5,
+      "checks": 9,
+      "candidate_checks": 6,
       "target_checks": 0,
-      "listing_rows": 49,
-      "candidate_rows": 25,
+      "listing_rows": 56,
+      "candidate_rows": 29,
       "target_rows": 0,
-      "last_checked_at": "2026-07-26T06:47:29",
-      "last_candidate_at": "2026-07-26T06:47:29",
+      "last_checked_at": "2026-07-28T06:14:03",
+      "last_candidate_at": "2026-07-28T06:14:03",
       "last_target_at": null,
       "last_candidate_names": [
-        "南葛西"
+        "カーメスト興野町",
+        "コーシャハイム光が丘第二",
+        "トミンタワー台場一番街",
+        "トミンハイム宮坂二丁目"
       ],
       "candidate_names_seen": [
         "カーメスト新高円寺",
+        "カーメスト興野町",
         "コーシャハイム上鷺宮",
         "コーシャハイム久我山",
         "コーシャハイム仲池上",
+        "コーシャハイム光が丘第二",
         "コーシャハイム坂下",
         "コーシャハイム大森東",
         "コーシャハイム春江町五丁目",
         "コーシャハイム緑四丁目",
         "トミンタワー台場一番街",
+        "トミンハイム宮坂二丁目",
         "南葛西",
         "堀江",
         "宇喜田第二",
@@ -1002,8 +1008,8 @@
           "building_year": 2000,
           "building_year_label": "竣工年月日 2000/02/08",
           "first_seen_at": "2026-07-22T06:17:58",
-          "last_seen_at": "2026-07-25T06:05:36",
-          "seen_count": 4
+          "last_seen_at": "2026-07-28T06:14:03",
+          "seen_count": 5
         },
         "コーシャハイム緑四丁目|墨田区|２ＬＤＫ|57.0|135,200|4,000": {
           "name": "コーシャハイム緑四丁目",
@@ -1214,6 +1220,48 @@
           "first_seen_at": "2026-07-25T06:05:36",
           "last_seen_at": "2026-07-26T06:47:29",
           "seen_count": 2
+        },
+        "トミンハイム宮坂二丁目|世田谷区|２ＬＤＫ|68.06|169,900|7,100": {
+          "name": "トミンハイム宮坂二丁目",
+          "area": "世田谷区",
+          "layout": "２ＬＤＫ",
+          "floor_area_m2": "68.06",
+          "rent_yen": "169,900",
+          "common_fee_yen": "7,100",
+          "units": "1",
+          "building_year": 1999,
+          "building_year_label": "竣工年月日 1999/04/26",
+          "first_seen_at": "2026-07-28T06:14:03",
+          "last_seen_at": "2026-07-28T06:14:03",
+          "seen_count": 1
+        },
+        "コーシャハイム光が丘第二|練馬区|３ＤＫ|60.17|106,300|3,400": {
+          "name": "コーシャハイム光が丘第二",
+          "area": "練馬区",
+          "layout": "３ＤＫ",
+          "floor_area_m2": "60.17",
+          "rent_yen": "106,300",
+          "common_fee_yen": "3,400",
+          "units": "1",
+          "building_year": 1985,
+          "building_year_label": "竣工年月日 1985/03/24",
+          "first_seen_at": "2026-07-28T06:14:03",
+          "last_seen_at": "2026-07-28T06:14:03",
+          "seen_count": 1
+        },
+        "カーメスト興野町|足立区|１ＬＤＫ|40.71|90,200|6,000": {
+          "name": "カーメスト興野町",
+          "area": "足立区",
+          "layout": "１ＬＤＫ",
+          "floor_area_m2": "40.71",
+          "rent_yen": "90,200",
+          "common_fee_yen": "6,000",
+          "units": "1",
+          "building_year": 2022,
+          "building_year_label": "竣工年月日 2022/09/30",
+          "first_seen_at": "2026-07-28T06:14:03",
+          "last_seen_at": "2026-07-28T06:14:03",
+          "seen_count": 1
         }
       }
     },
