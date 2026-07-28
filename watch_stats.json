@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-07-28T03:21:22",
-  "total_checks": 70,
+  "updated_at": "2026-07-28T03:33:02",
+  "total_checks": 71,
   "buckets": {
     "09:00": {
       "checks": 8,
@@ -450,21 +450,20 @@
       }
     },
     "03:00": {
-      "checks": 26,
-      "candidate_checks": 14,
+      "checks": 27,
+      "candidate_checks": 15,
       "target_checks": 0,
-      "listing_rows": 116,
-      "candidate_rows": 38,
+      "listing_rows": 126,
+      "candidate_rows": 45,
       "target_rows": 0,
-      "last_checked_at": "2026-07-28T03:21:10",
-      "last_candidate_at": "2026-07-28T03:21:10",
+      "last_checked_at": "2026-07-28T03:32:34",
+      "last_candidate_at": "2026-07-28T03:32:34",
       "last_target_at": null,
       "last_candidate_names": [
         "カーメスト新高円寺",
         "コーシャタワー小松川",
         "コーシャハイム光が丘第二",
         "コーシャハイム南葛西五丁目",
-        "コーシャハイム太子堂",
         "トミンタワー台場一番街",
         "トミンハイム宮坂二丁目",
         "新田"
@@ -511,8 +510,8 @@
           "building_year": 2000,
           "building_year_label": "竣工年月日 2000/02/08",
           "first_seen_at": "2026-07-22T03:28:20",
-          "last_seen_at": "2026-07-28T03:21:10",
-          "seen_count": 12
+          "last_seen_at": "2026-07-28T03:32:34",
+          "seen_count": 13
         },
         "宇喜田第二|江戸川区|２ＤＫ|42.83|73,200|3,100": {
           "name": "宇喜田第二",
@@ -637,8 +636,8 @@
           "building_year": 1975,
           "building_year_label": "竣工年月日 1975/08/30",
           "first_seen_at": "2026-07-27T03:50:14",
-          "last_seen_at": "2026-07-28T03:21:10",
-          "seen_count": 2
+          "last_seen_at": "2026-07-28T03:32:34",
+          "seen_count": 3
         },
         "トミンハイム宮坂二丁目|世田谷区|２ＬＤＫ|68.06|169,900|7,100": {
           "name": "トミンハイム宮坂二丁目",
@@ -651,8 +650,8 @@
           "building_year": 1999,
           "building_year_label": "竣工年月日 1999/04/26",
           "first_seen_at": "2026-07-28T03:21:10",
-          "last_seen_at": "2026-07-28T03:21:10",
-          "seen_count": 1
+          "last_seen_at": "2026-07-28T03:32:34",
+          "seen_count": 2
         },
         "コーシャハイム太子堂|世田谷区|２ＤＫ|45.72|143,600|5,300": {
           "name": "コーシャハイム太子堂",
@@ -679,8 +678,8 @@
           "building_year": 2023,
           "building_year_label": "竣工年月日 2023/08/15",
           "first_seen_at": "2026-07-28T03:21:10",
-          "last_seen_at": "2026-07-28T03:21:10",
-          "seen_count": 1
+          "last_seen_at": "2026-07-28T03:32:34",
+          "seen_count": 2
         },
         "コーシャハイム光が丘第二|練馬区|３ＤＫ|60.17|105,300|3,400": {
           "name": "コーシャハイム光が丘第二",
@@ -693,8 +692,8 @@
           "building_year": 1985,
           "building_year_label": "竣工年月日 1985/03/24",
           "first_seen_at": "2026-07-28T03:21:10",
-          "last_seen_at": "2026-07-28T03:21:10",
-          "seen_count": 1
+          "last_seen_at": "2026-07-28T03:32:34",
+          "seen_count": 2
         },
         "コーシャハイム南葛西五丁目|江戸川区|３ＤＫ|60.47|90,500|3,100": {
           "name": "コーシャハイム南葛西五丁目",
@@ -707,8 +706,8 @@
           "building_year": 1986,
           "building_year_label": "竣工年月日 1986/03/25",
           "first_seen_at": "2026-07-28T03:21:10",
-          "last_seen_at": "2026-07-28T03:21:10",
-          "seen_count": 1
+          "last_seen_at": "2026-07-28T03:32:34",
+          "seen_count": 2
         },
         "コーシャタワー小松川|江戸川区|３ＤＫ|60.01|128,200|5,700": {
           "name": "コーシャタワー小松川",
@@ -721,8 +720,8 @@
           "building_year": 1993,
           "building_year_label": "竣工年月日 1993/03/12",
           "first_seen_at": "2026-07-28T03:21:10",
-          "last_seen_at": "2026-07-28T03:21:10",
-          "seen_count": 1
+          "last_seen_at": "2026-07-28T03:32:34",
+          "seen_count": 2
         }
       }
     },
