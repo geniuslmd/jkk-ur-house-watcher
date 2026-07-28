@@ -2,27 +2,28 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-07-28T06:14:08",
-  "total_checks": 72,
+  "updated_at": "2026-07-28T09:11:47",
+  "total_checks": 73,
   "buckets": {
     "09:00": {
-      "checks": 8,
-      "candidate_checks": 6,
+      "checks": 9,
+      "candidate_checks": 7,
       "target_checks": 0,
-      "listing_rows": 39,
-      "candidate_rows": 15,
+      "listing_rows": 43,
+      "candidate_rows": 16,
       "target_rows": 0,
-      "last_checked_at": "2026-07-26T09:06:13",
-      "last_candidate_at": "2026-07-26T09:06:13",
+      "last_checked_at": "2026-07-28T09:11:44",
+      "last_candidate_at": "2026-07-28T09:11:44",
       "last_target_at": null,
       "last_candidate_names": [
-        "南葛西"
+        "トミンハイム宮坂二丁目"
       ],
       "candidate_names_seen": [
         "コーシャハイム上鷺宮",
         "コーシャハイム南葛西五丁目",
         "コーシャハイム大森東",
         "トミンタワー台場一番街",
+        "トミンハイム宮坂二丁目",
         "南葛西",
         "宇喜田第二",
         "新田第二",
@@ -153,6 +154,20 @@
           "building_year_label": "竣工年月日 1980/11/29",
           "first_seen_at": "2026-07-26T09:06:13",
           "last_seen_at": "2026-07-26T09:06:13",
+          "seen_count": 1
+        },
+        "トミンハイム宮坂二丁目|世田谷区|２ＬＤＫ|68.06|169,900|7,100": {
+          "name": "トミンハイム宮坂二丁目",
+          "area": "世田谷区",
+          "layout": "２ＬＤＫ",
+          "floor_area_m2": "68.06",
+          "rent_yen": "169,900",
+          "common_fee_yen": "7,100",
+          "units": "1",
+          "building_year": 1999,
+          "building_year_label": "竣工年月日 1999/04/26",
+          "first_seen_at": "2026-07-28T09:11:44",
+          "last_seen_at": "2026-07-28T09:11:44",
           "seen_count": 1
         }
       }
