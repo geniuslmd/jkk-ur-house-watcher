@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-07-29T03:23:18",
-  "total_checks": 75,
+  "updated_at": "2026-07-29T03:36:17",
+  "total_checks": 76,
   "buckets": {
     "09:00": {
       "checks": 9,
@@ -480,14 +480,14 @@
       }
     },
     "03:00": {
-      "checks": 28,
-      "candidate_checks": 16,
+      "checks": 29,
+      "candidate_checks": 17,
       "target_checks": 0,
-      "listing_rows": 131,
-      "candidate_rows": 47,
+      "listing_rows": 136,
+      "candidate_rows": 49,
       "target_rows": 0,
-      "last_checked_at": "2026-07-29T03:23:13",
-      "last_candidate_at": "2026-07-29T03:23:13",
+      "last_checked_at": "2026-07-29T03:36:10",
+      "last_candidate_at": "2026-07-29T03:36:10",
       "last_target_at": null,
       "last_candidate_names": [
         "カーメスト大蔵の杜",
@@ -647,8 +647,8 @@
           "building_year": 2022,
           "building_year_label": "竣工年月日 2022/07/01",
           "first_seen_at": "2026-07-27T03:50:14",
-          "last_seen_at": "2026-07-29T03:23:13",
-          "seen_count": 2
+          "last_seen_at": "2026-07-29T03:36:10",
+          "seen_count": 3
         },
         "新田|江戸川区|２ＤＫ|43.0|77,000|3,900": {
           "name": "新田",
@@ -661,8 +661,8 @@
           "building_year": 1975,
           "building_year_label": "竣工年月日 1975/08/30",
           "first_seen_at": "2026-07-27T03:50:14",
-          "last_seen_at": "2026-07-29T03:23:13",
-          "seen_count": 4
+          "last_seen_at": "2026-07-29T03:36:10",
+          "seen_count": 5
         },
         "トミンハイム宮坂二丁目|世田谷区|２ＬＤＫ|68.06|169,900|7,100": {
           "name": "トミンハイム宮坂二丁目",
