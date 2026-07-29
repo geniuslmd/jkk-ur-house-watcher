@@ -1,12 +1,10 @@
 {
-  "boost_until": "2026-07-28T06:34:03",
+  "boost_until": "2026-07-29T03:43:13",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "JKK:カーメスト興野町",
-    "UR:北区总空室上升",
-    "UR:豊島五丁目",
-    "UR:赤羽北二丁目ハイツ"
+    "JKK:カーメスト大蔵の杜",
+    "JKK:新田"
   ],
   "last_ur_total_vacancies": 2,
-  "updated_at": "2026-07-28T11:31:23"
+  "updated_at": "2026-07-29T03:23:13"
 }
