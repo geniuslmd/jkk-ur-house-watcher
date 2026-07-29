@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-07-29T03:36:10",
+  "checked_at": "2026-07-29T06:18:16",
   "jkk_total": 5,
   "ur_total_vacancies": 2,
-  "new_events": 4,
+  "new_events": 6,
   "slack_candidates": 0,
-  "slack_skipped": 4,
+  "slack_skipped": 6,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -12,15 +12,15 @@
   "candidate_ids": [],
   "skipped": [
     {
-      "stable_id": "jkk_d78f7d91bbf924e4",
-      "building_name": "カーメスト大蔵の杜",
-      "event_type": "still_seen",
+      "stable_id": "jkk_2af168f761e61020",
+      "building_name": "コーシャハイム南葛西五丁目",
+      "event_type": "reappeared",
       "reason": "not_actionable"
     },
     {
-      "stable_id": "jkk_6e403c2d1b24af89",
-      "building_name": "新田",
-      "event_type": "still_seen",
+      "stable_id": "jkk_38d87de00a3efb6e",
+      "building_name": "コーシャハイム春江町五丁目",
+      "event_type": "first_seen",
       "reason": "not_actionable"
     },
     {
@@ -33,6 +33,18 @@
       "stable_id": "ur_f5ab123d275a0ee1",
       "building_name": "赤羽北二丁目ハイツ",
       "event_type": "still_seen",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_6e403c2d1b24af89",
+      "building_name": "新田",
+      "event_type": "disappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_d78f7d91bbf924e4",
+      "building_name": "カーメスト大蔵の杜",
+      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]
