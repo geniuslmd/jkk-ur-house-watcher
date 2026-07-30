@@ -1006,16 +1006,16 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-13T07:35:55",
-    "last_seen_at": "2026-07-29T11:37:48",
+    "last_seen_at": "2026-07-30T02:56:16",
     "current_appearance_started_at": "2026-07-29T06:18:16",
     "disappeared_at": null,
-    "lifetime_minutes": 319.5,
+    "lifetime_minutes": 1238.0,
     "appearance_count": 5,
-    "consecutive_seen_count": 3,
-    "total_seen_checks": 8,
+    "consecutive_seen_count": 4,
+    "total_seen_checks": 9,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260729_113748",
+    "last_snapshot_id": "snapshot_20260730_025616",
     "appearances": [
       {
         "start": "2026-07-13T07:35:55",
@@ -3036,16 +3036,16 @@
       }
     },
     "first_seen_at": "2026-07-22T03:28:20",
-    "last_seen_at": "2026-07-29T11:37:48",
+    "last_seen_at": "2026-07-30T02:56:16",
     "current_appearance_started_at": "2026-07-28T06:14:03",
     "disappeared_at": null,
-    "lifetime_minutes": 1763.8,
+    "lifetime_minutes": 2682.2,
     "appearance_count": 3,
-    "consecutive_seen_count": 8,
-    "total_seen_checks": 25,
+    "consecutive_seen_count": 9,
+    "total_seen_checks": 26,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260729_113748",
+    "last_snapshot_id": "snapshot_20260730_025616",
     "appearances": [
       {
         "start": "2026-07-22T03:28:20",
@@ -4983,16 +4983,16 @@
       }
     },
     "first_seen_at": "2026-07-25T03:27:09",
-    "last_seen_at": "2026-07-29T11:37:48",
+    "last_seen_at": "2026-07-30T02:56:16",
     "current_appearance_started_at": "2026-07-28T06:14:03",
     "disappeared_at": null,
-    "lifetime_minutes": 1763.8,
+    "lifetime_minutes": 2682.2,
     "appearance_count": 3,
-    "consecutive_seen_count": 8,
-    "total_seen_checks": 22,
+    "consecutive_seen_count": 9,
+    "total_seen_checks": 23,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260729_113748",
+    "last_snapshot_id": "snapshot_20260730_025616",
     "appearances": [
       {
         "start": "2026-07-25T03:27:09",
@@ -5741,28 +5741,34 @@
       }
     },
     "first_seen_at": "2026-07-28T03:21:10",
-    "last_seen_at": "2026-07-28T03:21:10",
-    "current_appearance_started_at": "2026-07-28T03:21:10",
-    "disappeared_at": "2026-07-28T03:32:34",
-    "lifetime_minutes": 11.4,
-    "appearance_count": 1,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 1,
-    "current_status": "disappeared_fast",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260728_033234",
+    "last_seen_at": "2026-07-30T02:56:16",
+    "current_appearance_started_at": "2026-07-30T02:56:16",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 2,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 2,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260730_025616",
     "appearances": [
       {
         "start": "2026-07-28T03:21:10",
         "end": "2026-07-28T03:32:34",
         "status": "disappeared_fast",
         "lifetime_minutes": 11.4
+      },
+      {
+        "start": "2026-07-30T02:56:16",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
       "参考向",
       "高价",
-      "大户型"
+      "大户型",
+      "重复出现"
     ]
   },
   "jkk_eef6ee72ae75dffe": {
@@ -5902,6 +5908,91 @@
     "quick_tags": [
       "建议手动登录确认",
       "低价"
+    ]
+  },
+  "ur_cbd510cf7c37cb7c": {
+    "stable_id": "ur_cbd510cf7c37cb7c",
+    "source": "UR",
+    "official_id": "ur:20:267:0:https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2670_room.html?JKSS=000040305",
+    "building_name": "王子五丁目",
+    "room_no": "4号棟 305号室",
+    "layout": "2DK",
+    "area": "46m2",
+    "rent": "116,600円",
+    "common_fee": "4,200円",
+    "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2670_room.html?JKSS=000040305",
+    "is_high_priority": false,
+    "source_label": "UR",
+    "action_hint": "发现参考房源，请关注户型/价格/楼层；如需行动，请电话或线下确认。",
+    "raw": {
+      "listing": {
+        "name": "王子五丁目",
+        "place": "北区王子5-2",
+        "traffic": "東京メトロ南北線「王子神谷」駅 徒歩2～5分 JR京浜東北・根岸線「東十条」駅 徒歩10～15分",
+        "room_count": 1,
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2670.html",
+        "shisya": "20",
+        "danchi": "267",
+        "shikibetu": "0",
+        "is_target": false,
+        "rooms": [
+          {
+            "building": "4号棟",
+            "room_no": "305号室",
+            "layout": "2DK",
+            "floor_area_m2": "46m2",
+            "floor": "3階",
+            "rent_yen": "116,600円",
+            "common_fee_yen": "4,200円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2670_room.html?JKSS=000040305",
+            "stable_id": "",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          }
+        ]
+      },
+      "room": {
+        "building": "4号棟",
+        "room_no": "305号室",
+        "layout": "2DK",
+        "floor_area_m2": "46m2",
+        "floor": "3階",
+        "rent_yen": "116,600円",
+        "common_fee_yen": "4,200円",
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2670_room.html?JKSS=000040305",
+        "stable_id": "",
+        "current_status": "",
+        "first_seen_at": "",
+        "last_seen_at": "",
+        "lifetime_minutes": 0.0,
+        "appearance_count": 0,
+        "quick_tags": null
+      }
+    },
+    "first_seen_at": "2026-07-30T02:56:16",
+    "last_seen_at": "2026-07-30T02:56:16",
+    "current_appearance_started_at": "2026-07-30T02:56:16",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260730_025616",
+    "appearances": [
+      {
+        "start": "2026-07-30T02:56:16",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "参考向"
     ]
   }
 }
