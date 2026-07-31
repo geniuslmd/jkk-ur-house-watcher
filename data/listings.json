@@ -3192,7 +3192,7 @@
     "room_no": "",
     "layout": "２ＤＫ",
     "area": "43.0",
-    "rent": "77,000",
+    "rent": "76,300～77,800",
     "common_fee": "3,900",
     "detail_url": "https://jhomes.to-kousya.or.jp/search/jkknet/service/akiyaJyoukenStartInit",
     "is_high_priority": false,
@@ -3205,9 +3205,9 @@
       "housing_type": "一般賃貸住宅（期限付）",
       "layout": "２ＤＫ",
       "floor_area_m2": "43.0",
-      "rent_yen": "77,000",
+      "rent_yen": "76,300～77,800",
       "common_fee_yen": "3,900",
-      "units": "1",
+      "units": "2",
       "detail_onclick": "javascript:senPage('','L1131','2380040','0002'); return false",
       "detail_params": [
         "",
@@ -3230,16 +3230,16 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-22T03:43:38",
-    "last_seen_at": "2026-07-29T03:36:10",
-    "current_appearance_started_at": "2026-07-29T03:23:13",
-    "disappeared_at": "2026-07-29T06:18:16",
-    "lifetime_minutes": 175.1,
-    "appearance_count": 5,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 8,
-    "current_status": "disappeared",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260729_061816",
+    "last_seen_at": "2026-07-31T06:35:10",
+    "current_appearance_started_at": "2026-07-31T06:35:10",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 6,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 9,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260731_063510",
     "appearances": [
       {
         "start": "2026-07-22T03:43:38",
@@ -3270,11 +3270,16 @@
         "end": "2026-07-29T06:18:16",
         "status": "disappeared",
         "lifetime_minutes": 175.1
+      },
+      {
+        "start": "2026-07-31T06:35:10",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
       "建议手动登录确认",
-      "低价",
+      "高价",
       "重复出现"
     ]
   },
@@ -4985,16 +4990,16 @@
       }
     },
     "first_seen_at": "2026-07-25T03:27:09",
-    "last_seen_at": "2026-07-31T03:47:54",
+    "last_seen_at": "2026-07-31T06:35:10",
     "current_appearance_started_at": "2026-07-28T06:14:03",
     "disappeared_at": null,
-    "lifetime_minutes": 4173.9,
+    "lifetime_minutes": 4341.1,
     "appearance_count": 3,
-    "consecutive_seen_count": 15,
-    "total_seen_checks": 29,
+    "consecutive_seen_count": 16,
+    "total_seen_checks": 30,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260731_034754",
+    "last_snapshot_id": "snapshot_20260731_063510",
     "appearances": [
       {
         "start": "2026-07-25T03:27:09",
@@ -5317,7 +5322,7 @@
     "room_no": "",
     "layout": "１ＤＫ",
     "area": "35.05",
-    "rent": "111,700",
+    "rent": "102,800",
     "common_fee": "5,300",
     "detail_url": "https://jhomes.to-kousya.or.jp/search/jkknet/service/akiyaJyoukenStartInit",
     "is_high_priority": true,
@@ -5330,7 +5335,7 @@
       "housing_type": "一般賃貸住宅（期限付）",
       "layout": "１ＤＫ",
       "floor_area_m2": "35.05",
-      "rent_yen": "111,700",
+      "rent_yen": "102,800",
       "common_fee_yen": "5,300",
       "units": "1",
       "detail_onclick": "javascript:senPage('','L8772','1280880','0000'); return false",
@@ -5355,16 +5360,16 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-27T03:50:14",
-    "last_seen_at": "2026-07-29T03:36:10",
-    "current_appearance_started_at": "2026-07-29T03:23:13",
-    "disappeared_at": "2026-07-29T06:18:16",
-    "lifetime_minutes": 175.1,
-    "appearance_count": 2,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 3,
-    "current_status": "disappeared",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260729_061816",
+    "last_seen_at": "2026-07-31T06:35:10",
+    "current_appearance_started_at": "2026-07-31T06:35:10",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 3,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 4,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260731_063510",
     "appearances": [
       {
         "start": "2026-07-27T03:50:14",
@@ -5377,6 +5382,11 @@
         "end": "2026-07-29T06:18:16",
         "status": "disappeared",
         "lifetime_minutes": 175.1
+      },
+      {
+        "start": "2026-07-31T06:35:10",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
