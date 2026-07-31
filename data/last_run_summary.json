@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-07-31T06:35:10",
-  "jkk_total": 6,
+  "checked_at": "2026-07-31T09:31:30",
+  "jkk_total": 5,
   "ur_total_vacancies": 1,
   "new_events": 3,
   "slack_candidates": 0,
@@ -12,21 +12,21 @@
   "candidate_ids": [],
   "skipped": [
     {
-      "stable_id": "jkk_d78f7d91bbf924e4",
-      "building_name": "カーメスト大蔵の杜",
-      "event_type": "reappeared",
-      "reason": "not_actionable"
-    },
-    {
       "stable_id": "jkk_6e403c2d1b24af89",
       "building_name": "新田",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_f5ab123d275a0ee1",
       "building_name": "赤羽北二丁目ハイツ",
       "event_type": "still_seen",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_d78f7d91bbf924e4",
+      "building_name": "カーメスト大蔵の杜",
+      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]
