@@ -1,13 +1,13 @@
 {
-  "checked_at": "2026-07-31T03:38:33",
+  "checked_at": "2026-07-31T03:47:54",
   "jkk_total": 4,
   "ur_total_vacancies": 1,
-  "new_events": 2,
+  "new_events": 1,
   "slack_candidates": 0,
-  "slack_skipped": 2,
+  "slack_skipped": 1,
   "slack_configured": true,
   "slack_sent": false,
-  "heartbeat_sent": true,
+  "heartbeat_sent": false,
   "dry_run_slack": false,
   "candidate_ids": [],
   "skipped": [
@@ -15,12 +15,6 @@
       "stable_id": "ur_f5ab123d275a0ee1",
       "building_name": "赤羽北二丁目ハイツ",
       "event_type": "still_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_40dff66740453804",
-      "building_name": "豊島五丁目",
-      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]
