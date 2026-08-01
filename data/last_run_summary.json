@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-01T03:37:57",
+  "checked_at": "2026-08-01T03:47:47",
   "jkk_total": 5,
   "ur_total_vacancies": 7,
   "new_events": 8,
@@ -7,7 +7,7 @@
   "slack_skipped": 8,
   "slack_configured": true,
   "slack_sent": false,
-  "heartbeat_sent": true,
+  "heartbeat_sent": false,
   "dry_run_slack": false,
   "candidate_ids": [],
   "skipped": [
@@ -20,31 +20,31 @@
     {
       "stable_id": "ur_06f6e33e21ad8aaf",
       "building_name": "豊島五丁目",
-      "event_type": "first_seen",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_aa355f0c1ad3b3cf",
       "building_name": "豊島五丁目",
-      "event_type": "first_seen",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_96461e90c924a4e6",
       "building_name": "赤羽北二丁目",
-      "event_type": "first_seen",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_b1fc642d1e11286e",
       "building_name": "赤羽北二丁目",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_fa016df565dd0231",
       "building_name": "王子五丁目",
-      "event_type": "first_seen",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
@@ -56,7 +56,7 @@
     {
       "stable_id": "ur_edc3bc148db4416a",
       "building_name": "神谷堀公園ハイツ",
-      "event_type": "first_seen",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     }
   ]

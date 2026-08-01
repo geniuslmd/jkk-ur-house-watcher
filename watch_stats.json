@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-01T03:38:04",
-  "total_checks": 90,
+  "updated_at": "2026-08-01T03:47:54",
+  "total_checks": 91,
   "buckets": {
     "09:00": {
       "checks": 12,
@@ -539,14 +539,14 @@
       }
     },
     "03:00": {
-      "checks": 33,
-      "candidate_checks": 18,
+      "checks": 34,
+      "candidate_checks": 19,
       "target_checks": 0,
-      "listing_rows": 154,
-      "candidate_rows": 50,
+      "listing_rows": 159,
+      "candidate_rows": 51,
       "target_rows": 0,
-      "last_checked_at": "2026-08-01T03:37:57",
-      "last_candidate_at": "2026-08-01T03:37:57",
+      "last_checked_at": "2026-08-01T03:47:47",
+      "last_candidate_at": "2026-08-01T03:47:47",
       "last_target_at": null,
       "last_candidate_names": [
         "新田"
@@ -635,8 +635,8 @@
           "building_year": 1975,
           "building_year_label": "竣工年月日 1975/08/30",
           "first_seen_at": "2026-07-22T03:43:38",
-          "last_seen_at": "2026-08-01T03:37:57",
-          "seen_count": 2
+          "last_seen_at": "2026-08-01T03:47:47",
+          "seen_count": 3
         },
         "コーシャハイム清新|江戸川区|３ＤＫ|63.04|107,200|4,300": {
           "name": "コーシャハイム清新",
