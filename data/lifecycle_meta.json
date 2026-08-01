@@ -1,13 +1,9 @@
 {
-  "boost_until": "2026-08-01T03:57:57",
+  "boost_until": "2026-08-01T06:38:57",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "UR:北区总空室上升",
-    "UR:王子五丁目",
-    "UR:神谷堀公園ハイツ",
-    "UR:豊島五丁目",
-    "UR:赤羽北二丁目"
+    "UR:豊島五丁目"
   ],
   "last_ur_total_vacancies": 7,
-  "updated_at": "2026-08-01T03:47:47"
+  "updated_at": "2026-08-01T06:18:57"
 }
