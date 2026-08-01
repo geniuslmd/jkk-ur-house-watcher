@@ -1,9 +1,12 @@
 {
-  "boost_until": "2026-08-01T06:38:57",
+  "boost_until": "2026-08-01T08:57:27",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "UR:豊島五丁目"
+    "JKK:カーメスト興野町",
+    "JKK:コーシャハイム太子堂",
+    "JKK:宇喜田第一",
+    "JKK:西台"
   ],
-  "last_ur_total_vacancies": 7,
-  "updated_at": "2026-08-01T06:18:57"
+  "last_ur_total_vacancies": 6,
+  "updated_at": "2026-08-01T08:37:27"
 }

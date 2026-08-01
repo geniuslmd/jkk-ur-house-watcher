@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-08-01T06:18:57",
-  "jkk_total": 4,
-  "ur_total_vacancies": 7,
-  "new_events": 9,
+  "checked_at": "2026-08-01T08:37:27",
+  "jkk_total": 8,
+  "ur_total_vacancies": 6,
+  "new_events": 11,
   "slack_candidates": 0,
-  "slack_skipped": 9,
+  "slack_skipped": 11,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -12,39 +12,57 @@
   "candidate_ids": [],
   "skipped": [
     {
+      "stable_id": "jkk_d439e92d156da8a0",
+      "building_name": "コーシャハイム太子堂",
+      "event_type": "reappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_b820e44af5e44d6a",
+      "building_name": "西台",
+      "event_type": "reappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_e1821079c8191e63",
+      "building_name": "カーメスト興野町",
+      "event_type": "first_seen",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_819e09bb4a39e4af",
+      "building_name": "宇喜田第一",
+      "event_type": "first_seen",
+      "reason": "not_actionable"
+    },
+    {
       "stable_id": "ur_06f6e33e21ad8aaf",
       "building_name": "豊島五丁目",
-      "event_type": "stable",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_aa355f0c1ad3b3cf",
       "building_name": "豊島五丁目",
-      "event_type": "stable",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_7fd29bf5ae2b9036",
       "building_name": "豊島五丁目",
-      "event_type": "first_seen",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_96461e90c924a4e6",
       "building_name": "赤羽北二丁目",
-      "event_type": "stable",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_b1fc642d1e11286e",
       "building_name": "赤羽北二丁目",
-      "event_type": "stable",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_fa016df565dd0231",
-      "building_name": "王子五丁目",
-      "event_type": "stable",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
@@ -54,14 +72,8 @@
       "reason": "not_actionable"
     },
     {
-      "stable_id": "jkk_6e403c2d1b24af89",
-      "building_name": "新田",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_edc3bc148db4416a",
-      "building_name": "神谷堀公園ハイツ",
+      "stable_id": "ur_fa016df565dd0231",
+      "building_name": "王子五丁目",
       "event_type": "disappeared",
       "reason": "not_actionable"
     }

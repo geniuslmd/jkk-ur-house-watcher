@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-01T06:19:03",
-  "total_checks": 92,
+  "updated_at": "2026-08-01T08:37:33",
+  "total_checks": 93,
   "buckets": {
     "09:00": {
       "checks": 12,
@@ -873,29 +873,31 @@
       }
     },
     "08:00": {
-      "checks": 5,
-      "candidate_checks": 2,
+      "checks": 6,
+      "candidate_checks": 3,
       "target_checks": 0,
-      "listing_rows": 25,
-      "candidate_rows": 10,
+      "listing_rows": 33,
+      "candidate_rows": 14,
       "target_rows": 0,
-      "last_checked_at": "2026-07-25T08:23:06",
-      "last_candidate_at": "2026-07-25T08:23:06",
+      "last_checked_at": "2026-08-01T08:37:27",
+      "last_candidate_at": "2026-08-01T08:37:27",
       "last_target_at": null,
       "last_candidate_names": [
-        "コーシャハイム久我山",
-        "コーシャハイム大森東",
-        "トミンタワー台場一番街",
-        "南葛西",
-        "新田第二"
+        "カーメスト興野町",
+        "コーシャハイム太子堂",
+        "宇喜田第一",
+        "西台"
       ],
       "candidate_names_seen": [
+        "カーメスト興野町",
         "コーシャハイム久我山",
         "コーシャハイム大森東",
+        "コーシャハイム太子堂",
         "コーシャハイム小竹町",
         "コーシャハイム緑四丁目",
         "トミンタワー台場一番街",
         "南葛西",
+        "宇喜田第一",
         "新田第二",
         "西台",
         "越中島"
@@ -1039,6 +1041,62 @@
           "building_year_label": "竣工年月日 1980/11/29",
           "first_seen_at": "2026-07-25T08:23:06",
           "last_seen_at": "2026-07-25T08:23:06",
+          "seen_count": 1
+        },
+        "コーシャハイム太子堂|世田谷区|２ＤＫ|45.72|143,600|5,300": {
+          "name": "コーシャハイム太子堂",
+          "area": "世田谷区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "45.72",
+          "rent_yen": "143,600",
+          "common_fee_yen": "5,300",
+          "units": "1",
+          "building_year": 2007,
+          "building_year_label": "竣工年月日 2007/07/12",
+          "first_seen_at": "2026-08-01T08:37:27",
+          "last_seen_at": "2026-08-01T08:37:27",
+          "seen_count": 1
+        },
+        "西台|板橋区|３ＤＫ|43.21|71,100|3,000": {
+          "name": "西台",
+          "area": "板橋区",
+          "layout": "３ＤＫ",
+          "floor_area_m2": "43.21",
+          "rent_yen": "71,100",
+          "common_fee_yen": "3,000",
+          "units": "1",
+          "building_year": 1972,
+          "building_year_label": "竣工年月日 1972/12/05",
+          "first_seen_at": "2026-08-01T08:37:27",
+          "last_seen_at": "2026-08-01T08:37:27",
+          "seen_count": 1
+        },
+        "カーメスト興野町|足立区|２ＤＫ|46.29|106,600|6,000": {
+          "name": "カーメスト興野町",
+          "area": "足立区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "46.29",
+          "rent_yen": "106,600",
+          "common_fee_yen": "6,000",
+          "units": "1",
+          "building_year": 2022,
+          "building_year_label": "竣工年月日 2022/09/30",
+          "first_seen_at": "2026-08-01T08:37:27",
+          "last_seen_at": "2026-08-01T08:37:27",
+          "seen_count": 1
+        },
+        "宇喜田第一|江戸川区|２ＤＫ|41.25|62,800|3,000": {
+          "name": "宇喜田第一",
+          "area": "江戸川区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "41.25",
+          "rent_yen": "62,800",
+          "common_fee_yen": "3,000",
+          "units": "1",
+          "building_year": 1972,
+          "building_year_label": "竣工年月日 1972/06/30",
+          "first_seen_at": "2026-08-01T08:37:27",
+          "last_seen_at": "2026-08-01T08:37:27",
           "seen_count": 1
         }
       }
