@@ -1,13 +1,13 @@
 {
-  "checked_at": "2026-08-02T03:37:58",
+  "checked_at": "2026-08-02T03:50:43",
   "jkk_total": 4,
   "ur_total_vacancies": 5,
-  "new_events": 8,
+  "new_events": 5,
   "slack_candidates": 0,
-  "slack_skipped": 8,
+  "slack_skipped": 5,
   "slack_configured": true,
   "slack_sent": false,
-  "heartbeat_sent": true,
+  "heartbeat_sent": false,
   "dry_run_slack": false,
   "candidate_ids": [],
   "skipped": [
@@ -39,24 +39,6 @@
       "stable_id": "ur_f5ab123d275a0ee1",
       "building_name": "赤羽北二丁目ハイツ",
       "event_type": "still_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_b820e44af5e44d6a",
-      "building_name": "西台",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_819e09bb4a39e4af",
-      "building_name": "宇喜田第一",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_944ffe42b6d65177",
-      "building_name": "王子五丁目",
-      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]
