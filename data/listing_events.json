@@ -12558,5 +12558,25 @@
     "is_high_priority": false,
     "created_at": "2026-08-03T07:44:16",
     "snapshot_id": "snapshot_20260803_074416"
+  },
+  {
+    "event_id": "9dadc62c1081e98be161",
+    "event_type": "reappeared",
+    "stable_id": "ur_7fd29bf5ae2b9036",
+    "source": "UR",
+    "building_name": "豊島五丁目",
+    "room_no": "10号棟 417号室",
+    "layout": "2DK",
+    "area": "49m2",
+    "rent": "86,800円",
+    "common_fee": "3,300円",
+    "current_status": "reappeared",
+    "first_seen_at": "2026-08-01T06:18:57",
+    "last_seen_at": "2026-08-03T11:00:09",
+    "lifetime_minutes": 0.0,
+    "appearance_count": 2,
+    "is_high_priority": false,
+    "created_at": "2026-08-03T11:00:09",
+    "snapshot_id": "snapshot_20260803_110009"
   }
 ]

@@ -6501,30 +6501,13 @@
         "name": "豊島五丁目",
         "place": "北区豊島5-4ほか",
         "traffic": "JR京浜東北・根岸線「王子」駅バス7分 徒歩2～6分 東京メトロ南北線「王子」駅バス7分 徒歩2～6分",
-        "room_count": 2,
+        "room_count": 1,
         "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320.html",
         "shisya": "20",
         "danchi": "232",
         "shikibetu": "0",
         "is_target": false,
         "rooms": [
-          {
-            "building": "8号棟",
-            "room_no": "1138号室",
-            "layout": "3DK",
-            "floor_area_m2": "67m2",
-            "floor": "11階",
-            "rent_yen": "112,500円",
-            "common_fee_yen": "3,300円",
-            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000081138",
-            "stable_id": "ur_7c8ba63688c207db",
-            "current_status": "",
-            "first_seen_at": "",
-            "last_seen_at": "",
-            "lifetime_minutes": 0.0,
-            "appearance_count": 0,
-            "quick_tags": null
-          },
           {
             "building": "10号棟",
             "room_no": "417号室",
@@ -6563,27 +6546,33 @@
       }
     },
     "first_seen_at": "2026-08-01T06:18:57",
-    "last_seen_at": "2026-08-03T03:52:18",
-    "current_appearance_started_at": "2026-08-01T06:18:57",
-    "disappeared_at": "2026-08-03T07:44:16",
-    "lifetime_minutes": 2965.3,
-    "appearance_count": 1,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 10,
-    "current_status": "disappeared",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260803_074416",
+    "last_seen_at": "2026-08-03T11:00:09",
+    "current_appearance_started_at": "2026-08-03T11:00:09",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 2,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 11,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260803_110009",
     "appearances": [
       {
         "start": "2026-08-01T06:18:57",
         "end": "2026-08-03T07:44:16",
         "status": "disappeared",
         "lifetime_minutes": 2965.3
+      },
+      {
+        "start": "2026-08-03T11:00:09",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
       "参考向",
-      "低价"
+      "低价",
+      "重复出现"
     ]
   },
   "jkk_e1821079c8191e63": {

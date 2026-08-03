@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-08-03T07:44:16",
+  "checked_at": "2026-08-03T11:00:09",
   "jkk_total": 4,
-  "ur_total_vacancies": 0,
-  "new_events": 2,
+  "ur_total_vacancies": 1,
+  "new_events": 1,
   "slack_candidates": 0,
-  "slack_skipped": 2,
+  "slack_skipped": 1,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -14,13 +14,7 @@
     {
       "stable_id": "ur_7fd29bf5ae2b9036",
       "building_name": "豊島五丁目",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_7c8ba63688c207db",
-      "building_name": "豊島五丁目",
-      "event_type": "disappeared",
+      "event_type": "reappeared",
       "reason": "not_actionable"
     }
   ]
