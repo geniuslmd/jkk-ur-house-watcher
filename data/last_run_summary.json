@@ -1,20 +1,20 @@
 {
-  "checked_at": "2026-08-02T10:49:26",
+  "checked_at": "2026-08-03T03:40:21",
   "jkk_total": 4,
-  "ur_total_vacancies": 3,
-  "new_events": 3,
+  "ur_total_vacancies": 2,
+  "new_events": 4,
   "slack_candidates": 0,
-  "slack_skipped": 3,
+  "slack_skipped": 4,
   "slack_configured": true,
   "slack_sent": false,
-  "heartbeat_sent": false,
+  "heartbeat_sent": true,
   "dry_run_slack": false,
   "candidate_ids": [],
   "skipped": [
     {
-      "stable_id": "ur_aa355f0c1ad3b3cf",
+      "stable_id": "ur_7c8ba63688c207db",
       "building_name": "豊島五丁目",
-      "event_type": "still_seen",
+      "event_type": "first_seen",
       "reason": "not_actionable"
     },
     {
@@ -26,7 +26,13 @@
     {
       "stable_id": "ur_f5ab123d275a0ee1",
       "building_name": "赤羽北二丁目ハイツ",
-      "event_type": "still_seen",
+      "event_type": "disappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "ur_aa355f0c1ad3b3cf",
+      "building_name": "豊島五丁目",
+      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]

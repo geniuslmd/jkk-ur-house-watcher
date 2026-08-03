@@ -1,9 +1,9 @@
 {
-  "boost_until": "2026-08-01T10:42:12",
+  "boost_until": "2026-08-03T04:00:21",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "UR:王子五丁目"
+    "UR:豊島五丁目"
   ],
-  "last_ur_total_vacancies": 3,
-  "updated_at": "2026-08-02T10:49:26"
+  "last_ur_total_vacancies": 2,
+  "updated_at": "2026-08-03T03:40:21"
 }
