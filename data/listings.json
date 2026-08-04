@@ -6546,16 +6546,16 @@
       }
     },
     "first_seen_at": "2026-08-01T06:18:57",
-    "last_seen_at": "2026-08-03T11:00:09",
+    "last_seen_at": "2026-08-04T03:24:33",
     "current_appearance_started_at": "2026-08-03T11:00:09",
     "disappeared_at": null,
-    "lifetime_minutes": 0.0,
+    "lifetime_minutes": 984.4,
     "appearance_count": 2,
-    "consecutive_seen_count": 1,
-    "total_seen_checks": 11,
+    "consecutive_seen_count": 2,
+    "total_seen_checks": 12,
     "current_status": "reappeared",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260803_110009",
+    "last_snapshot_id": "snapshot_20260804_032433",
     "appearances": [
       {
         "start": "2026-08-01T06:18:57",
@@ -6901,6 +6901,245 @@
     "quick_tags": [
       "参考向",
       "大户型"
+    ]
+  },
+  "jkk_1b93173fd3281e83": {
+    "stable_id": "jkk_1b93173fd3281e83",
+    "source": "JKK",
+    "official_id": "jkk::A1482:2080060:0002",
+    "building_name": "コーシャハイム光が丘第一",
+    "room_no": "",
+    "layout": "３ＤＫ",
+    "area": "60.17",
+    "rent": "102,100",
+    "common_fee": "3,200",
+    "detail_url": "https://jhomes.to-kousya.or.jp/search/jkknet/service/akiyaJyoukenStartInit",
+    "is_high_priority": false,
+    "source_label": "JKK",
+    "action_hint": "发现新房，请尽快手动登录官网确认。",
+    "raw": {
+      "name": "コーシャハイム光が丘第一",
+      "area": "練馬区",
+      "priority": "子育・高齢",
+      "housing_type": "一般賃貸住宅",
+      "layout": "３ＤＫ",
+      "floor_area_m2": "60.17",
+      "rent_yen": "102,100",
+      "common_fee_yen": "3,200",
+      "units": "1",
+      "detail_onclick": "javascript:senPage('','A1482','2080060','0002'); return false",
+      "detail_params": [
+        "",
+        "A1482",
+        "2080060",
+        "0002"
+      ],
+      "building_year": 1984,
+      "building_year_label": "竣工年月日 1984/03/01",
+      "detail_error": "",
+      "is_target": false,
+      "is_excluded": false,
+      "is_newer_building": false,
+      "stable_id": "",
+      "current_status": "",
+      "first_seen_at": "",
+      "last_seen_at": "",
+      "lifetime_minutes": 0.0,
+      "appearance_count": 0,
+      "quick_tags": null
+    },
+    "first_seen_at": "2026-08-04T03:24:33",
+    "last_seen_at": "2026-08-04T03:24:33",
+    "current_appearance_started_at": "2026-08-04T03:24:33",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260804_032433",
+    "appearances": [
+      {
+        "start": "2026-08-04T03:24:33",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "建议手动登录确认",
+      "大户型"
+    ]
+  },
+  "ur_78aa5564981cf0a3": {
+    "stable_id": "ur_78aa5564981cf0a3",
+    "source": "UR",
+    "official_id": "ur:20:539:0:https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5390_room.html?JKSS=000001102",
+    "building_name": "赤羽アボードⅡ",
+    "room_no": "1102号室",
+    "layout": "1DK",
+    "area": "40m2",
+    "rent": "139,300円",
+    "common_fee": "4,700円",
+    "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5390_room.html?JKSS=000001102",
+    "is_high_priority": false,
+    "source_label": "UR",
+    "action_hint": "发现参考房源，请关注户型/价格/楼层；如需行动，请电话或线下确认。",
+    "raw": {
+      "listing": {
+        "name": "赤羽アボードⅡ",
+        "place": "北区赤羽西1-6-1",
+        "traffic": "JR埼京線ほか｢赤羽｣駅 徒歩1分",
+        "room_count": 1,
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5390.html",
+        "shisya": "20",
+        "danchi": "539",
+        "shikibetu": "0",
+        "is_target": false,
+        "rooms": [
+          {
+            "building": "",
+            "room_no": "1102号室",
+            "layout": "1DK",
+            "floor_area_m2": "40m2",
+            "floor": "11階",
+            "rent_yen": "139,300円",
+            "common_fee_yen": "4,700円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5390_room.html?JKSS=000001102",
+            "stable_id": "",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          }
+        ]
+      },
+      "room": {
+        "building": "",
+        "room_no": "1102号室",
+        "layout": "1DK",
+        "floor_area_m2": "40m2",
+        "floor": "11階",
+        "rent_yen": "139,300円",
+        "common_fee_yen": "4,700円",
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5390_room.html?JKSS=000001102",
+        "stable_id": "",
+        "current_status": "",
+        "first_seen_at": "",
+        "last_seen_at": "",
+        "lifetime_minutes": 0.0,
+        "appearance_count": 0,
+        "quick_tags": null
+      }
+    },
+    "first_seen_at": "2026-08-04T03:24:33",
+    "last_seen_at": "2026-08-04T03:24:33",
+    "current_appearance_started_at": "2026-08-04T03:24:33",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260804_032433",
+    "appearances": [
+      {
+        "start": "2026-08-04T03:24:33",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "参考向",
+      "小户型"
+    ]
+  },
+  "ur_c66f95507614a812": {
+    "stable_id": "ur_c66f95507614a812",
+    "source": "UR",
+    "official_id": "ur:20:600:0:https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6000_room.html?JKSS=000031202",
+    "building_name": "フレーシェル王子神谷",
+    "room_no": "3号棟 1202号室",
+    "layout": "2LDK",
+    "area": "58m2",
+    "rent": "163,200円",
+    "common_fee": "4,200円",
+    "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6000_room.html?JKSS=000031202",
+    "is_high_priority": false,
+    "source_label": "UR",
+    "action_hint": "发现参考房源，请关注户型/价格/楼层；如需行动，请电话或线下确认。",
+    "raw": {
+      "listing": {
+        "name": "フレーシェル王子神谷",
+        "place": "北区豊島8-27",
+        "traffic": "東京メトロ南北線「王子神谷」駅 徒歩6～7分 JR京浜東北・根岸線「東十条」駅 徒歩16～17分",
+        "room_count": 1,
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6000.html",
+        "shisya": "20",
+        "danchi": "600",
+        "shikibetu": "0",
+        "is_target": false,
+        "rooms": [
+          {
+            "building": "3号棟",
+            "room_no": "1202号室",
+            "layout": "2LDK",
+            "floor_area_m2": "58m2",
+            "floor": "12階",
+            "rent_yen": "163,200円",
+            "common_fee_yen": "4,200円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6000_room.html?JKSS=000031202",
+            "stable_id": "",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          }
+        ]
+      },
+      "room": {
+        "building": "3号棟",
+        "room_no": "1202号室",
+        "layout": "2LDK",
+        "floor_area_m2": "58m2",
+        "floor": "12階",
+        "rent_yen": "163,200円",
+        "common_fee_yen": "4,200円",
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6000_room.html?JKSS=000031202",
+        "stable_id": "",
+        "current_status": "",
+        "first_seen_at": "",
+        "last_seen_at": "",
+        "lifetime_minutes": 0.0,
+        "appearance_count": 0,
+        "quick_tags": null
+      }
+    },
+    "first_seen_at": "2026-08-04T03:24:33",
+    "last_seen_at": "2026-08-04T03:24:33",
+    "current_appearance_started_at": "2026-08-04T03:24:33",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260804_032433",
+    "appearances": [
+      {
+        "start": "2026-08-04T03:24:33",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "参考向"
     ]
   }
 }

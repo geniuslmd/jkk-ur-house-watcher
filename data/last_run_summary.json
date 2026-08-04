@@ -1,20 +1,38 @@
 {
-  "checked_at": "2026-08-03T11:00:09",
+  "checked_at": "2026-08-04T03:24:33",
   "jkk_total": 4,
-  "ur_total_vacancies": 1,
-  "new_events": 1,
+  "ur_total_vacancies": 3,
+  "new_events": 4,
   "slack_candidates": 0,
-  "slack_skipped": 1,
+  "slack_skipped": 4,
   "slack_configured": true,
   "slack_sent": false,
-  "heartbeat_sent": false,
+  "heartbeat_sent": true,
   "dry_run_slack": false,
   "candidate_ids": [],
   "skipped": [
     {
+      "stable_id": "jkk_1b93173fd3281e83",
+      "building_name": "コーシャハイム光が丘第一",
+      "event_type": "first_seen",
+      "reason": "not_actionable"
+    },
+    {
       "stable_id": "ur_7fd29bf5ae2b9036",
       "building_name": "豊島五丁目",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "ur_78aa5564981cf0a3",
+      "building_name": "赤羽アボードⅡ",
+      "event_type": "first_seen",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "ur_c66f95507614a812",
+      "building_name": "フレーシェル王子神谷",
+      "event_type": "first_seen",
       "reason": "not_actionable"
     }
   ]
