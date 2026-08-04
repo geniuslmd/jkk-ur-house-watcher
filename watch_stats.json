@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-04T09:16:32",
-  "total_checks": 107,
+  "updated_at": "2026-08-04T11:36:43",
+  "total_checks": 108,
   "buckets": {
     "09:00": {
       "checks": 14,
@@ -202,17 +202,17 @@
       }
     },
     "11:00": {
-      "checks": 11,
-      "candidate_checks": 9,
+      "checks": 12,
+      "candidate_checks": 10,
       "target_checks": 0,
-      "listing_rows": 54,
-      "candidate_rows": 15,
+      "listing_rows": 57,
+      "candidate_rows": 16,
       "target_rows": 0,
-      "last_checked_at": "2026-08-03T11:00:09",
-      "last_candidate_at": "2026-07-31T11:47:18",
+      "last_checked_at": "2026-08-04T11:36:24",
+      "last_candidate_at": "2026-08-04T11:36:24",
       "last_target_at": null,
       "last_candidate_names": [
-        "新田"
+        "トミンタワー台場一番街"
       ],
       "candidate_names_seen": [
         "コーシャハイム上鷺宮",
@@ -250,8 +250,8 @@
           "building_year": 2000,
           "building_year_label": "竣工年月日 2000/02/08",
           "first_seen_at": "2026-07-21T11:18:33",
-          "last_seen_at": "2026-07-27T11:00:47",
-          "seen_count": 5
+          "last_seen_at": "2026-08-04T11:36:24",
+          "seen_count": 6
         },
         "コーシャハイム上鷺宮|中野区|１ＬＤＫ|44.65|117,700|6,000": {
           "name": "コーシャハイム上鷺宮",
