@@ -1,11 +1,9 @@
 {
-  "boost_until": "2026-08-04T06:34:43",
+  "boost_until": "2026-08-04T09:36:29",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "UR:北区总空室上升",
-    "UR:豊島五丁目",
-    "UR:赤羽アボードⅡ"
+    "JKK:トミンタワー台場一番街"
   ],
-  "last_ur_total_vacancies": 2,
-  "updated_at": "2026-08-04T06:14:43"
+  "last_ur_total_vacancies": 1,
+  "updated_at": "2026-08-04T09:16:29"
 }

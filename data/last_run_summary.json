@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-04T06:14:43",
-  "jkk_total": 2,
-  "ur_total_vacancies": 2,
+  "checked_at": "2026-08-04T09:16:29",
+  "jkk_total": 3,
+  "ur_total_vacancies": 1,
   "new_events": 3,
   "slack_candidates": 0,
   "slack_skipped": 3,
@@ -12,20 +12,20 @@
   "candidate_ids": [],
   "skipped": [
     {
+      "stable_id": "jkk_f59b2b32671d80a0",
+      "building_name": "トミンタワー台場一番街",
+      "event_type": "reappeared",
+      "reason": "not_actionable"
+    },
+    {
       "stable_id": "ur_7fd29bf5ae2b9036",
       "building_name": "豊島五丁目",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_78aa5564981cf0a3",
       "building_name": "赤羽アボードⅡ",
-      "event_type": "reappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_1b93173fd3281e83",
-      "building_name": "コーシャハイム光が丘第一",
       "event_type": "disappeared",
       "reason": "not_actionable"
     }
