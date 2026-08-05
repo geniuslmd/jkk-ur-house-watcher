@@ -1,9 +1,12 @@
 {
-  "boost_until": "2026-08-04T09:36:29",
+  "boost_until": "2026-08-05T03:39:31",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "JKK:トミンタワー台場一番街"
+    "JKK:宇喜田第二",
+    "UR:フレーシェル王子神谷",
+    "UR:北区总空室上升",
+    "UR:豊島五丁目"
   ],
-  "last_ur_total_vacancies": 0,
-  "updated_at": "2026-08-04T11:36:24"
+  "last_ur_total_vacancies": 2,
+  "updated_at": "2026-08-05T03:19:31"
 }
