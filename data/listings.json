@@ -2626,16 +2626,16 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-18T05:49:45",
-    "last_seen_at": "2026-08-06T03:34:05",
+    "last_seen_at": "2026-08-06T06:14:40",
     "current_appearance_started_at": "2026-08-04T09:16:29",
     "disappeared_at": null,
-    "lifetime_minutes": 2537.6,
+    "lifetime_minutes": 2698.2,
     "appearance_count": 4,
-    "consecutive_seen_count": 9,
-    "total_seen_checks": 41,
+    "consecutive_seen_count": 10,
+    "total_seen_checks": 42,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260806_033405",
+    "last_snapshot_id": "snapshot_20260806_061440",
     "appearances": [
       {
         "start": "2026-07-18T05:49:45",
@@ -6219,27 +6219,33 @@
       }
     },
     "first_seen_at": "2026-08-01T03:37:57",
-    "last_seen_at": "2026-08-02T10:49:26",
-    "current_appearance_started_at": "2026-08-01T03:37:57",
-    "disappeared_at": "2026-08-03T03:40:21",
-    "lifetime_minutes": 2882.4,
-    "appearance_count": 1,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 10,
-    "current_status": "disappeared",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260803_034021",
+    "last_seen_at": "2026-08-06T06:14:40",
+    "current_appearance_started_at": "2026-08-06T06:14:40",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 2,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 11,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260806_061440",
     "appearances": [
       {
         "start": "2026-08-01T03:37:57",
         "end": "2026-08-03T03:40:21",
         "status": "disappeared",
         "lifetime_minutes": 2882.4
+      },
+      {
+        "start": "2026-08-06T06:14:40",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
       "参考向",
-      "低价"
+      "低价",
+      "重复出现"
     ]
   },
   "ur_96461e90c924a4e6": {
@@ -6519,13 +6525,30 @@
         "name": "豊島五丁目",
         "place": "北区豊島5-4ほか",
         "traffic": "JR京浜東北・根岸線「王子」駅バス7分 徒歩2～6分 東京メトロ南北線「王子」駅バス7分 徒歩2～6分",
-        "room_count": 1,
+        "room_count": 2,
         "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320.html",
         "shisya": "20",
         "danchi": "232",
         "shikibetu": "0",
         "is_target": false,
         "rooms": [
+          {
+            "building": "8号棟",
+            "room_no": "314号室",
+            "layout": "2DK",
+            "floor_area_m2": "49m2",
+            "floor": "3階",
+            "rent_yen": "86,700円",
+            "common_fee_yen": "3,300円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000080314",
+            "stable_id": "ur_aa355f0c1ad3b3cf",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          },
           {
             "building": "10号棟",
             "room_no": "417号室",
@@ -6564,16 +6587,16 @@
       }
     },
     "first_seen_at": "2026-08-01T06:18:57",
-    "last_seen_at": "2026-08-06T03:22:23",
-    "current_appearance_started_at": "2026-08-06T03:22:23",
-    "disappeared_at": "2026-08-06T03:34:05",
-    "lifetime_minutes": 11.7,
-    "appearance_count": 5,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 19,
-    "current_status": "disappeared_fast",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260806_033405",
+    "last_seen_at": "2026-08-06T06:14:40",
+    "current_appearance_started_at": "2026-08-06T06:14:40",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 6,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 20,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260806_061440",
     "appearances": [
       {
         "start": "2026-08-01T06:18:57",
@@ -6604,6 +6627,11 @@
         "end": "2026-08-06T03:34:05",
         "status": "disappeared_fast",
         "lifetime_minutes": 11.7
+      },
+      {
+        "start": "2026-08-06T06:14:40",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
