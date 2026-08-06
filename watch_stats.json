@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-05T11:33:36",
-  "total_checks": 113,
+  "updated_at": "2026-08-06T03:22:28",
+  "total_checks": 114,
   "buckets": {
     "09:00": {
       "checks": 15,
@@ -570,18 +570,17 @@
       }
     },
     "03:00": {
-      "checks": 42,
-      "candidate_checks": 23,
+      "checks": 43,
+      "candidate_checks": 24,
       "target_checks": 0,
-      "listing_rows": 191,
-      "candidate_rows": 57,
+      "listing_rows": 195,
+      "candidate_rows": 58,
       "target_rows": 0,
-      "last_checked_at": "2026-08-05T03:30:07",
-      "last_candidate_at": "2026-08-05T03:30:07",
+      "last_checked_at": "2026-08-06T03:22:23",
+      "last_candidate_at": "2026-08-06T03:22:23",
       "last_target_at": null,
       "last_candidate_names": [
-        "トミンタワー台場一番街",
-        "宇喜田第二"
+        "トミンタワー台場一番街"
       ],
       "candidate_names_seen": [
         "カーメスト大蔵の杜",
@@ -626,8 +625,8 @@
           "building_year": 2000,
           "building_year_label": "竣工年月日 2000/02/08",
           "first_seen_at": "2026-07-22T03:28:20",
-          "last_seen_at": "2026-08-05T03:30:07",
-          "seen_count": 15
+          "last_seen_at": "2026-08-06T03:22:23",
+          "seen_count": 16
         },
         "宇喜田第二|江戸川区|２ＤＫ|42.83|73,200|3,100": {
           "name": "宇喜田第二",
