@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-08-07T05:08:16",
+  "checked_at": "2026-08-07T06:19:18",
   "jkk_total": 4,
   "ur_total_vacancies": 8,
-  "new_events": 11,
+  "new_events": 9,
   "slack_candidates": 0,
-  "slack_skipped": 11,
+  "slack_skipped": 9,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -20,7 +20,7 @@
     {
       "stable_id": "ur_fdd4b672f72cfd0a",
       "building_name": "豊島五丁目",
-      "event_type": "stable",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
@@ -38,43 +38,31 @@
     {
       "stable_id": "ur_eeb39680cd5fc39a",
       "building_name": "赤羽北二丁目",
-      "event_type": "stable",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_f5ab123d275a0ee1",
       "building_name": "赤羽北二丁目ハイツ",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_cc1e81f9ce5a0c6a",
       "building_name": "赤羽アボードⅡ",
-      "event_type": "stable",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_e19d39904d3586b9",
       "building_name": "アーベイン神谷",
-      "event_type": "stable",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_f95355496d755f0f",
       "building_name": "フレーシェル王子神谷",
-      "event_type": "stable",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_541c9c187be399c4",
-      "building_name": "赤羽北二丁目",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_5a5d2be1e09bcefa",
-      "building_name": "赤羽南一丁目",
-      "event_type": "disappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     }
   ]
