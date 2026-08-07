@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-08-07T08:51:15",
-  "jkk_total": 7,
-  "ur_total_vacancies": 7,
-  "new_events": 11,
+  "checked_at": "2026-08-07T10:09:23",
+  "jkk_total": 5,
+  "ur_total_vacancies": 8,
+  "new_events": 12,
   "slack_candidates": 0,
-  "slack_skipped": 11,
+  "slack_skipped": 12,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -18,21 +18,9 @@
       "reason": "not_actionable"
     },
     {
-      "stable_id": "jkk_012809924aff6627",
-      "building_name": "宇喜田第二",
-      "event_type": "reappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_6e403c2d1b24af89",
-      "building_name": "新田",
-      "event_type": "reappeared",
-      "reason": "not_actionable"
-    },
-    {
       "stable_id": "jkk_2af168f761e61020",
       "building_name": "コーシャハイム南葛西五丁目",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
@@ -62,7 +50,7 @@
     {
       "stable_id": "ur_5a5d2be1e09bcefa",
       "building_name": "赤羽南一丁目",
-      "event_type": "still_seen",
+      "event_type": "stable",
       "reason": "not_actionable"
     },
     {
@@ -75,6 +63,24 @@
       "stable_id": "ur_cc1e81f9ce5a0c6a",
       "building_name": "赤羽アボードⅡ",
       "event_type": "still_seen",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "ur_f95355496d755f0f",
+      "building_name": "フレーシェル王子神谷",
+      "event_type": "reappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_012809924aff6627",
+      "building_name": "宇喜田第二",
+      "event_type": "disappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_6e403c2d1b24af89",
+      "building_name": "新田",
+      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]

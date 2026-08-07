@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-07T08:51:22",
-  "total_checks": 124,
+  "updated_at": "2026-08-07T10:09:31",
+  "total_checks": 125,
   "buckets": {
     "09:00": {
       "checks": 16,
@@ -402,20 +402,21 @@
       }
     },
     "10:00": {
-      "checks": 11,
-      "candidate_checks": 5,
+      "checks": 12,
+      "candidate_checks": 6,
       "target_checks": 0,
-      "listing_rows": 46,
-      "candidate_rows": 11,
+      "listing_rows": 51,
+      "candidate_rows": 13,
       "target_rows": 0,
-      "last_checked_at": "2026-08-02T10:49:26",
-      "last_candidate_at": "2026-08-01T10:22:12",
+      "last_checked_at": "2026-08-07T10:09:23",
+      "last_candidate_at": "2026-08-07T10:09:23",
       "last_target_at": null,
       "last_candidate_names": [
-        "宇喜田第一",
-        "西台"
+        "コーシャハイム南葛西五丁目",
+        "トミンタワー台場一番街"
       ],
       "candidate_names_seen": [
+        "コーシャハイム南葛西五丁目",
         "コーシャハイム大森東",
         "コーシャハイム小竹町",
         "トミンタワー台場一番街",
@@ -494,8 +495,8 @@
           "building_year": 2000,
           "building_year_label": "竣工年月日 2000/02/08",
           "first_seen_at": "2026-07-25T10:10:40",
-          "last_seen_at": "2026-07-25T10:10:40",
-          "seen_count": 1
+          "last_seen_at": "2026-08-07T10:09:23",
+          "seen_count": 2
         },
         "コーシャハイム大森東|大田区|３ＤＫ|62.97|120,000|3,900": {
           "name": "コーシャハイム大森東",
@@ -565,6 +566,20 @@
           "building_year_label": "竣工年月日 1972/06/30",
           "first_seen_at": "2026-08-01T10:22:12",
           "last_seen_at": "2026-08-01T10:22:12",
+          "seen_count": 1
+        },
+        "コーシャハイム南葛西五丁目|江戸川区|３ＤＫ|60.47|91,700|3,100": {
+          "name": "コーシャハイム南葛西五丁目",
+          "area": "江戸川区",
+          "layout": "３ＤＫ",
+          "floor_area_m2": "60.47",
+          "rent_yen": "91,700",
+          "common_fee_yen": "3,100",
+          "units": "1",
+          "building_year": 1986,
+          "building_year_label": "竣工年月日 1986/03/25",
+          "first_seen_at": "2026-08-07T10:09:23",
+          "last_seen_at": "2026-08-07T10:09:23",
           "seen_count": 1
         }
       }
