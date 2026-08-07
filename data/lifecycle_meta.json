@@ -1,9 +1,9 @@
 {
-  "boost_until": "2026-08-07T05:28:16",
+  "boost_until": "2026-08-07T08:10:19",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "UR:赤羽北二丁目ハイツ"
+    "UR:赤羽南一丁目"
   ],
-  "last_ur_total_vacancies": 8,
-  "updated_at": "2026-08-07T06:19:18"
+  "last_ur_total_vacancies": 7,
+  "updated_at": "2026-08-07T07:50:19"
 }

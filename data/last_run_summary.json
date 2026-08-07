@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-08-07T06:19:18",
+  "checked_at": "2026-08-07T07:50:19",
   "jkk_total": 4,
-  "ur_total_vacancies": 8,
-  "new_events": 9,
+  "ur_total_vacancies": 7,
+  "new_events": 10,
   "slack_candidates": 0,
-  "slack_skipped": 9,
+  "slack_skipped": 10,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -42,9 +42,15 @@
       "reason": "not_actionable"
     },
     {
+      "stable_id": "ur_5a5d2be1e09bcefa",
+      "building_name": "赤羽南一丁目",
+      "event_type": "reappeared",
+      "reason": "not_actionable"
+    },
+    {
       "stable_id": "ur_f5ab123d275a0ee1",
       "building_name": "赤羽北二丁目ハイツ",
-      "event_type": "still_seen",
+      "event_type": "stable",
       "reason": "not_actionable"
     },
     {
@@ -56,13 +62,13 @@
     {
       "stable_id": "ur_e19d39904d3586b9",
       "building_name": "アーベイン神谷",
-      "event_type": "still_seen",
+      "event_type": "disappeared",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_f95355496d755f0f",
       "building_name": "フレーシェル王子神谷",
-      "event_type": "still_seen",
+      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]
