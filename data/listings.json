@@ -2626,16 +2626,16 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-18T05:49:45",
-    "last_seen_at": "2026-08-06T11:37:02",
+    "last_seen_at": "2026-08-07T03:09:44",
     "current_appearance_started_at": "2026-08-04T09:16:29",
     "disappeared_at": null,
-    "lifetime_minutes": 3020.6,
+    "lifetime_minutes": 3953.2,
     "appearance_count": 4,
-    "consecutive_seen_count": 12,
-    "total_seen_checks": 44,
+    "consecutive_seen_count": 13,
+    "total_seen_checks": 45,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260806_113702",
+    "last_snapshot_id": "snapshot_20260807_030944",
     "appearances": [
       {
         "start": "2026-07-18T05:49:45",
@@ -6157,13 +6157,30 @@
         "name": "豊島五丁目",
         "place": "北区豊島5-4ほか",
         "traffic": "JR京浜東北・根岸線「王子」駅バス7分 徒歩2～6分 東京メトロ南北線「王子」駅バス7分 徒歩2～6分",
-        "room_count": 2,
+        "room_count": 3,
         "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320.html",
         "shisya": "20",
         "danchi": "232",
         "shikibetu": "0",
         "is_target": false,
         "rooms": [
+          {
+            "building": "6号棟",
+            "room_no": "704号室",
+            "layout": "2DK",
+            "floor_area_m2": "48m2",
+            "floor": "7階",
+            "rent_yen": "90,300円",
+            "common_fee_yen": "3,300円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000060704",
+            "stable_id": "ur_fdd4b672f72cfd0a",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          },
           {
             "building": "8号棟",
             "room_no": "314号室",
@@ -6219,16 +6236,16 @@
       }
     },
     "first_seen_at": "2026-08-01T03:37:57",
-    "last_seen_at": "2026-08-06T11:37:02",
+    "last_seen_at": "2026-08-07T03:09:44",
     "current_appearance_started_at": "2026-08-06T06:14:40",
     "disappeared_at": null,
-    "lifetime_minutes": 322.4,
+    "lifetime_minutes": 1255.1,
     "appearance_count": 2,
-    "consecutive_seen_count": 3,
-    "total_seen_checks": 13,
+    "consecutive_seen_count": 4,
+    "total_seen_checks": 14,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260806_113702",
+    "last_snapshot_id": "snapshot_20260807_030944",
     "appearances": [
       {
         "start": "2026-08-01T03:37:57",
@@ -6525,13 +6542,30 @@
         "name": "豊島五丁目",
         "place": "北区豊島5-4ほか",
         "traffic": "JR京浜東北・根岸線「王子」駅バス7分 徒歩2～6分 東京メトロ南北線「王子」駅バス7分 徒歩2～6分",
-        "room_count": 2,
+        "room_count": 3,
         "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320.html",
         "shisya": "20",
         "danchi": "232",
         "shikibetu": "0",
         "is_target": false,
         "rooms": [
+          {
+            "building": "6号棟",
+            "room_no": "704号室",
+            "layout": "2DK",
+            "floor_area_m2": "48m2",
+            "floor": "7階",
+            "rent_yen": "90,300円",
+            "common_fee_yen": "3,300円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000060704",
+            "stable_id": "ur_fdd4b672f72cfd0a",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          },
           {
             "building": "8号棟",
             "room_no": "314号室",
@@ -6587,16 +6621,16 @@
       }
     },
     "first_seen_at": "2026-08-01T06:18:57",
-    "last_seen_at": "2026-08-06T11:37:02",
+    "last_seen_at": "2026-08-07T03:09:44",
     "current_appearance_started_at": "2026-08-06T06:14:40",
     "disappeared_at": null,
-    "lifetime_minutes": 322.4,
+    "lifetime_minutes": 1255.1,
     "appearance_count": 6,
-    "consecutive_seen_count": 3,
-    "total_seen_checks": 22,
+    "consecutive_seen_count": 4,
+    "total_seen_checks": 23,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260806_113702",
+    "last_snapshot_id": "snapshot_20260807_030944",
     "appearances": [
       {
         "start": "2026-08-01T06:18:57",
@@ -7228,6 +7262,674 @@
     "quick_tags": [
       "参考向",
       "重复出现"
+    ]
+  },
+  "ur_fdd4b672f72cfd0a": {
+    "stable_id": "ur_fdd4b672f72cfd0a",
+    "source": "UR",
+    "official_id": "ur:20:232:0:https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000060704",
+    "building_name": "豊島五丁目",
+    "room_no": "6号棟 704号室",
+    "layout": "2DK",
+    "area": "48m2",
+    "rent": "90,300円",
+    "common_fee": "3,300円",
+    "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000060704",
+    "is_high_priority": false,
+    "source_label": "UR",
+    "action_hint": "发现参考房源，请关注户型/价格/楼层；如需行动，请电话或线下确认。",
+    "raw": {
+      "listing": {
+        "name": "豊島五丁目",
+        "place": "北区豊島5-4ほか",
+        "traffic": "JR京浜東北・根岸線「王子」駅バス7分 徒歩2～6分 東京メトロ南北線「王子」駅バス7分 徒歩2～6分",
+        "room_count": 3,
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320.html",
+        "shisya": "20",
+        "danchi": "232",
+        "shikibetu": "0",
+        "is_target": false,
+        "rooms": [
+          {
+            "building": "6号棟",
+            "room_no": "704号室",
+            "layout": "2DK",
+            "floor_area_m2": "48m2",
+            "floor": "7階",
+            "rent_yen": "90,300円",
+            "common_fee_yen": "3,300円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000060704",
+            "stable_id": "",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          },
+          {
+            "building": "8号棟",
+            "room_no": "314号室",
+            "layout": "2DK",
+            "floor_area_m2": "49m2",
+            "floor": "3階",
+            "rent_yen": "86,700円",
+            "common_fee_yen": "3,300円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000080314",
+            "stable_id": "",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          },
+          {
+            "building": "10号棟",
+            "room_no": "417号室",
+            "layout": "2DK",
+            "floor_area_m2": "49m2",
+            "floor": "4階",
+            "rent_yen": "86,800円",
+            "common_fee_yen": "3,300円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000100417",
+            "stable_id": "",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          }
+        ]
+      },
+      "room": {
+        "building": "6号棟",
+        "room_no": "704号室",
+        "layout": "2DK",
+        "floor_area_m2": "48m2",
+        "floor": "7階",
+        "rent_yen": "90,300円",
+        "common_fee_yen": "3,300円",
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000060704",
+        "stable_id": "",
+        "current_status": "",
+        "first_seen_at": "",
+        "last_seen_at": "",
+        "lifetime_minutes": 0.0,
+        "appearance_count": 0,
+        "quick_tags": null
+      }
+    },
+    "first_seen_at": "2026-08-07T03:09:44",
+    "last_seen_at": "2026-08-07T03:09:44",
+    "current_appearance_started_at": "2026-08-07T03:09:44",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260807_030944",
+    "appearances": [
+      {
+        "start": "2026-08-07T03:09:44",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "参考向",
+      "低价"
+    ]
+  },
+  "ur_541c9c187be399c4": {
+    "stable_id": "ur_541c9c187be399c4",
+    "source": "UR",
+    "official_id": "ur:20:280:0:https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000010635",
+    "building_name": "赤羽北二丁目",
+    "room_no": "1号棟 635号室",
+    "layout": "1LDK",
+    "area": "48m2",
+    "rent": "116,900円",
+    "common_fee": "4,000円",
+    "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000010635",
+    "is_high_priority": false,
+    "source_label": "UR",
+    "action_hint": "发现参考房源，请关注户型/价格/楼层；如需行动，请电话或线下确认。",
+    "raw": {
+      "listing": {
+        "name": "赤羽北二丁目",
+        "place": "北区赤羽北2-15",
+        "traffic": "JR埼京線「北赤羽」駅 徒歩6～7分",
+        "room_count": 2,
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800.html",
+        "shisya": "20",
+        "danchi": "280",
+        "shikibetu": "0",
+        "is_target": false,
+        "rooms": [
+          {
+            "building": "1号棟",
+            "room_no": "635号室",
+            "layout": "1LDK",
+            "floor_area_m2": "48m2",
+            "floor": "6階",
+            "rent_yen": "116,900円",
+            "common_fee_yen": "4,000円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000010635",
+            "stable_id": "",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          },
+          {
+            "building": "1号棟",
+            "room_no": "1027号室",
+            "layout": "1LDK",
+            "floor_area_m2": "49m2",
+            "floor": "10階",
+            "rent_yen": "120,000円",
+            "common_fee_yen": "4,000円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000011027",
+            "stable_id": "",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          }
+        ]
+      },
+      "room": {
+        "building": "1号棟",
+        "room_no": "635号室",
+        "layout": "1LDK",
+        "floor_area_m2": "48m2",
+        "floor": "6階",
+        "rent_yen": "116,900円",
+        "common_fee_yen": "4,000円",
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000010635",
+        "stable_id": "",
+        "current_status": "",
+        "first_seen_at": "",
+        "last_seen_at": "",
+        "lifetime_minutes": 0.0,
+        "appearance_count": 0,
+        "quick_tags": null
+      }
+    },
+    "first_seen_at": "2026-08-07T03:09:44",
+    "last_seen_at": "2026-08-07T03:09:44",
+    "current_appearance_started_at": "2026-08-07T03:09:44",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260807_030944",
+    "appearances": [
+      {
+        "start": "2026-08-07T03:09:44",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "参考向"
+    ]
+  },
+  "ur_eeb39680cd5fc39a": {
+    "stable_id": "ur_eeb39680cd5fc39a",
+    "source": "UR",
+    "official_id": "ur:20:280:0:https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000011027",
+    "building_name": "赤羽北二丁目",
+    "room_no": "1号棟 1027号室",
+    "layout": "1LDK",
+    "area": "49m2",
+    "rent": "120,000円",
+    "common_fee": "4,000円",
+    "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000011027",
+    "is_high_priority": false,
+    "source_label": "UR",
+    "action_hint": "发现参考房源，请关注户型/价格/楼层；如需行动，请电话或线下确认。",
+    "raw": {
+      "listing": {
+        "name": "赤羽北二丁目",
+        "place": "北区赤羽北2-15",
+        "traffic": "JR埼京線「北赤羽」駅 徒歩6～7分",
+        "room_count": 2,
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800.html",
+        "shisya": "20",
+        "danchi": "280",
+        "shikibetu": "0",
+        "is_target": false,
+        "rooms": [
+          {
+            "building": "1号棟",
+            "room_no": "635号室",
+            "layout": "1LDK",
+            "floor_area_m2": "48m2",
+            "floor": "6階",
+            "rent_yen": "116,900円",
+            "common_fee_yen": "4,000円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000010635",
+            "stable_id": "ur_541c9c187be399c4",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          },
+          {
+            "building": "1号棟",
+            "room_no": "1027号室",
+            "layout": "1LDK",
+            "floor_area_m2": "49m2",
+            "floor": "10階",
+            "rent_yen": "120,000円",
+            "common_fee_yen": "4,000円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000011027",
+            "stable_id": "",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          }
+        ]
+      },
+      "room": {
+        "building": "1号棟",
+        "room_no": "1027号室",
+        "layout": "1LDK",
+        "floor_area_m2": "49m2",
+        "floor": "10階",
+        "rent_yen": "120,000円",
+        "common_fee_yen": "4,000円",
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2800_room.html?JKSS=000011027",
+        "stable_id": "",
+        "current_status": "",
+        "first_seen_at": "",
+        "last_seen_at": "",
+        "lifetime_minutes": 0.0,
+        "appearance_count": 0,
+        "quick_tags": null
+      }
+    },
+    "first_seen_at": "2026-08-07T03:09:44",
+    "last_seen_at": "2026-08-07T03:09:44",
+    "current_appearance_started_at": "2026-08-07T03:09:44",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260807_030944",
+    "appearances": [
+      {
+        "start": "2026-08-07T03:09:44",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "参考向"
+    ]
+  },
+  "ur_5a5d2be1e09bcefa": {
+    "stable_id": "ur_5a5d2be1e09bcefa",
+    "source": "UR",
+    "official_id": "ur:20:308:0:https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3080_room.html?JKSS=000020503",
+    "building_name": "赤羽南一丁目",
+    "room_no": "2号棟 503号室",
+    "layout": "2DK",
+    "area": "54m2",
+    "rent": "124,400円",
+    "common_fee": "2,800円",
+    "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3080_room.html?JKSS=000020503",
+    "is_high_priority": false,
+    "source_label": "UR",
+    "action_hint": "发现参考房源，请关注户型/价格/楼层；如需行动，请电话或线下确认。",
+    "raw": {
+      "listing": {
+        "name": "赤羽南一丁目",
+        "place": "北区赤羽南1-16",
+        "traffic": "JR埼京線「赤羽」駅 徒歩6～7分 東京メトロ南北線「志茂」駅 徒歩9～10分",
+        "room_count": 1,
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3080.html",
+        "shisya": "20",
+        "danchi": "308",
+        "shikibetu": "0",
+        "is_target": false,
+        "rooms": [
+          {
+            "building": "2号棟",
+            "room_no": "503号室",
+            "layout": "2DK",
+            "floor_area_m2": "54m2",
+            "floor": "5階",
+            "rent_yen": "124,400円",
+            "common_fee_yen": "2,800円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3080_room.html?JKSS=000020503",
+            "stable_id": "",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          }
+        ]
+      },
+      "room": {
+        "building": "2号棟",
+        "room_no": "503号室",
+        "layout": "2DK",
+        "floor_area_m2": "54m2",
+        "floor": "5階",
+        "rent_yen": "124,400円",
+        "common_fee_yen": "2,800円",
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3080_room.html?JKSS=000020503",
+        "stable_id": "",
+        "current_status": "",
+        "first_seen_at": "",
+        "last_seen_at": "",
+        "lifetime_minutes": 0.0,
+        "appearance_count": 0,
+        "quick_tags": null
+      }
+    },
+    "first_seen_at": "2026-08-07T03:09:44",
+    "last_seen_at": "2026-08-07T03:09:44",
+    "current_appearance_started_at": "2026-08-07T03:09:44",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260807_030944",
+    "appearances": [
+      {
+        "start": "2026-08-07T03:09:44",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "参考向"
+    ]
+  },
+  "ur_cc1e81f9ce5a0c6a": {
+    "stable_id": "ur_cc1e81f9ce5a0c6a",
+    "source": "UR",
+    "official_id": "ur:20:539:0:https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5390_room.html?JKSS=000000902",
+    "building_name": "赤羽アボードⅡ",
+    "room_no": "902号室",
+    "layout": "1DK",
+    "area": "40m2",
+    "rent": "137,400円",
+    "common_fee": "4,700円",
+    "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5390_room.html?JKSS=000000902",
+    "is_high_priority": false,
+    "source_label": "UR",
+    "action_hint": "发现参考房源，请关注户型/价格/楼层；如需行动，请电话或线下确认。",
+    "raw": {
+      "listing": {
+        "name": "赤羽アボードⅡ",
+        "place": "北区赤羽西1-6-1",
+        "traffic": "JR埼京線ほか｢赤羽｣駅 徒歩1分",
+        "room_count": 1,
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5390.html",
+        "shisya": "20",
+        "danchi": "539",
+        "shikibetu": "0",
+        "is_target": false,
+        "rooms": [
+          {
+            "building": "",
+            "room_no": "902号室",
+            "layout": "1DK",
+            "floor_area_m2": "40m2",
+            "floor": "9階",
+            "rent_yen": "137,400円",
+            "common_fee_yen": "4,700円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5390_room.html?JKSS=000000902",
+            "stable_id": "",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          }
+        ]
+      },
+      "room": {
+        "building": "",
+        "room_no": "902号室",
+        "layout": "1DK",
+        "floor_area_m2": "40m2",
+        "floor": "9階",
+        "rent_yen": "137,400円",
+        "common_fee_yen": "4,700円",
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5390_room.html?JKSS=000000902",
+        "stable_id": "",
+        "current_status": "",
+        "first_seen_at": "",
+        "last_seen_at": "",
+        "lifetime_minutes": 0.0,
+        "appearance_count": 0,
+        "quick_tags": null
+      }
+    },
+    "first_seen_at": "2026-08-07T03:09:44",
+    "last_seen_at": "2026-08-07T03:09:44",
+    "current_appearance_started_at": "2026-08-07T03:09:44",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260807_030944",
+    "appearances": [
+      {
+        "start": "2026-08-07T03:09:44",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "参考向",
+      "小户型"
+    ]
+  },
+  "ur_e19d39904d3586b9": {
+    "stable_id": "ur_e19d39904d3586b9",
+    "source": "UR",
+    "official_id": "ur:20:571:0:https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5710_room.html?JKSS=000000501",
+    "building_name": "アーベイン神谷",
+    "room_no": "501号室",
+    "layout": "3LDK",
+    "area": "82m2",
+    "rent": "189,900円",
+    "common_fee": "4,100円",
+    "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5710_room.html?JKSS=000000501",
+    "is_high_priority": false,
+    "source_label": "UR",
+    "action_hint": "发现参考房源，请关注户型/价格/楼层；如需行动，请电话或线下确认。",
+    "raw": {
+      "listing": {
+        "name": "アーベイン神谷",
+        "place": "北区神谷3-11-1",
+        "traffic": "東京メトロ南北線「志茂」駅 徒歩4分",
+        "room_count": 1,
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5710.html",
+        "shisya": "20",
+        "danchi": "571",
+        "shikibetu": "0",
+        "is_target": false,
+        "rooms": [
+          {
+            "building": "",
+            "room_no": "501号室",
+            "layout": "3LDK",
+            "floor_area_m2": "82m2",
+            "floor": "5階",
+            "rent_yen": "189,900円",
+            "common_fee_yen": "4,100円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5710_room.html?JKSS=000000501",
+            "stable_id": "",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          }
+        ]
+      },
+      "room": {
+        "building": "",
+        "room_no": "501号室",
+        "layout": "3LDK",
+        "floor_area_m2": "82m2",
+        "floor": "5階",
+        "rent_yen": "189,900円",
+        "common_fee_yen": "4,100円",
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5710_room.html?JKSS=000000501",
+        "stable_id": "",
+        "current_status": "",
+        "first_seen_at": "",
+        "last_seen_at": "",
+        "lifetime_minutes": 0.0,
+        "appearance_count": 0,
+        "quick_tags": null
+      }
+    },
+    "first_seen_at": "2026-08-07T03:09:44",
+    "last_seen_at": "2026-08-07T03:09:44",
+    "current_appearance_started_at": "2026-08-07T03:09:44",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260807_030944",
+    "appearances": [
+      {
+        "start": "2026-08-07T03:09:44",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "参考向",
+      "大户型"
+    ]
+  },
+  "ur_f95355496d755f0f": {
+    "stable_id": "ur_f95355496d755f0f",
+    "source": "UR",
+    "official_id": "ur:20:600:0:https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6000_room.html?JKSS=000020807",
+    "building_name": "フレーシェル王子神谷",
+    "room_no": "2号棟 807号室",
+    "layout": "3LDK",
+    "area": "80m2",
+    "rent": "208,200円",
+    "common_fee": "4,200円",
+    "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6000_room.html?JKSS=000020807",
+    "is_high_priority": false,
+    "source_label": "UR",
+    "action_hint": "发现参考房源，请关注户型/价格/楼层；如需行动，请电话或线下确认。",
+    "raw": {
+      "listing": {
+        "name": "フレーシェル王子神谷",
+        "place": "北区豊島8-27",
+        "traffic": "東京メトロ南北線「王子神谷」駅 徒歩6～7分 JR京浜東北・根岸線「東十条」駅 徒歩16～17分",
+        "room_count": 1,
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6000.html",
+        "shisya": "20",
+        "danchi": "600",
+        "shikibetu": "0",
+        "is_target": false,
+        "rooms": [
+          {
+            "building": "2号棟",
+            "room_no": "807号室",
+            "layout": "3LDK",
+            "floor_area_m2": "80m2",
+            "floor": "8階",
+            "rent_yen": "208,200円",
+            "common_fee_yen": "4,200円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6000_room.html?JKSS=000020807",
+            "stable_id": "",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          }
+        ]
+      },
+      "room": {
+        "building": "2号棟",
+        "room_no": "807号室",
+        "layout": "3LDK",
+        "floor_area_m2": "80m2",
+        "floor": "8階",
+        "rent_yen": "208,200円",
+        "common_fee_yen": "4,200円",
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6000_room.html?JKSS=000020807",
+        "stable_id": "",
+        "current_status": "",
+        "first_seen_at": "",
+        "last_seen_at": "",
+        "lifetime_minutes": 0.0,
+        "appearance_count": 0,
+        "quick_tags": null
+      }
+    },
+    "first_seen_at": "2026-08-07T03:09:44",
+    "last_seen_at": "2026-08-07T03:09:44",
+    "current_appearance_started_at": "2026-08-07T03:09:44",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260807_030944",
+    "appearances": [
+      {
+        "start": "2026-08-07T03:09:44",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "参考向",
+      "高价",
+      "大户型"
     ]
   }
 }
