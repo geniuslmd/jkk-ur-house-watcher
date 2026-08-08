@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-08T03:49:20",
-  "total_checks": 128,
+  "updated_at": "2026-08-08T04:47:30",
+  "total_checks": 129,
   "buckets": {
     "09:00": {
       "checks": 16,
@@ -1567,19 +1567,17 @@
       }
     },
     "04:00": {
-      "checks": 1,
-      "candidate_checks": 1,
+      "checks": 2,
+      "candidate_checks": 2,
       "target_checks": 0,
-      "listing_rows": 6,
-      "candidate_rows": 3,
+      "listing_rows": 10,
+      "candidate_rows": 4,
       "target_rows": 0,
-      "last_checked_at": "2026-07-27T04:00:03",
-      "last_candidate_at": "2026-07-27T04:00:03",
+      "last_checked_at": "2026-08-08T04:47:25",
+      "last_candidate_at": "2026-08-08T04:47:25",
       "last_target_at": null,
       "last_candidate_names": [
-        "コーシャハイム仲池上",
-        "トミンタワー台場一番街",
-        "新田"
+        "トミンタワー台場一番街"
       ],
       "candidate_names_seen": [
         "コーシャハイム仲池上",
@@ -1598,8 +1596,8 @@
           "building_year": 2000,
           "building_year_label": "竣工年月日 2000/02/08",
           "first_seen_at": "2026-07-27T04:00:03",
-          "last_seen_at": "2026-07-27T04:00:03",
-          "seen_count": 1
+          "last_seen_at": "2026-08-08T04:47:25",
+          "seen_count": 2
         },
         "コーシャハイム仲池上|大田区|２Ｋ|40.5|106,900|5,800": {
           "name": "コーシャハイム仲池上",
