@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-08T04:47:30",
-  "total_checks": 129,
+  "updated_at": "2026-08-08T05:32:06",
+  "total_checks": 130,
   "buckets": {
     "09:00": {
       "checks": 16,
@@ -870,14 +870,14 @@
       }
     },
     "05:00": {
-      "checks": 4,
-      "candidate_checks": 3,
+      "checks": 5,
+      "candidate_checks": 4,
       "target_checks": 0,
-      "listing_rows": 16,
-      "candidate_rows": 4,
+      "listing_rows": 20,
+      "candidate_rows": 5,
       "target_rows": 0,
-      "last_checked_at": "2026-08-07T05:08:16",
-      "last_candidate_at": "2026-08-07T05:08:16",
+      "last_checked_at": "2026-08-08T05:32:03",
+      "last_candidate_at": "2026-08-08T05:32:03",
       "last_target_at": null,
       "last_candidate_names": [
         "トミンタワー台場一番街"
@@ -913,8 +913,8 @@
           "building_year": 2000,
           "building_year_label": "竣工年月日 2000/02/08",
           "first_seen_at": "2026-07-18T05:49:45",
-          "last_seen_at": "2026-08-07T05:08:16",
-          "seen_count": 2
+          "last_seen_at": "2026-08-08T05:32:03",
+          "seen_count": 3
         },
         "コーシャハイム光が丘第二|練馬区|３ＤＫ|60.17|105,300|3,400": {
           "name": "コーシャハイム光が丘第二",
