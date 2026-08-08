@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-08T02:19:43",
+  "checked_at": "2026-08-08T03:49:17",
   "jkk_total": 4,
-  "ur_total_vacancies": 9,
+  "ur_total_vacancies": 2,
   "new_events": 10,
   "slack_candidates": 0,
   "slack_skipped": 10,
@@ -18,44 +18,8 @@
       "reason": "not_actionable"
     },
     {
-      "stable_id": "ur_fdd4b672f72cfd0a",
-      "building_name": "豊島五丁目",
-      "event_type": "still_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_aa355f0c1ad3b3cf",
-      "building_name": "豊島五丁目",
-      "event_type": "still_seen",
-      "reason": "not_actionable"
-    },
-    {
       "stable_id": "ur_7fd29bf5ae2b9036",
       "building_name": "豊島五丁目",
-      "event_type": "still_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_eeb39680cd5fc39a",
-      "building_name": "赤羽北二丁目",
-      "event_type": "still_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_50e68d12504308f5",
-      "building_name": "赤羽北二丁目",
-      "event_type": "still_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_5a5d2be1e09bcefa",
-      "building_name": "赤羽南一丁目",
-      "event_type": "still_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_f5ab123d275a0ee1",
-      "building_name": "赤羽北二丁目ハイツ",
       "event_type": "still_seen",
       "reason": "not_actionable"
     },
@@ -66,9 +30,45 @@
       "reason": "not_actionable"
     },
     {
+      "stable_id": "ur_50e68d12504308f5",
+      "building_name": "赤羽北二丁目",
+      "event_type": "disappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "ur_f5ab123d275a0ee1",
+      "building_name": "赤羽北二丁目ハイツ",
+      "event_type": "disappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "ur_aa355f0c1ad3b3cf",
+      "building_name": "豊島五丁目",
+      "event_type": "disappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "ur_fdd4b672f72cfd0a",
+      "building_name": "豊島五丁目",
+      "event_type": "disappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "ur_eeb39680cd5fc39a",
+      "building_name": "赤羽北二丁目",
+      "event_type": "disappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "ur_5a5d2be1e09bcefa",
+      "building_name": "赤羽南一丁目",
+      "event_type": "disappeared",
+      "reason": "not_actionable"
+    },
+    {
       "stable_id": "ur_f95355496d755f0f",
       "building_name": "フレーシェル王子神谷",
-      "event_type": "stable",
+      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]

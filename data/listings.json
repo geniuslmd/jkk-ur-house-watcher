@@ -1718,14 +1718,14 @@
     "first_seen_at": "2026-07-14T08:27:09",
     "last_seen_at": "2026-08-08T02:19:43",
     "current_appearance_started_at": "2026-08-08T02:06:19",
-    "disappeared_at": null,
-    "lifetime_minutes": 13.4,
+    "disappeared_at": "2026-08-08T03:49:17",
+    "lifetime_minutes": 103.0,
     "appearance_count": 6,
-    "consecutive_seen_count": 2,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 14,
-    "current_status": "reappeared",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260808_021943",
+    "current_status": "disappeared",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260808_034917",
     "appearances": [
       {
         "start": "2026-07-14T08:27:09",
@@ -1759,8 +1759,9 @@
       },
       {
         "start": "2026-08-08T02:06:19",
-        "end": null,
-        "status": "active"
+        "end": "2026-08-08T03:49:17",
+        "status": "disappeared",
+        "lifetime_minutes": 103.0
       }
     ],
     "quick_tags": [
@@ -2643,16 +2644,16 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-18T05:49:45",
-    "last_seen_at": "2026-08-08T02:19:43",
+    "last_seen_at": "2026-08-08T03:49:17",
     "current_appearance_started_at": "2026-08-04T09:16:29",
     "disappeared_at": null,
-    "lifetime_minutes": 5343.2,
+    "lifetime_minutes": 5432.8,
     "appearance_count": 4,
-    "consecutive_seen_count": 21,
-    "total_seen_checks": 53,
+    "consecutive_seen_count": 22,
+    "total_seen_checks": 54,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260808_021943",
+    "last_snapshot_id": "snapshot_20260808_034917",
     "appearances": [
       {
         "start": "2026-07-18T05:49:45",
@@ -5014,14 +5015,14 @@
     "first_seen_at": "2026-07-25T03:27:09",
     "last_seen_at": "2026-08-08T02:19:43",
     "current_appearance_started_at": "2026-08-07T05:08:16",
-    "disappeared_at": null,
-    "lifetime_minutes": 1271.5,
+    "disappeared_at": "2026-08-08T03:49:17",
+    "lifetime_minutes": 1361.0,
     "appearance_count": 4,
-    "consecutive_seen_count": 7,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 49,
-    "current_status": "stable",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260808_021943",
+    "current_status": "disappeared",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260808_034917",
     "appearances": [
       {
         "start": "2026-07-25T03:27:09",
@@ -5043,8 +5044,9 @@
       },
       {
         "start": "2026-08-07T05:08:16",
-        "end": null,
-        "status": "active"
+        "end": "2026-08-08T03:49:17",
+        "status": "disappeared",
+        "lifetime_minutes": 1361.0
       }
     ],
     "quick_tags": [
@@ -6266,14 +6268,14 @@
     "first_seen_at": "2026-08-01T03:37:57",
     "last_seen_at": "2026-08-08T02:19:43",
     "current_appearance_started_at": "2026-08-06T06:14:40",
-    "disappeared_at": null,
-    "lifetime_minutes": 2645.1,
+    "disappeared_at": "2026-08-08T03:49:17",
+    "lifetime_minutes": 2734.6,
     "appearance_count": 2,
-    "consecutive_seen_count": 12,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 22,
-    "current_status": "stable",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260808_021943",
+    "current_status": "disappeared",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260808_034917",
     "appearances": [
       {
         "start": "2026-08-01T03:37:57",
@@ -6283,8 +6285,9 @@
       },
       {
         "start": "2026-08-06T06:14:40",
-        "end": null,
-        "status": "active"
+        "end": "2026-08-08T03:49:17",
+        "status": "disappeared",
+        "lifetime_minutes": 2734.6
       }
     ],
     "quick_tags": [
@@ -6570,47 +6573,13 @@
         "name": "豊島五丁目",
         "place": "北区豊島5-4ほか",
         "traffic": "JR京浜東北・根岸線「王子」駅バス7分 徒歩2～6分 東京メトロ南北線「王子」駅バス7分 徒歩2～6分",
-        "room_count": 3,
+        "room_count": 1,
         "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320.html",
         "shisya": "20",
         "danchi": "232",
         "shikibetu": "0",
         "is_target": false,
         "rooms": [
-          {
-            "building": "6号棟",
-            "room_no": "704号室",
-            "layout": "2DK",
-            "floor_area_m2": "48m2",
-            "floor": "7階",
-            "rent_yen": "90,300円",
-            "common_fee_yen": "3,300円",
-            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000060704",
-            "stable_id": "ur_fdd4b672f72cfd0a",
-            "current_status": "",
-            "first_seen_at": "",
-            "last_seen_at": "",
-            "lifetime_minutes": 0.0,
-            "appearance_count": 0,
-            "quick_tags": null
-          },
-          {
-            "building": "8号棟",
-            "room_no": "314号室",
-            "layout": "2DK",
-            "floor_area_m2": "49m2",
-            "floor": "3階",
-            "rent_yen": "86,700円",
-            "common_fee_yen": "3,300円",
-            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000080314",
-            "stable_id": "ur_aa355f0c1ad3b3cf",
-            "current_status": "",
-            "first_seen_at": "",
-            "last_seen_at": "",
-            "lifetime_minutes": 0.0,
-            "appearance_count": 0,
-            "quick_tags": null
-          },
           {
             "building": "10号棟",
             "room_no": "417号室",
@@ -6649,16 +6618,16 @@
       }
     },
     "first_seen_at": "2026-08-01T06:18:57",
-    "last_seen_at": "2026-08-08T02:19:43",
+    "last_seen_at": "2026-08-08T03:49:17",
     "current_appearance_started_at": "2026-08-06T06:14:40",
     "disappeared_at": null,
-    "lifetime_minutes": 2645.1,
+    "lifetime_minutes": 2734.6,
     "appearance_count": 6,
-    "consecutive_seen_count": 12,
-    "total_seen_checks": 31,
+    "consecutive_seen_count": 13,
+    "total_seen_checks": 32,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260808_021943",
+    "last_snapshot_id": "snapshot_20260808_034917",
     "appearances": [
       {
         "start": "2026-08-01T06:18:57",
@@ -7392,19 +7361,20 @@
     "first_seen_at": "2026-08-07T03:09:44",
     "last_seen_at": "2026-08-08T02:19:43",
     "current_appearance_started_at": "2026-08-07T03:09:44",
-    "disappeared_at": null,
-    "lifetime_minutes": 1390.0,
+    "disappeared_at": "2026-08-08T03:49:17",
+    "lifetime_minutes": 1479.5,
     "appearance_count": 1,
-    "consecutive_seen_count": 9,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 9,
-    "current_status": "stable",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260808_021943",
+    "current_status": "disappeared",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260808_034917",
     "appearances": [
       {
         "start": "2026-08-07T03:09:44",
-        "end": null,
-        "status": "active"
+        "end": "2026-08-08T03:49:17",
+        "status": "disappeared",
+        "lifetime_minutes": 1479.5
       }
     ],
     "quick_tags": [
@@ -7598,19 +7568,20 @@
     "first_seen_at": "2026-08-07T03:09:44",
     "last_seen_at": "2026-08-08T02:19:43",
     "current_appearance_started_at": "2026-08-07T03:09:44",
-    "disappeared_at": null,
-    "lifetime_minutes": 1390.0,
+    "disappeared_at": "2026-08-08T03:49:17",
+    "lifetime_minutes": 1479.5,
     "appearance_count": 1,
-    "consecutive_seen_count": 9,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 9,
-    "current_status": "stable",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260808_021943",
+    "current_status": "disappeared",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260808_034917",
     "appearances": [
       {
         "start": "2026-08-07T03:09:44",
-        "end": null,
-        "status": "active"
+        "end": "2026-08-08T03:49:17",
+        "status": "disappeared",
+        "lifetime_minutes": 1479.5
       }
     ],
     "quick_tags": [
@@ -7683,14 +7654,14 @@
     "first_seen_at": "2026-08-07T03:09:44",
     "last_seen_at": "2026-08-08T02:19:43",
     "current_appearance_started_at": "2026-08-07T07:50:19",
-    "disappeared_at": null,
-    "lifetime_minutes": 1109.4,
+    "disappeared_at": "2026-08-08T03:49:17",
+    "lifetime_minutes": 1199.0,
     "appearance_count": 2,
-    "consecutive_seen_count": 5,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 7,
-    "current_status": "stable",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260808_021943",
+    "current_status": "disappeared",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260808_034917",
     "appearances": [
       {
         "start": "2026-08-07T03:09:44",
@@ -7700,8 +7671,9 @@
       },
       {
         "start": "2026-08-07T07:50:19",
-        "end": null,
-        "status": "active"
+        "end": "2026-08-08T03:49:17",
+        "status": "disappeared",
+        "lifetime_minutes": 1199.0
       }
     ],
     "quick_tags": [
@@ -7773,16 +7745,16 @@
       }
     },
     "first_seen_at": "2026-08-07T03:09:44",
-    "last_seen_at": "2026-08-08T02:19:43",
+    "last_seen_at": "2026-08-08T03:49:17",
     "current_appearance_started_at": "2026-08-07T03:09:44",
     "disappeared_at": null,
-    "lifetime_minutes": 1390.0,
+    "lifetime_minutes": 1479.5,
     "appearance_count": 1,
-    "consecutive_seen_count": 9,
-    "total_seen_checks": 9,
+    "consecutive_seen_count": 10,
+    "total_seen_checks": 10,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260808_021943",
+    "last_snapshot_id": "snapshot_20260808_034917",
     "appearances": [
       {
         "start": "2026-08-07T03:09:44",
@@ -7948,14 +7920,14 @@
     "first_seen_at": "2026-08-07T03:09:44",
     "last_seen_at": "2026-08-08T02:19:43",
     "current_appearance_started_at": "2026-08-07T10:09:23",
-    "disappeared_at": null,
-    "lifetime_minutes": 970.3,
+    "disappeared_at": "2026-08-08T03:49:17",
+    "lifetime_minutes": 1059.9,
     "appearance_count": 2,
-    "consecutive_seen_count": 3,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 7,
-    "current_status": "stable",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260808_021943",
+    "current_status": "disappeared",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260808_034917",
     "appearances": [
       {
         "start": "2026-08-07T03:09:44",
@@ -7965,8 +7937,9 @@
       },
       {
         "start": "2026-08-07T10:09:23",
-        "end": null,
-        "status": "active"
+        "end": "2026-08-08T03:49:17",
+        "status": "disappeared",
+        "lifetime_minutes": 1059.9
       }
     ],
     "quick_tags": [
