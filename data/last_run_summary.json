@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-08-08T06:24:16",
+  "checked_at": "2026-08-08T07:31:36",
   "jkk_total": 4,
   "ur_total_vacancies": 1,
-  "new_events": 3,
+  "new_events": 2,
   "slack_candidates": 0,
-  "slack_skipped": 3,
+  "slack_skipped": 2,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -21,12 +21,6 @@
       "stable_id": "ur_7fd29bf5ae2b9036",
       "building_name": "豊島五丁目",
       "event_type": "still_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_cc1e81f9ce5a0c6a",
-      "building_name": "赤羽アボードⅡ",
-      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]
