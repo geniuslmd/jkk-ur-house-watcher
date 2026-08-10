@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-10T02:23:11",
-  "total_checks": 145,
+  "updated_at": "2026-08-10T02:32:31",
+  "total_checks": 146,
   "buckets": {
     "09:00": {
       "checks": 20,
@@ -1627,14 +1627,14 @@
       }
     },
     "02:00": {
-      "checks": 6,
-      "candidate_checks": 4,
+      "checks": 7,
+      "candidate_checks": 5,
       "target_checks": 0,
-      "listing_rows": 25,
-      "candidate_rows": 5,
+      "listing_rows": 30,
+      "candidate_rows": 7,
       "target_rows": 0,
-      "last_checked_at": "2026-08-10T02:23:07",
-      "last_candidate_at": "2026-08-10T02:23:07",
+      "last_checked_at": "2026-08-10T02:32:26",
+      "last_candidate_at": "2026-08-10T02:32:26",
       "last_target_at": null,
       "last_candidate_names": [
         "トミンハイム宮坂二丁目",
@@ -1686,8 +1686,8 @@
           "building_year": 1999,
           "building_year_label": "竣工年月日 1999/04/26",
           "first_seen_at": "2026-08-10T02:23:07",
-          "last_seen_at": "2026-08-10T02:23:07",
-          "seen_count": 1
+          "last_seen_at": "2026-08-10T02:32:26",
+          "seen_count": 2
         },
         "新田|江戸川区|２ＤＫ|43.0|76,300|3,900": {
           "name": "新田",
@@ -1700,8 +1700,8 @@
           "building_year": 1975,
           "building_year_label": "竣工年月日 1975/08/30",
           "first_seen_at": "2026-08-10T02:23:07",
-          "last_seen_at": "2026-08-10T02:23:07",
-          "seen_count": 1
+          "last_seen_at": "2026-08-10T02:32:26",
+          "seen_count": 2
         }
       }
     }

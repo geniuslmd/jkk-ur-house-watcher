@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-10T02:23:07",
+  "checked_at": "2026-08-10T02:32:26",
   "jkk_total": 5,
   "ur_total_vacancies": 3,
   "new_events": 5,
@@ -7,20 +7,20 @@
   "slack_skipped": 5,
   "slack_configured": true,
   "slack_sent": false,
-  "heartbeat_sent": true,
+  "heartbeat_sent": false,
   "dry_run_slack": false,
   "candidate_ids": [],
   "skipped": [
     {
       "stable_id": "jkk_60b7a36f005e9cc2",
       "building_name": "トミンハイム宮坂二丁目",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "jkk_6e403c2d1b24af89",
       "building_name": "新田",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
