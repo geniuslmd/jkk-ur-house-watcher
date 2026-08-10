@@ -3504,14 +3504,14 @@
     "first_seen_at": "2026-07-22T06:17:58",
     "last_seen_at": "2026-08-10T08:02:34",
     "current_appearance_started_at": "2026-08-10T08:02:34",
-    "disappeared_at": null,
-    "lifetime_minutes": 0.0,
+    "disappeared_at": "2026-08-10T09:46:28",
+    "lifetime_minutes": 103.9,
     "appearance_count": 4,
-    "consecutive_seen_count": 1,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 6,
-    "current_status": "reappeared",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260810_080234",
+    "current_status": "disappeared",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260810_094628",
     "appearances": [
       {
         "start": "2026-07-22T06:17:58",
@@ -3533,8 +3533,9 @@
       },
       {
         "start": "2026-08-10T08:02:34",
-        "end": null,
-        "status": "active"
+        "end": "2026-08-10T09:46:28",
+        "status": "disappeared",
+        "lifetime_minutes": 103.9
       }
     ],
     "quick_tags": [
@@ -6649,16 +6650,16 @@
       }
     },
     "first_seen_at": "2026-08-01T06:18:57",
-    "last_seen_at": "2026-08-10T08:02:34",
+    "last_seen_at": "2026-08-10T09:46:28",
     "current_appearance_started_at": "2026-08-06T06:14:40",
     "disappeared_at": null,
-    "lifetime_minutes": 5867.9,
+    "lifetime_minutes": 5971.8,
     "appearance_count": 6,
-    "consecutive_seen_count": 34,
-    "total_seen_checks": 53,
+    "consecutive_seen_count": 35,
+    "total_seen_checks": 54,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260810_080234",
+    "last_snapshot_id": "snapshot_20260810_094628",
     "appearances": [
       {
         "start": "2026-08-01T06:18:57",
@@ -7940,16 +7941,16 @@
       }
     },
     "first_seen_at": "2026-08-07T03:09:44",
-    "last_seen_at": "2026-08-10T08:02:34",
+    "last_seen_at": "2026-08-10T09:46:28",
     "current_appearance_started_at": "2026-08-10T08:02:34",
     "disappeared_at": null,
-    "lifetime_minutes": 0.0,
+    "lifetime_minutes": 103.9,
     "appearance_count": 3,
-    "consecutive_seen_count": 1,
-    "total_seen_checks": 8,
+    "consecutive_seen_count": 2,
+    "total_seen_checks": 9,
     "current_status": "reappeared",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260810_080234",
+    "last_snapshot_id": "snapshot_20260810_094628",
     "appearances": [
       {
         "start": "2026-08-07T03:09:44",
