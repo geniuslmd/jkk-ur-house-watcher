@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-08-11T02:25:50",
+  "checked_at": "2026-08-11T04:03:16",
   "jkk_total": 3,
-  "ur_total_vacancies": 3,
-  "new_events": 3,
+  "ur_total_vacancies": 4,
+  "new_events": 4,
   "slack_candidates": 0,
-  "slack_skipped": 3,
+  "slack_skipped": 4,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -14,13 +14,19 @@
     {
       "stable_id": "ur_1f3aaa7511958963",
       "building_name": "豊島五丁目",
-      "event_type": "still_seen",
+      "event_type": "stable",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_7fd29bf5ae2b9036",
       "building_name": "豊島五丁目",
       "event_type": "still_seen",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "ur_632f23f76db15621",
+      "building_name": "フレーシェル王子神谷",
+      "event_type": "reappeared",
       "reason": "not_actionable"
     },
     {
