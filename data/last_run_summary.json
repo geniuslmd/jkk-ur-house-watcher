@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-08-12T04:29:37",
-  "jkk_total": 4,
+  "checked_at": "2026-08-12T06:02:15",
+  "jkk_total": 3,
   "ur_total_vacancies": 4,
   "new_events": 5,
   "slack_candidates": 0,
@@ -11,12 +11,6 @@
   "dry_run_slack": false,
   "candidate_ids": [],
   "skipped": [
-    {
-      "stable_id": "jkk_2af168f761e61020",
-      "building_name": "コーシャハイム南葛西五丁目",
-      "event_type": "reappeared",
-      "reason": "not_actionable"
-    },
     {
       "stable_id": "ur_1f3aaa7511958963",
       "building_name": "豊島五丁目",
@@ -38,7 +32,13 @@
     {
       "stable_id": "ur_c66f95507614a812",
       "building_name": "フレーシェル王子神谷",
-      "event_type": "stable",
+      "event_type": "still_seen",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_2af168f761e61020",
+      "building_name": "コーシャハイム南葛西五丁目",
+      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]
