@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-12T02:31:28",
+  "checked_at": "2026-08-12T02:42:13",
   "jkk_total": 3,
   "ur_total_vacancies": 4,
   "new_events": 4,
@@ -7,7 +7,7 @@
   "slack_skipped": 4,
   "slack_configured": true,
   "slack_sent": false,
-  "heartbeat_sent": true,
+  "heartbeat_sent": false,
   "dry_run_slack": false,
   "candidate_ids": [],
   "skipped": [
@@ -32,7 +32,7 @@
     {
       "stable_id": "ur_c66f95507614a812",
       "building_name": "フレーシェル王子神谷",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     }
   ]
