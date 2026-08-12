@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-08-12T09:04:55",
+  "checked_at": "2026-08-12T10:18:55",
   "jkk_total": 3,
   "ur_total_vacancies": 4,
-  "new_events": 5,
+  "new_events": 4,
   "slack_candidates": 0,
-  "slack_skipped": 5,
+  "slack_skipped": 4,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -33,12 +33,6 @@
       "stable_id": "ur_c66f95507614a812",
       "building_name": "フレーシェル王子神谷",
       "event_type": "still_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_b243d427e1bdfbae",
-      "building_name": "コーシャハイム南葛西五丁目",
-      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]
