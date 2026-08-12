@@ -1,10 +1,9 @@
 {
-  "boost_until": "2026-08-12T02:51:28",
+  "boost_until": "2026-08-12T04:49:37",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "UR:フレーシェル王子神谷",
-    "UR:北区总空室上升"
+    "JKK:コーシャハイム南葛西五丁目"
   ],
   "last_ur_total_vacancies": 4,
-  "updated_at": "2026-08-12T02:42:13"
+  "updated_at": "2026-08-12T04:29:37"
 }

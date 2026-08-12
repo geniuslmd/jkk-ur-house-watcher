@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-12T02:42:16",
-  "total_checks": 162,
+  "updated_at": "2026-08-12T04:29:39",
+  "total_checks": 163,
   "buckets": {
     "09:00": {
       "checks": 22,
@@ -1592,20 +1592,21 @@
       }
     },
     "04:00": {
-      "checks": 5,
-      "candidate_checks": 3,
+      "checks": 6,
+      "candidate_checks": 4,
       "target_checks": 0,
-      "listing_rows": 20,
-      "candidate_rows": 5,
+      "listing_rows": 24,
+      "candidate_rows": 6,
       "target_rows": 0,
-      "last_checked_at": "2026-08-11T04:03:16",
-      "last_candidate_at": "2026-08-10T04:17:29",
+      "last_checked_at": "2026-08-12T04:29:37",
+      "last_candidate_at": "2026-08-12T04:29:37",
       "last_target_at": null,
       "last_candidate_names": [
-        "トミンハイム宮坂二丁目"
+        "コーシャハイム南葛西五丁目"
       ],
       "candidate_names_seen": [
         "コーシャハイム仲池上",
+        "コーシャハイム南葛西五丁目",
         "トミンタワー台場一番街",
         "トミンハイム宮坂二丁目",
         "新田"
@@ -1665,6 +1666,20 @@
           "building_year_label": "竣工年月日 1999/04/26",
           "first_seen_at": "2026-08-10T04:17:29",
           "last_seen_at": "2026-08-10T04:17:29",
+          "seen_count": 1
+        },
+        "コーシャハイム南葛西五丁目|江戸川区|３ＤＫ|60.47|94,800|3,100": {
+          "name": "コーシャハイム南葛西五丁目",
+          "area": "江戸川区",
+          "layout": "３ＤＫ",
+          "floor_area_m2": "60.47",
+          "rent_yen": "94,800",
+          "common_fee_yen": "3,100",
+          "units": "1",
+          "building_year": 1986,
+          "building_year_label": "竣工年月日 1986/03/30",
+          "first_seen_at": "2026-08-12T04:29:37",
+          "last_seen_at": "2026-08-12T04:29:37",
           "seen_count": 1
         }
       }
