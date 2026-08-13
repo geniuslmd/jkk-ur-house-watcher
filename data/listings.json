@@ -5829,16 +5829,16 @@
       }
     },
     "first_seen_at": "2026-07-28T03:21:10",
-    "last_seen_at": "2026-08-13T06:07:44",
+    "last_seen_at": "2026-08-13T07:53:12",
     "current_appearance_started_at": "2026-08-11T04:03:16",
     "disappeared_at": null,
-    "lifetime_minutes": 3004.5,
+    "lifetime_minutes": 3109.9,
     "appearance_count": 4,
-    "consecutive_seen_count": 18,
-    "total_seen_checks": 32,
+    "consecutive_seen_count": 19,
+    "total_seen_checks": 33,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260813_060744",
+    "last_snapshot_id": "snapshot_20260813_075312",
     "appearances": [
       {
         "start": "2026-07-28T03:21:10",
@@ -6630,15 +6630,15 @@
         "is_target": false,
         "rooms": [
           {
-            "building": "1号棟",
-            "room_no": "402号室",
-            "layout": "1LDK",
-            "floor_area_m2": "48m2",
-            "floor": "4階",
-            "rent_yen": "91,900円",
+            "building": "9号棟",
+            "room_no": "1207号室",
+            "layout": "1DK",
+            "floor_area_m2": "33m2",
+            "floor": "12階",
+            "rent_yen": "71,200円",
             "common_fee_yen": "3,300円",
-            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000010402",
-            "stable_id": "ur_1f3aaa7511958963",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000091207",
+            "stable_id": "ur_cba1737d8de873c1",
             "current_status": "",
             "first_seen_at": "",
             "last_seen_at": "",
@@ -6684,16 +6684,16 @@
       }
     },
     "first_seen_at": "2026-08-01T06:18:57",
-    "last_seen_at": "2026-08-13T04:41:00",
-    "current_appearance_started_at": "2026-08-06T06:14:40",
-    "disappeared_at": "2026-08-13T06:07:44",
-    "lifetime_minutes": 10073.1,
-    "appearance_count": 6,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 74,
-    "current_status": "disappeared",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260813_060744",
+    "last_seen_at": "2026-08-13T07:53:12",
+    "current_appearance_started_at": "2026-08-13T07:53:12",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 7,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 75,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260813_075312",
     "appearances": [
       {
         "start": "2026-08-01T06:18:57",
@@ -6730,6 +6730,11 @@
         "end": "2026-08-13T06:07:44",
         "status": "disappeared",
         "lifetime_minutes": 10073.1
+      },
+      {
+        "start": "2026-08-13T07:53:12",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
@@ -8294,6 +8299,110 @@
     "quick_tags": [
       "建议手动登录确认",
       "低价"
+    ]
+  },
+  "ur_cba1737d8de873c1": {
+    "stable_id": "ur_cba1737d8de873c1",
+    "source": "UR",
+    "official_id": "ur:20:232:0:https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000091207",
+    "building_name": "豊島五丁目",
+    "room_no": "9号棟 1207号室",
+    "layout": "1DK",
+    "area": "33m2",
+    "rent": "71,200円",
+    "common_fee": "3,300円",
+    "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000091207",
+    "is_high_priority": false,
+    "source_label": "UR",
+    "action_hint": "发现参考房源，请关注户型/价格/楼层；如需行动，请电话或线下确认。",
+    "raw": {
+      "listing": {
+        "name": "豊島五丁目",
+        "place": "北区豊島5-4ほか",
+        "traffic": "JR京浜東北・根岸線「王子」駅バス7分 徒歩2～6分 東京メトロ南北線「王子」駅バス7分 徒歩2～6分",
+        "room_count": 2,
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320.html",
+        "shisya": "20",
+        "danchi": "232",
+        "shikibetu": "0",
+        "is_target": false,
+        "rooms": [
+          {
+            "building": "9号棟",
+            "room_no": "1207号室",
+            "layout": "1DK",
+            "floor_area_m2": "33m2",
+            "floor": "12階",
+            "rent_yen": "71,200円",
+            "common_fee_yen": "3,300円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000091207",
+            "stable_id": "",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          },
+          {
+            "building": "10号棟",
+            "room_no": "417号室",
+            "layout": "2DK",
+            "floor_area_m2": "49m2",
+            "floor": "4階",
+            "rent_yen": "86,800円",
+            "common_fee_yen": "3,300円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000100417",
+            "stable_id": "",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          }
+        ]
+      },
+      "room": {
+        "building": "9号棟",
+        "room_no": "1207号室",
+        "layout": "1DK",
+        "floor_area_m2": "33m2",
+        "floor": "12階",
+        "rent_yen": "71,200円",
+        "common_fee_yen": "3,300円",
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000091207",
+        "stable_id": "",
+        "current_status": "",
+        "first_seen_at": "",
+        "last_seen_at": "",
+        "lifetime_minutes": 0.0,
+        "appearance_count": 0,
+        "quick_tags": null
+      }
+    },
+    "first_seen_at": "2026-08-13T07:53:12",
+    "last_seen_at": "2026-08-13T07:53:12",
+    "current_appearance_started_at": "2026-08-13T07:53:12",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260813_075312",
+    "appearances": [
+      {
+        "start": "2026-08-13T07:53:12",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "参考向",
+      "低价",
+      "小户型"
     ]
   }
 }
