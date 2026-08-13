@@ -1,10 +1,9 @@
 {
-  "boost_until": "2026-08-13T09:52:16",
+  "boost_until": "2026-08-13T11:03:26",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "JKK:コーシャハイム南葛西五丁目",
-    "JKK:堀江"
+    "UR:豊島五丁目"
   ],
   "last_ur_total_vacancies": 3,
-  "updated_at": "2026-08-13T09:32:16"
+  "updated_at": "2026-08-13T10:43:26"
 }
