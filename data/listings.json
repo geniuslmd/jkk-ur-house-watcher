@@ -980,7 +980,7 @@
     "room_no": "",
     "layout": "３ＤＫ",
     "area": "60.47",
-    "rent": "94,800",
+    "rent": "90,800",
     "common_fee": "3,100",
     "detail_url": "https://jhomes.to-kousya.or.jp/search/jkknet/service/akiyaJyoukenStartInit",
     "is_high_priority": false,
@@ -993,7 +993,7 @@
       "housing_type": "一般賃貸住宅",
       "layout": "３ＤＫ",
       "floor_area_m2": "60.47",
-      "rent_yen": "94,800",
+      "rent_yen": "90,800",
       "common_fee_yen": "3,100",
       "units": "1",
       "detail_onclick": "javascript:senPage('','A1522','2380140','0002'); return false",
@@ -1004,7 +1004,7 @@
         "0002"
       ],
       "building_year": 1986,
-      "building_year_label": "竣工年月日 1986/03/30",
+      "building_year_label": "竣工年月日 1986/03/25",
       "detail_error": "",
       "is_target": false,
       "is_excluded": false,
@@ -1018,16 +1018,16 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-13T07:35:55",
-    "last_seen_at": "2026-08-12T04:29:37",
-    "current_appearance_started_at": "2026-08-12T04:29:37",
-    "disappeared_at": "2026-08-12T06:02:15",
-    "lifetime_minutes": 92.6,
-    "appearance_count": 8,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 13,
-    "current_status": "disappeared",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260812_060215",
+    "last_seen_at": "2026-08-13T09:32:16",
+    "current_appearance_started_at": "2026-08-13T09:32:16",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 9,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 14,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260813_093216",
     "appearances": [
       {
         "start": "2026-07-13T07:35:55",
@@ -1076,6 +1076,11 @@
         "end": "2026-08-12T06:02:15",
         "status": "disappeared",
         "lifetime_minutes": 92.6
+      },
+      {
+        "start": "2026-08-13T09:32:16",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
@@ -3770,8 +3775,8 @@
     "building_name": "堀江",
     "room_no": "",
     "layout": "２ＤＫ",
-    "area": "43.47",
-    "rent": "70,300",
+    "area": "43.0",
+    "rent": "69,600",
     "common_fee": "4,200",
     "detail_url": "https://jhomes.to-kousya.or.jp/search/jkknet/service/akiyaJyoukenStartInit",
     "is_high_priority": false,
@@ -3783,8 +3788,8 @@
       "priority": "子育・高齢",
       "housing_type": "一般賃貸住宅（期限付）",
       "layout": "２ＤＫ",
-      "floor_area_m2": "43.47",
-      "rent_yen": "70,300",
+      "floor_area_m2": "43.0",
+      "rent_yen": "69,600",
       "common_fee_yen": "4,200",
       "units": "1",
       "detail_onclick": "javascript:senPage('','L1161','2380050','0002'); return false",
@@ -3809,27 +3814,33 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-22T06:17:58",
-    "last_seen_at": "2026-07-22T06:17:58",
-    "current_appearance_started_at": "2026-07-22T06:17:58",
-    "disappeared_at": "2026-07-22T09:05:31",
-    "lifetime_minutes": 167.6,
-    "appearance_count": 1,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 1,
-    "current_status": "disappeared",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260722_090531",
+    "last_seen_at": "2026-08-13T09:32:16",
+    "current_appearance_started_at": "2026-08-13T09:32:16",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 2,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 2,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260813_093216",
     "appearances": [
       {
         "start": "2026-07-22T06:17:58",
         "end": "2026-07-22T09:05:31",
         "status": "disappeared",
         "lifetime_minutes": 167.6
+      },
+      {
+        "start": "2026-08-13T09:32:16",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
       "建议手动登录确认",
-      "低价"
+      "低价",
+      "重复出现"
     ]
   },
   "jkk_8a7b1800aeb3e7d7": {
@@ -5829,16 +5840,16 @@
       }
     },
     "first_seen_at": "2026-07-28T03:21:10",
-    "last_seen_at": "2026-08-13T07:53:12",
+    "last_seen_at": "2026-08-13T09:32:16",
     "current_appearance_started_at": "2026-08-11T04:03:16",
     "disappeared_at": null,
-    "lifetime_minutes": 3109.9,
+    "lifetime_minutes": 3209.0,
     "appearance_count": 4,
-    "consecutive_seen_count": 19,
-    "total_seen_checks": 33,
+    "consecutive_seen_count": 20,
+    "total_seen_checks": 34,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260813_075312",
+    "last_snapshot_id": "snapshot_20260813_093216",
     "appearances": [
       {
         "start": "2026-07-28T03:21:10",
@@ -6684,16 +6695,16 @@
       }
     },
     "first_seen_at": "2026-08-01T06:18:57",
-    "last_seen_at": "2026-08-13T07:53:12",
+    "last_seen_at": "2026-08-13T09:32:16",
     "current_appearance_started_at": "2026-08-13T07:53:12",
     "disappeared_at": null,
-    "lifetime_minutes": 0.0,
+    "lifetime_minutes": 99.1,
     "appearance_count": 7,
-    "consecutive_seen_count": 1,
-    "total_seen_checks": 75,
+    "consecutive_seen_count": 2,
+    "total_seen_checks": 76,
     "current_status": "reappeared",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260813_075312",
+    "last_snapshot_id": "snapshot_20260813_093216",
     "appearances": [
       {
         "start": "2026-08-01T06:18:57",
@@ -8382,16 +8393,16 @@
       }
     },
     "first_seen_at": "2026-08-13T07:53:12",
-    "last_seen_at": "2026-08-13T07:53:12",
+    "last_seen_at": "2026-08-13T09:32:16",
     "current_appearance_started_at": "2026-08-13T07:53:12",
     "disappeared_at": null,
-    "lifetime_minutes": 0.0,
+    "lifetime_minutes": 99.1,
     "appearance_count": 1,
-    "consecutive_seen_count": 1,
-    "total_seen_checks": 1,
+    "consecutive_seen_count": 2,
+    "total_seen_checks": 2,
     "current_status": "new",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260813_075312",
+    "last_snapshot_id": "snapshot_20260813_093216",
     "appearances": [
       {
         "start": "2026-08-13T07:53:12",
