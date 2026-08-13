@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-13T02:32:50",
-  "total_checks": 168,
+  "updated_at": "2026-08-13T02:45:09",
+  "total_checks": 169,
   "buckets": {
     "09:00": {
       "checks": 23,
@@ -1699,24 +1699,26 @@
       }
     },
     "02:00": {
-      "checks": 12,
-      "candidate_checks": 5,
+      "checks": 13,
+      "candidate_checks": 6,
       "target_checks": 0,
-      "listing_rows": 45,
-      "candidate_rows": 7,
+      "listing_rows": 50,
+      "candidate_rows": 9,
       "target_rows": 0,
-      "last_checked_at": "2026-08-13T02:32:47",
-      "last_candidate_at": "2026-08-10T02:32:26",
+      "last_checked_at": "2026-08-13T02:45:01",
+      "last_candidate_at": "2026-08-13T02:45:01",
       "last_target_at": null,
       "last_candidate_names": [
-        "トミンハイム宮坂二丁目",
-        "新田"
+        "新田第二",
+        "豊島町"
       ],
       "candidate_names_seen": [
         "コーシャハイム南葛西五丁目",
         "トミンタワー台場一番街",
         "トミンハイム宮坂二丁目",
-        "新田"
+        "新田",
+        "新田第二",
+        "豊島町"
       ],
       "candidate_seen": {
         "コーシャハイム南葛西五丁目|江戸川区|３ＤＫ|60.47|94,800|3,100": {
@@ -1774,6 +1776,34 @@
           "first_seen_at": "2026-08-10T02:23:07",
           "last_seen_at": "2026-08-10T02:32:26",
           "seen_count": 2
+        },
+        "豊島町|北区|２ＤＫ|41.25|72,600|3,300": {
+          "name": "豊島町",
+          "area": "北区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "41.25",
+          "rent_yen": "72,600",
+          "common_fee_yen": "3,300",
+          "units": "1",
+          "building_year": 1972,
+          "building_year_label": "竣工年月日 1972/08/25",
+          "first_seen_at": "2026-08-13T02:45:01",
+          "last_seen_at": "2026-08-13T02:45:01",
+          "seen_count": 1
+        },
+        "新田第二|江戸川区|２ＤＫ|45.96|81,600～84,000|3,500": {
+          "name": "新田第二",
+          "area": "江戸川区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "45.96",
+          "rent_yen": "81,600～84,000",
+          "common_fee_yen": "3,500",
+          "units": "2",
+          "building_year": 1979,
+          "building_year_label": "竣工年月日 1979/06/30",
+          "first_seen_at": "2026-08-13T02:45:01",
+          "last_seen_at": "2026-08-13T02:45:01",
+          "seen_count": 1
         }
       }
     }

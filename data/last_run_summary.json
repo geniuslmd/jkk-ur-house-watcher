@@ -1,16 +1,28 @@
 {
-  "checked_at": "2026-08-13T02:32:47",
-  "jkk_total": 3,
+  "checked_at": "2026-08-13T02:45:01",
+  "jkk_total": 5,
   "ur_total_vacancies": 4,
-  "new_events": 4,
+  "new_events": 6,
   "slack_candidates": 0,
-  "slack_skipped": 4,
+  "slack_skipped": 6,
   "slack_configured": true,
   "slack_sent": false,
-  "heartbeat_sent": true,
+  "heartbeat_sent": false,
   "dry_run_slack": false,
   "candidate_ids": [],
   "skipped": [
+    {
+      "stable_id": "jkk_b2c8725a62a3d7b3",
+      "building_name": "豊島町",
+      "event_type": "first_seen",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_51ade5b9abdc4b4c",
+      "building_name": "新田第二",
+      "event_type": "reappeared",
+      "reason": "not_actionable"
+    },
     {
       "stable_id": "ur_1f3aaa7511958963",
       "building_name": "豊島五丁目",
