@@ -4026,14 +4026,14 @@
     "first_seen_at": "2026-07-23T09:11:14",
     "last_seen_at": "2026-08-13T02:45:01",
     "current_appearance_started_at": "2026-08-13T02:45:01",
-    "disappeared_at": null,
-    "lifetime_minutes": 0.0,
+    "disappeared_at": "2026-08-13T04:41:00",
+    "lifetime_minutes": 116.0,
     "appearance_count": 3,
-    "consecutive_seen_count": 1,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 5,
-    "current_status": "reappeared",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260813_024501",
+    "current_status": "disappeared",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260813_044100",
     "appearances": [
       {
         "start": "2026-07-23T09:11:14",
@@ -4049,8 +4049,9 @@
       },
       {
         "start": "2026-08-13T02:45:01",
-        "end": null,
-        "status": "active"
+        "end": "2026-08-13T04:41:00",
+        "status": "disappeared",
+        "lifetime_minutes": 116.0
       }
     ],
     "quick_tags": [
@@ -5783,7 +5784,7 @@
         "name": "フレーシェル王子神谷",
         "place": "北区豊島8-27",
         "traffic": "東京メトロ南北線「王子神谷」駅 徒歩6～7分 JR京浜東北・根岸線「東十条」駅 徒歩16～17分",
-        "room_count": 2,
+        "room_count": 1,
         "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6000.html",
         "shisya": "20",
         "danchi": "600",
@@ -5799,23 +5800,6 @@
             "rent_yen": "203,900円",
             "common_fee_yen": "4,200円",
             "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6000_room.html?JKSS=000020507",
-            "stable_id": "",
-            "current_status": "",
-            "first_seen_at": "",
-            "last_seen_at": "",
-            "lifetime_minutes": 0.0,
-            "appearance_count": 0,
-            "quick_tags": null
-          },
-          {
-            "building": "3号棟",
-            "room_no": "1202号室",
-            "layout": "2LDK",
-            "floor_area_m2": "58m2",
-            "floor": "12階",
-            "rent_yen": "163,200円",
-            "common_fee_yen": "4,200円",
-            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6000_room.html?JKSS=000031202",
             "stable_id": "",
             "current_status": "",
             "first_seen_at": "",
@@ -5845,16 +5829,16 @@
       }
     },
     "first_seen_at": "2026-07-28T03:21:10",
-    "last_seen_at": "2026-08-13T02:45:01",
+    "last_seen_at": "2026-08-13T04:41:00",
     "current_appearance_started_at": "2026-08-11T04:03:16",
     "disappeared_at": null,
-    "lifetime_minutes": 2801.8,
+    "lifetime_minutes": 2917.7,
     "appearance_count": 4,
-    "consecutive_seen_count": 16,
-    "total_seen_checks": 30,
+    "consecutive_seen_count": 17,
+    "total_seen_checks": 31,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260813_024501",
+    "last_snapshot_id": "snapshot_20260813_044100",
     "appearances": [
       {
         "start": "2026-07-28T03:21:10",
@@ -6700,16 +6684,16 @@
       }
     },
     "first_seen_at": "2026-08-01T06:18:57",
-    "last_seen_at": "2026-08-13T02:45:01",
+    "last_seen_at": "2026-08-13T04:41:00",
     "current_appearance_started_at": "2026-08-06T06:14:40",
     "disappeared_at": null,
-    "lifetime_minutes": 9870.4,
+    "lifetime_minutes": 9986.3,
     "appearance_count": 6,
-    "consecutive_seen_count": 54,
-    "total_seen_checks": 73,
+    "consecutive_seen_count": 55,
+    "total_seen_checks": 74,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260813_024501",
+    "last_snapshot_id": "snapshot_20260813_044100",
     "appearances": [
       {
         "start": "2026-08-01T06:18:57",
@@ -7327,14 +7311,14 @@
     "first_seen_at": "2026-08-04T03:24:33",
     "last_seen_at": "2026-08-13T02:45:01",
     "current_appearance_started_at": "2026-08-12T02:31:28",
-    "disappeared_at": null,
-    "lifetime_minutes": 1453.5,
+    "disappeared_at": "2026-08-13T04:41:00",
+    "lifetime_minutes": 1569.5,
     "appearance_count": 4,
-    "consecutive_seen_count": 9,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 15,
-    "current_status": "stable",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260813_024501",
+    "current_status": "disappeared",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260813_044100",
     "appearances": [
       {
         "start": "2026-08-04T03:24:33",
@@ -7356,8 +7340,9 @@
       },
       {
         "start": "2026-08-12T02:31:28",
-        "end": null,
-        "status": "active"
+        "end": "2026-08-13T04:41:00",
+        "status": "disappeared",
+        "lifetime_minutes": 1569.5
       }
     ],
     "quick_tags": [
@@ -8148,16 +8133,16 @@
       }
     },
     "first_seen_at": "2026-08-11T02:14:29",
-    "last_seen_at": "2026-08-13T02:45:01",
+    "last_seen_at": "2026-08-13T04:41:00",
     "current_appearance_started_at": "2026-08-11T02:14:29",
     "disappeared_at": null,
-    "lifetime_minutes": 2910.5,
+    "lifetime_minutes": 3026.5,
     "appearance_count": 1,
-    "consecutive_seen_count": 18,
-    "total_seen_checks": 18,
+    "consecutive_seen_count": 19,
+    "total_seen_checks": 19,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260813_024501",
+    "last_snapshot_id": "snapshot_20260813_044100",
     "appearances": [
       {
         "start": "2026-08-11T02:14:29",
@@ -8288,19 +8273,20 @@
     "first_seen_at": "2026-08-13T02:45:01",
     "last_seen_at": "2026-08-13T02:45:01",
     "current_appearance_started_at": "2026-08-13T02:45:01",
-    "disappeared_at": null,
-    "lifetime_minutes": 0.0,
+    "disappeared_at": "2026-08-13T04:41:00",
+    "lifetime_minutes": 116.0,
     "appearance_count": 1,
-    "consecutive_seen_count": 1,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 1,
-    "current_status": "new",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260813_024501",
+    "current_status": "disappeared",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260813_044100",
     "appearances": [
       {
         "start": "2026-08-13T02:45:01",
-        "end": null,
-        "status": "active"
+        "end": "2026-08-13T04:41:00",
+        "status": "disappeared",
+        "lifetime_minutes": 116.0
       }
     ],
     "quick_tags": [

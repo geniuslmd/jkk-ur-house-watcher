@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-13T02:45:01",
-  "jkk_total": 5,
-  "ur_total_vacancies": 4,
+  "checked_at": "2026-08-13T04:41:00",
+  "jkk_total": 3,
+  "ur_total_vacancies": 3,
   "new_events": 6,
   "slack_candidates": 0,
   "slack_skipped": 6,
@@ -11,18 +11,6 @@
   "dry_run_slack": false,
   "candidate_ids": [],
   "skipped": [
-    {
-      "stable_id": "jkk_b2c8725a62a3d7b3",
-      "building_name": "豊島町",
-      "event_type": "first_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_51ade5b9abdc4b4c",
-      "building_name": "新田第二",
-      "event_type": "reappeared",
-      "reason": "not_actionable"
-    },
     {
       "stable_id": "ur_1f3aaa7511958963",
       "building_name": "豊島五丁目",
@@ -42,9 +30,21 @@
       "reason": "not_actionable"
     },
     {
+      "stable_id": "jkk_51ade5b9abdc4b4c",
+      "building_name": "新田第二",
+      "event_type": "disappeared",
+      "reason": "not_actionable"
+    },
+    {
       "stable_id": "ur_c66f95507614a812",
       "building_name": "フレーシェル王子神谷",
-      "event_type": "still_seen",
+      "event_type": "disappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_b2c8725a62a3d7b3",
+      "building_name": "豊島町",
+      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]
