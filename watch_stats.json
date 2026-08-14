@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-14T07:48:17",
-  "total_checks": 179,
+  "updated_at": "2026-08-14T08:56:11",
+  "total_checks": 180,
   "buckets": {
     "09:00": {
       "checks": 24,
@@ -1005,17 +1005,17 @@
       }
     },
     "08:00": {
-      "checks": 11,
-      "candidate_checks": 6,
+      "checks": 12,
+      "candidate_checks": 7,
       "target_checks": 0,
-      "listing_rows": 54,
-      "candidate_rows": 20,
+      "listing_rows": 58,
+      "candidate_rows": 21,
       "target_rows": 0,
-      "last_checked_at": "2026-08-11T08:46:12",
-      "last_candidate_at": "2026-08-10T08:02:34",
+      "last_checked_at": "2026-08-14T08:56:08",
+      "last_candidate_at": "2026-08-14T08:56:08",
       "last_target_at": null,
       "last_candidate_names": [
-        "コーシャハイム大森東"
+        "春江町椿"
       ],
       "candidate_names_seen": [
         "カーメスト興野町",
@@ -1031,6 +1031,7 @@
         "宇喜田第二",
         "新田",
         "新田第二",
+        "春江町椿",
         "西台",
         "越中島"
       ],
@@ -1285,6 +1286,20 @@
           "building_year_label": "竣工年月日 1983/06/15",
           "first_seen_at": "2026-08-10T08:02:34",
           "last_seen_at": "2026-08-10T08:02:34",
+          "seen_count": 1
+        },
+        "春江町椿|江戸川区|２ＤＫ|43.35|69,300|3,200": {
+          "name": "春江町椿",
+          "area": "江戸川区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "43.35",
+          "rent_yen": "69,300",
+          "common_fee_yen": "3,200",
+          "units": "1",
+          "building_year": 1976,
+          "building_year_label": "竣工年月日 1976/10/31",
+          "first_seen_at": "2026-08-14T08:56:08",
+          "last_seen_at": "2026-08-14T08:56:08",
           "seen_count": 1
         }
       }
