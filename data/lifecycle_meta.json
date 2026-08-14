@@ -1,12 +1,10 @@
 {
-  "boost_until": "2026-08-14T08:08:14",
+  "boost_until": "2026-08-14T10:35:24",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "JKK:春江町椿",
-    "UR:フレーシェル王子神谷",
     "UR:北区总空室上升",
-    "UR:豊島五丁目"
+    "UR:赤羽アボードⅡ"
   ],
-  "last_ur_total_vacancies": 3,
-  "updated_at": "2026-08-14T08:56:08"
+  "last_ur_total_vacancies": 4,
+  "updated_at": "2026-08-14T10:15:24"
 }
