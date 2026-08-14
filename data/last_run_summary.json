@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-14T06:04:19",
+  "checked_at": "2026-08-14T07:48:14",
   "jkk_total": 4,
-  "ur_total_vacancies": 2,
+  "ur_total_vacancies": 3,
   "new_events": 6,
   "slack_candidates": 0,
   "slack_skipped": 6,
@@ -12,8 +12,8 @@
   "candidate_ids": [],
   "skipped": [
     {
-      "stable_id": "jkk_b37d0b5ba8576372",
-      "building_name": "コーシャハイム八潮西",
+      "stable_id": "jkk_e56514558bc42c1c",
+      "building_name": "春江町椿",
       "event_type": "first_seen",
       "reason": "not_actionable"
     },
@@ -24,26 +24,26 @@
       "reason": "not_actionable"
     },
     {
-      "stable_id": "ur_4636c1c29d2cd1ca",
-      "building_name": "赤羽アボードⅡ",
-      "event_type": "still_seen",
+      "stable_id": "ur_bcfa9755771d02f0",
+      "building_name": "豊島五丁目",
+      "event_type": "reappeared",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_632f23f76db15621",
       "building_name": "フレーシェル王子神谷",
+      "event_type": "reappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "ur_4636c1c29d2cd1ca",
+      "building_name": "赤羽アボードⅡ",
       "event_type": "disappeared",
       "reason": "not_actionable"
     },
     {
-      "stable_id": "ur_bcfa9755771d02f0",
-      "building_name": "豊島五丁目",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_f85f33f8272c697b",
-      "building_name": "赤羽北二丁目",
+      "stable_id": "jkk_b37d0b5ba8576372",
+      "building_name": "コーシャハイム八潮西",
       "event_type": "disappeared",
       "reason": "not_actionable"
     }
