@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-15T07:02:53",
+  "checked_at": "2026-08-15T07:42:51",
   "jkk_total": 5,
-  "ur_total_vacancies": 1,
+  "ur_total_vacancies": 0,
   "new_events": 3,
   "slack_candidates": 0,
   "slack_skipped": 3,
@@ -26,7 +26,7 @@
     {
       "stable_id": "ur_7fd29bf5ae2b9036",
       "building_name": "豊島五丁目",
-      "event_type": "still_seen",
+      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]

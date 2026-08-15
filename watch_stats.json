@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-15T07:02:57",
-  "total_checks": 191,
+  "updated_at": "2026-08-15T07:42:55",
+  "total_checks": 192,
   "buckets": {
     "09:00": {
       "checks": 24,
@@ -370,14 +370,14 @@
       }
     },
     "07:00": {
-      "checks": 13,
-      "candidate_checks": 7,
+      "checks": 14,
+      "candidate_checks": 8,
       "target_checks": 0,
-      "listing_rows": 48,
-      "candidate_rows": 8,
+      "listing_rows": 53,
+      "candidate_rows": 10,
       "target_rows": 0,
-      "last_checked_at": "2026-08-15T07:02:53",
-      "last_candidate_at": "2026-08-15T07:02:53",
+      "last_checked_at": "2026-08-15T07:42:51",
+      "last_candidate_at": "2026-08-15T07:42:51",
       "last_target_at": null,
       "last_candidate_names": [
         "コーシャハイム南葛西五丁目",
@@ -457,8 +457,8 @@
           "building_year": 1975,
           "building_year_label": "竣工年月日 1975/10/31",
           "first_seen_at": "2026-08-15T07:02:53",
-          "last_seen_at": "2026-08-15T07:02:53",
-          "seen_count": 1
+          "last_seen_at": "2026-08-15T07:42:51",
+          "seen_count": 2
         },
         "コーシャハイム南葛西五丁目|江戸川区|３ＤＫ|60.47|90,500|3,100": {
           "name": "コーシャハイム南葛西五丁目",
@@ -471,8 +471,8 @@
           "building_year": 1986,
           "building_year_label": "竣工年月日 1986/03/25",
           "first_seen_at": "2026-08-15T07:02:53",
-          "last_seen_at": "2026-08-15T07:02:53",
-          "seen_count": 1
+          "last_seen_at": "2026-08-15T07:42:51",
+          "seen_count": 2
         }
       }
     },
