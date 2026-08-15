@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-08-15T08:10:31",
-  "jkk_total": 4,
+  "checked_at": "2026-08-15T08:49:33",
+  "jkk_total": 3,
   "ur_total_vacancies": 0,
-  "new_events": 2,
+  "new_events": 1,
   "slack_candidates": 0,
-  "slack_skipped": 2,
+  "slack_skipped": 1,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -14,12 +14,6 @@
     {
       "stable_id": "jkk_11774355eaa41ec4",
       "building_name": "堀江",
-      "event_type": "still_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_2af168f761e61020",
-      "building_name": "コーシャハイム南葛西五丁目",
       "event_type": "disappeared",
       "reason": "not_actionable"
     }

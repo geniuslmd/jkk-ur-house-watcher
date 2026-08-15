@@ -21098,5 +21098,25 @@
     "is_high_priority": false,
     "created_at": "2026-08-15T08:10:31",
     "snapshot_id": "snapshot_20260815_081031"
+  },
+  {
+    "event_id": "efccd835732caab10321",
+    "event_type": "disappeared",
+    "stable_id": "jkk_11774355eaa41ec4",
+    "source": "JKK",
+    "building_name": "堀江",
+    "room_no": "",
+    "layout": "２ＤＫ",
+    "area": "43.0",
+    "rent": "69,600",
+    "common_fee": "4,200",
+    "current_status": "disappeared",
+    "first_seen_at": "2026-07-22T06:17:58",
+    "last_seen_at": "2026-08-15T08:10:31",
+    "lifetime_minutes": 323.9,
+    "appearance_count": 3,
+    "is_high_priority": false,
+    "created_at": "2026-08-15T08:49:33",
+    "snapshot_id": "snapshot_20260815_084933"
   }
 ]
