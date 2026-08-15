@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-15T06:14:14",
-  "total_checks": 190,
+  "updated_at": "2026-08-15T07:02:57",
+  "total_checks": 191,
   "buckets": {
     "09:00": {
       "checks": 24,
@@ -370,21 +370,23 @@
       }
     },
     "07:00": {
-      "checks": 12,
-      "candidate_checks": 6,
+      "checks": 13,
+      "candidate_checks": 7,
       "target_checks": 0,
-      "listing_rows": 43,
-      "candidate_rows": 6,
+      "listing_rows": 48,
+      "candidate_rows": 8,
       "target_rows": 0,
-      "last_checked_at": "2026-08-14T07:48:14",
-      "last_candidate_at": "2026-08-14T07:48:14",
+      "last_checked_at": "2026-08-15T07:02:53",
+      "last_candidate_at": "2026-08-15T07:02:53",
       "last_target_at": null,
       "last_candidate_names": [
-        "春江町椿"
+        "コーシャハイム南葛西五丁目",
+        "堀江"
       ],
       "candidate_names_seen": [
         "コーシャハイム南葛西五丁目",
         "トミンタワー台場一番街",
+        "堀江",
         "春江町椿"
       ],
       "candidate_seen": {
@@ -442,6 +444,34 @@
           "building_year_label": "竣工年月日 1976/10/31",
           "first_seen_at": "2026-08-14T07:48:14",
           "last_seen_at": "2026-08-14T07:48:14",
+          "seen_count": 1
+        },
+        "堀江|江戸川区|２ＤＫ|43.0|69,600|4,200": {
+          "name": "堀江",
+          "area": "江戸川区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "43.0",
+          "rent_yen": "69,600",
+          "common_fee_yen": "4,200",
+          "units": "1",
+          "building_year": 1975,
+          "building_year_label": "竣工年月日 1975/10/31",
+          "first_seen_at": "2026-08-15T07:02:53",
+          "last_seen_at": "2026-08-15T07:02:53",
+          "seen_count": 1
+        },
+        "コーシャハイム南葛西五丁目|江戸川区|３ＤＫ|60.47|90,500|3,100": {
+          "name": "コーシャハイム南葛西五丁目",
+          "area": "江戸川区",
+          "layout": "３ＤＫ",
+          "floor_area_m2": "60.47",
+          "rent_yen": "90,500",
+          "common_fee_yen": "3,100",
+          "units": "1",
+          "building_year": 1986,
+          "building_year_label": "竣工年月日 1986/03/25",
+          "first_seen_at": "2026-08-15T07:02:53",
+          "last_seen_at": "2026-08-15T07:02:53",
           "seen_count": 1
         }
       }
