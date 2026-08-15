@@ -1,16 +1,40 @@
 {
-  "checked_at": "2026-08-15T02:41:57",
-  "jkk_total": 3,
+  "checked_at": "2026-08-15T03:25:41",
+  "jkk_total": 7,
   "ur_total_vacancies": 4,
-  "new_events": 4,
+  "new_events": 8,
   "slack_candidates": 0,
-  "slack_skipped": 4,
+  "slack_skipped": 8,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
   "dry_run_slack": false,
   "candidate_ids": [],
   "skipped": [
+    {
+      "stable_id": "jkk_b2c8725a62a3d7b3",
+      "building_name": "豊島町",
+      "event_type": "reappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_20c56dcf00affa12",
+      "building_name": "蓮根三丁目",
+      "event_type": "first_seen",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_11774355eaa41ec4",
+      "building_name": "堀江",
+      "event_type": "reappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_2af168f761e61020",
+      "building_name": "コーシャハイム南葛西五丁目",
+      "event_type": "reappeared",
+      "reason": "not_actionable"
+    },
     {
       "stable_id": "ur_7fd29bf5ae2b9036",
       "building_name": "豊島五丁目",

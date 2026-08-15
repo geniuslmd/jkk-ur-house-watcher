@@ -1,10 +1,12 @@
 {
-  "boost_until": "2026-08-14T10:35:24",
+  "boost_until": "2026-08-15T03:45:41",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "UR:北区总空室上升",
-    "UR:赤羽アボードⅡ"
+    "JKK:コーシャハイム南葛西五丁目",
+    "JKK:堀江",
+    "JKK:蓮根三丁目",
+    "JKK:豊島町"
   ],
   "last_ur_total_vacancies": 4,
-  "updated_at": "2026-08-15T02:41:57"
+  "updated_at": "2026-08-15T03:25:41"
 }
