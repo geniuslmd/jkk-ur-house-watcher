@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-08-15T04:05:30",
-  "jkk_total": 7,
+  "checked_at": "2026-08-15T04:45:34",
+  "jkk_total": 6,
   "ur_total_vacancies": 3,
-  "new_events": 9,
+  "new_events": 7,
   "slack_candidates": 0,
-  "slack_skipped": 9,
+  "slack_skipped": 7,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -14,25 +14,19 @@
     {
       "stable_id": "jkk_b2c8725a62a3d7b3",
       "building_name": "豊島町",
-      "event_type": "still_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_20c56dcf00affa12",
-      "building_name": "蓮根三丁目",
-      "event_type": "still_seen",
+      "event_type": "stable",
       "reason": "not_actionable"
     },
     {
       "stable_id": "jkk_11774355eaa41ec4",
       "building_name": "堀江",
-      "event_type": "still_seen",
+      "event_type": "stable",
       "reason": "not_actionable"
     },
     {
       "stable_id": "jkk_2af168f761e61020",
       "building_name": "コーシャハイム南葛西五丁目",
-      "event_type": "still_seen",
+      "event_type": "stable",
       "reason": "not_actionable"
     },
     {
@@ -44,7 +38,7 @@
     {
       "stable_id": "ur_a5f8c53659687832",
       "building_name": "豊島五丁目",
-      "event_type": "first_seen",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
@@ -54,14 +48,8 @@
       "reason": "not_actionable"
     },
     {
-      "stable_id": "ur_632f23f76db15621",
-      "building_name": "フレーシェル王子神谷",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_bcfa9755771d02f0",
-      "building_name": "豊島五丁目",
+      "stable_id": "jkk_20c56dcf00affa12",
+      "building_name": "蓮根三丁目",
       "event_type": "disappeared",
       "reason": "not_actionable"
     }

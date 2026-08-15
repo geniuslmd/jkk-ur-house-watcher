@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-15T04:05:35",
-  "total_checks": 186,
+  "updated_at": "2026-08-15T04:45:39",
+  "total_checks": 187,
   "buckets": {
     "09:00": {
       "checks": 24,
@@ -1728,19 +1728,18 @@
       }
     },
     "04:00": {
-      "checks": 9,
-      "candidate_checks": 5,
+      "checks": 10,
+      "candidate_checks": 6,
       "target_checks": 0,
-      "listing_rows": 37,
-      "candidate_rows": 10,
+      "listing_rows": 43,
+      "candidate_rows": 13,
       "target_rows": 0,
-      "last_checked_at": "2026-08-15T04:05:30",
-      "last_candidate_at": "2026-08-15T04:05:30",
+      "last_checked_at": "2026-08-15T04:45:34",
+      "last_candidate_at": "2026-08-15T04:45:34",
       "last_target_at": null,
       "last_candidate_names": [
         "コーシャハイム南葛西五丁目",
         "堀江",
-        "蓮根三丁目",
         "豊島町"
       ],
       "candidate_names_seen": [
@@ -1835,8 +1834,8 @@
           "building_year": 1972,
           "building_year_label": "竣工年月日 1972/08/25",
           "first_seen_at": "2026-08-15T04:05:30",
-          "last_seen_at": "2026-08-15T04:05:30",
-          "seen_count": 1
+          "last_seen_at": "2026-08-15T04:45:34",
+          "seen_count": 2
         },
         "蓮根三丁目|板橋区|３ＤＫ|50.44|82,700|3,900": {
           "name": "蓮根三丁目",
@@ -1863,8 +1862,8 @@
           "building_year": 1975,
           "building_year_label": "竣工年月日 1975/10/31",
           "first_seen_at": "2026-08-15T04:05:30",
-          "last_seen_at": "2026-08-15T04:05:30",
-          "seen_count": 1
+          "last_seen_at": "2026-08-15T04:45:34",
+          "seen_count": 2
         },
         "コーシャハイム南葛西五丁目|江戸川区|３ＤＫ|60.47|90,500|3,100": {
           "name": "コーシャハイム南葛西五丁目",
@@ -1877,8 +1876,8 @@
           "building_year": 1986,
           "building_year_label": "竣工年月日 1986/03/25",
           "first_seen_at": "2026-08-15T04:05:30",
-          "last_seen_at": "2026-08-15T04:05:30",
-          "seen_count": 1
+          "last_seen_at": "2026-08-15T04:45:34",
+          "seen_count": 2
         }
       }
     },
