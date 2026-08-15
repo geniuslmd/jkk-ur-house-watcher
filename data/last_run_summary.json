@@ -1,13 +1,13 @@
 {
-  "checked_at": "2026-08-14T10:15:24",
+  "checked_at": "2026-08-15T01:41:21",
   "jkk_total": 3,
   "ur_total_vacancies": 4,
-  "new_events": 5,
+  "new_events": 4,
   "slack_candidates": 0,
-  "slack_skipped": 5,
+  "slack_skipped": 4,
   "slack_configured": true,
   "slack_sent": false,
-  "heartbeat_sent": false,
+  "heartbeat_sent": true,
   "dry_run_slack": false,
   "candidate_ids": [],
   "skipped": [
@@ -20,25 +20,19 @@
     {
       "stable_id": "ur_bcfa9755771d02f0",
       "building_name": "豊島五丁目",
-      "event_type": "stable",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_4636c1c29d2cd1ca",
       "building_name": "赤羽アボードⅡ",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_632f23f76db15621",
       "building_name": "フレーシェル王子神谷",
-      "event_type": "stable",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_e56514558bc42c1c",
-      "building_name": "春江町椿",
-      "event_type": "disappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     }
   ]
