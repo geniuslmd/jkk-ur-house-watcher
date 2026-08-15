@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-15T01:41:21",
+  "checked_at": "2026-08-15T01:47:48",
   "jkk_total": 3,
   "ur_total_vacancies": 4,
   "new_events": 4,
@@ -7,7 +7,7 @@
   "slack_skipped": 4,
   "slack_configured": true,
   "slack_sent": false,
-  "heartbeat_sent": true,
+  "heartbeat_sent": false,
   "dry_run_slack": false,
   "candidate_ids": [],
   "skipped": [
@@ -26,7 +26,7 @@
     {
       "stable_id": "ur_4636c1c29d2cd1ca",
       "building_name": "赤羽アボードⅡ",
-      "event_type": "still_seen",
+      "event_type": "stable",
       "reason": "not_actionable"
     },
     {
