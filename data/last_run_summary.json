@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-08-15T07:42:51",
-  "jkk_total": 5,
+  "checked_at": "2026-08-15T08:10:31",
+  "jkk_total": 4,
   "ur_total_vacancies": 0,
-  "new_events": 3,
+  "new_events": 2,
   "slack_candidates": 0,
-  "slack_skipped": 3,
+  "slack_skipped": 2,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -20,12 +20,6 @@
     {
       "stable_id": "jkk_2af168f761e61020",
       "building_name": "コーシャハイム南葛西五丁目",
-      "event_type": "still_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_7fd29bf5ae2b9036",
-      "building_name": "豊島五丁目",
       "event_type": "disappeared",
       "reason": "not_actionable"
     }
