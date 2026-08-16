@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-16T08:18:44",
+  "checked_at": "2026-08-16T08:53:20",
   "jkk_total": 3,
   "ur_total_vacancies": 1,
   "new_events": 1,
@@ -14,7 +14,7 @@
     {
       "stable_id": "ur_7fd29bf5ae2b9036",
       "building_name": "豊島五丁目",
-      "event_type": "still_seen",
+      "event_type": "stable",
       "reason": "not_actionable"
     }
   ]
