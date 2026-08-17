@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-17T04:57:48",
-  "total_checks": 216,
+  "updated_at": "2026-08-17T05:48:24",
+  "total_checks": 217,
   "buckets": {
     "09:00": {
       "checks": 27,
@@ -1006,24 +1006,24 @@
       }
     },
     "05:00": {
-      "checks": 12,
-      "candidate_checks": 7,
+      "checks": 13,
+      "candidate_checks": 8,
       "target_checks": 0,
-      "listing_rows": 46,
-      "candidate_rows": 10,
+      "listing_rows": 50,
+      "candidate_rows": 11,
       "target_rows": 0,
-      "last_checked_at": "2026-08-16T05:49:21",
-      "last_candidate_at": "2026-08-15T05:45:44",
+      "last_checked_at": "2026-08-17T05:48:22",
+      "last_candidate_at": "2026-08-17T05:48:22",
       "last_target_at": null,
       "last_candidate_names": [
-        "コーシャハイム南葛西五丁目",
-        "堀江"
+        "新田"
       ],
       "candidate_names_seen": [
         "コーシャハイム光が丘第二",
         "コーシャハイム南葛西五丁目",
         "トミンタワー台場一番街",
-        "堀江"
+        "堀江",
+        "新田"
       ],
       "candidate_seen": {
         "コーシャハイム南葛西五丁目|江戸川区|３ＤＫ|60.47|89,000|3,100": {
@@ -1109,6 +1109,20 @@
           "first_seen_at": "2026-08-15T05:12:19",
           "last_seen_at": "2026-08-15T05:45:44",
           "seen_count": 2
+        },
+        "新田|江戸川区|２ＤＫ|43.0|76,300|3,900": {
+          "name": "新田",
+          "area": "江戸川区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "43.0",
+          "rent_yen": "76,300",
+          "common_fee_yen": "3,900",
+          "units": "1",
+          "building_year": 1975,
+          "building_year_label": "竣工年月日 1975/08/30",
+          "first_seen_at": "2026-08-17T05:48:22",
+          "last_seen_at": "2026-08-17T05:48:22",
+          "seen_count": 1
         }
       }
     },
