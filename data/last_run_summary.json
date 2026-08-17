@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-17T07:38:07",
+  "checked_at": "2026-08-17T08:24:32",
   "jkk_total": 4,
   "ur_total_vacancies": 1,
   "new_events": 2,
@@ -14,7 +14,7 @@
     {
       "stable_id": "jkk_60b7a36f005e9cc2",
       "building_name": "トミンハイム宮坂二丁目",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
