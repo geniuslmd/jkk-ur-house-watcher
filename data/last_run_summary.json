@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-08-18T07:57:37",
-  "jkk_total": 4,
+  "checked_at": "2026-08-18T08:52:06",
+  "jkk_total": 3,
   "ur_total_vacancies": 1,
   "new_events": 2,
   "slack_candidates": 0,
@@ -12,15 +12,15 @@
   "candidate_ids": [],
   "skipped": [
     {
-      "stable_id": "jkk_b75b32d3b86bfe78",
-      "building_name": "コーシャハイム大森東",
+      "stable_id": "ur_7fd29bf5ae2b9036",
+      "building_name": "豊島五丁目",
       "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
-      "stable_id": "ur_7fd29bf5ae2b9036",
-      "building_name": "豊島五丁目",
-      "event_type": "reappeared",
+      "stable_id": "jkk_b75b32d3b86bfe78",
+      "building_name": "コーシャハイム大森東",
+      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]
