@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-08-18T05:43:17",
-  "jkk_total": 10,
+  "checked_at": "2026-08-18T06:17:43",
+  "jkk_total": 5,
   "ur_total_vacancies": 0,
   "new_events": 7,
   "slack_candidates": 0,
@@ -12,45 +12,45 @@
   "candidate_ids": [],
   "skipped": [
     {
-      "stable_id": "jkk_ab6ae96c516f122a",
-      "building_name": "越中島",
-      "event_type": "reappeared",
-      "reason": "not_actionable"
-    },
-    {
       "stable_id": "jkk_b75b32d3b86bfe78",
       "building_name": "コーシャハイム大森東",
-      "event_type": "reappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_6c5a18248f14e261",
-      "building_name": "コーシャハイム経堂フォレスト",
-      "event_type": "first_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_0980281856e69b8b",
-      "building_name": "コーシャハイム中野弥生町",
-      "event_type": "first_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_1b93173fd3281e83",
-      "building_name": "コーシャハイム光が丘第一",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "jkk_a046da9df43eb03e",
       "building_name": "コーシャハイム北千住",
-      "event_type": "first_seen",
+      "event_type": "still_seen",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_ab6ae96c516f122a",
+      "building_name": "越中島",
+      "event_type": "disappeared",
       "reason": "not_actionable"
     },
     {
       "stable_id": "jkk_21894ad1c8257ef2",
       "building_name": "コーシャハイム清新",
-      "event_type": "reappeared",
+      "event_type": "disappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_1b93173fd3281e83",
+      "building_name": "コーシャハイム光が丘第一",
+      "event_type": "disappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_6c5a18248f14e261",
+      "building_name": "コーシャハイム経堂フォレスト",
+      "event_type": "disappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_0980281856e69b8b",
+      "building_name": "コーシャハイム中野弥生町",
+      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]
