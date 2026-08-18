@@ -6711,16 +6711,16 @@
       }
     },
     "first_seen_at": "2026-08-01T06:18:57",
-    "last_seen_at": "2026-08-18T01:41:16",
+    "last_seen_at": "2026-08-18T01:49:12",
     "current_appearance_started_at": "2026-08-16T07:49:17",
     "disappeared_at": null,
-    "lifetime_minutes": 2512.0,
+    "lifetime_minutes": 2519.9,
     "appearance_count": 9,
-    "consecutive_seen_count": 17,
-    "total_seen_checks": 116,
+    "consecutive_seen_count": 18,
+    "total_seen_checks": 117,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260818_014116",
+    "last_snapshot_id": "snapshot_20260818_014912",
     "appearances": [
       {
         "start": "2026-08-01T06:18:57",
