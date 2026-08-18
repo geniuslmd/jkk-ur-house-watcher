@@ -6713,14 +6713,14 @@
     "first_seen_at": "2026-08-01T06:18:57",
     "last_seen_at": "2026-08-18T02:48:31",
     "current_appearance_started_at": "2026-08-16T07:49:17",
-    "disappeared_at": null,
-    "lifetime_minutes": 2579.2,
+    "disappeared_at": "2026-08-18T03:35:34",
+    "lifetime_minutes": 2626.3,
     "appearance_count": 9,
-    "consecutive_seen_count": 19,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 118,
-    "current_status": "stable",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260818_024831",
+    "current_status": "disappeared",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260818_033534",
     "appearances": [
       {
         "start": "2026-08-01T06:18:57",
@@ -6772,8 +6772,9 @@
       },
       {
         "start": "2026-08-16T07:49:17",
-        "end": null,
-        "status": "active"
+        "end": "2026-08-18T03:35:34",
+        "status": "disappeared",
+        "lifetime_minutes": 2626.3
       }
     ],
     "quick_tags": [
