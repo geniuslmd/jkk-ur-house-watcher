@@ -1,15 +1,10 @@
 {
-  "boost_until": "2026-08-18T06:03:17",
+  "boost_until": "2026-08-18T08:17:37",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "JKK:コーシャハイム中野弥生町",
-    "JKK:コーシャハイム光が丘第一",
-    "JKK:コーシャハイム北千住",
-    "JKK:コーシャハイム大森東",
-    "JKK:コーシャハイム清新",
-    "JKK:コーシャハイム経堂フォレスト",
-    "JKK:越中島"
+    "UR:北区总空室上升",
+    "UR:豊島五丁目"
   ],
-  "last_ur_total_vacancies": 0,
-  "updated_at": "2026-08-18T07:11:12"
+  "last_ur_total_vacancies": 1,
+  "updated_at": "2026-08-18T07:57:37"
 }

@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-18T07:11:12",
+  "checked_at": "2026-08-18T07:57:37",
   "jkk_total": 4,
-  "ur_total_vacancies": 0,
+  "ur_total_vacancies": 1,
   "new_events": 2,
   "slack_candidates": 0,
   "slack_skipped": 2,
@@ -14,13 +14,13 @@
     {
       "stable_id": "jkk_b75b32d3b86bfe78",
       "building_name": "コーシャハイム大森東",
-      "event_type": "stable",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
-      "stable_id": "jkk_a046da9df43eb03e",
-      "building_name": "コーシャハイム北千住",
-      "event_type": "disappeared",
+      "stable_id": "ur_7fd29bf5ae2b9036",
+      "building_name": "豊島五丁目",
+      "event_type": "reappeared",
       "reason": "not_actionable"
     }
   ]
