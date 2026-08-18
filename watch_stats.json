@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-18T05:00:45",
-  "total_checks": 228,
+  "updated_at": "2026-08-18T05:43:28",
+  "total_checks": 229,
   "buckets": {
     "09:00": {
       "checks": 28,
@@ -1020,24 +1020,37 @@
       }
     },
     "05:00": {
-      "checks": 14,
-      "candidate_checks": 8,
+      "checks": 15,
+      "candidate_checks": 9,
       "target_checks": 0,
-      "listing_rows": 53,
-      "candidate_rows": 11,
+      "listing_rows": 63,
+      "candidate_rows": 18,
       "target_rows": 0,
-      "last_checked_at": "2026-08-18T05:00:43",
-      "last_candidate_at": "2026-08-17T05:48:22",
+      "last_checked_at": "2026-08-18T05:43:17",
+      "last_candidate_at": "2026-08-18T05:43:17",
       "last_target_at": null,
       "last_candidate_names": [
-        "新田"
+        "コーシャハイム中野弥生町",
+        "コーシャハイム光が丘第一",
+        "コーシャハイム北千住",
+        "コーシャハイム大森東",
+        "コーシャハイム清新",
+        "コーシャハイム経堂フォレスト",
+        "越中島"
       ],
       "candidate_names_seen": [
+        "コーシャハイム中野弥生町",
+        "コーシャハイム光が丘第一",
         "コーシャハイム光が丘第二",
+        "コーシャハイム北千住",
         "コーシャハイム南葛西五丁目",
+        "コーシャハイム大森東",
+        "コーシャハイム清新",
+        "コーシャハイム経堂フォレスト",
         "トミンタワー台場一番街",
         "堀江",
-        "新田"
+        "新田",
+        "越中島"
       ],
       "candidate_seen": {
         "コーシャハイム南葛西五丁目|江戸川区|３ＤＫ|60.47|89,000|3,100": {
@@ -1136,6 +1149,104 @@
           "building_year_label": "竣工年月日 1975/08/30",
           "first_seen_at": "2026-08-17T05:48:22",
           "last_seen_at": "2026-08-17T05:48:22",
+          "seen_count": 1
+        },
+        "越中島|江東区|２ＤＫ|41.25|86,400|3,300": {
+          "name": "越中島",
+          "area": "江東区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "41.25",
+          "rent_yen": "86,400",
+          "common_fee_yen": "3,300",
+          "units": "1",
+          "building_year": 1972,
+          "building_year_label": "竣工年月日 1972/09/15",
+          "first_seen_at": "2026-08-18T05:43:17",
+          "last_seen_at": "2026-08-18T05:43:17",
+          "seen_count": 1
+        },
+        "コーシャハイム大森東|大田区|３ＤＫ|62.97|118,900～120,000|3,900": {
+          "name": "コーシャハイム大森東",
+          "area": "大田区",
+          "layout": "３ＤＫ",
+          "floor_area_m2": "62.97",
+          "rent_yen": "118,900～120,000",
+          "common_fee_yen": "3,900",
+          "units": "2",
+          "building_year": 1983,
+          "building_year_label": "竣工年月日 1983/06/15",
+          "first_seen_at": "2026-08-18T05:43:17",
+          "last_seen_at": "2026-08-18T05:43:17",
+          "seen_count": 1
+        },
+        "コーシャハイム経堂フォレスト|世田谷区|１ＤＫ|39.87|121,000|6,200": {
+          "name": "コーシャハイム経堂フォレスト",
+          "area": "世田谷区",
+          "layout": "１ＤＫ",
+          "floor_area_m2": "39.87",
+          "rent_yen": "121,000",
+          "common_fee_yen": "6,200",
+          "units": "1",
+          "building_year": 2020,
+          "building_year_label": "竣工年月日 2020/10/30",
+          "first_seen_at": "2026-08-18T05:43:17",
+          "last_seen_at": "2026-08-18T05:43:17",
+          "seen_count": 1
+        },
+        "コーシャハイム中野弥生町|中野区|２Ｋ|40.79|121,300|5,400": {
+          "name": "コーシャハイム中野弥生町",
+          "area": "中野区",
+          "layout": "２Ｋ",
+          "floor_area_m2": "40.79",
+          "rent_yen": "121,300",
+          "common_fee_yen": "5,400",
+          "units": "1",
+          "building_year": 2010,
+          "building_year_label": "竣工年月日 2010/01/05",
+          "first_seen_at": "2026-08-18T05:43:17",
+          "last_seen_at": "2026-08-18T05:43:17",
+          "seen_count": 1
+        },
+        "コーシャハイム光が丘第一|練馬区|３ＤＫ|60.17|102,100|3,200": {
+          "name": "コーシャハイム光が丘第一",
+          "area": "練馬区",
+          "layout": "３ＤＫ",
+          "floor_area_m2": "60.17",
+          "rent_yen": "102,100",
+          "common_fee_yen": "3,200",
+          "units": "1",
+          "building_year": 1984,
+          "building_year_label": "竣工年月日 1984/03/01",
+          "first_seen_at": "2026-08-18T05:43:17",
+          "last_seen_at": "2026-08-18T05:43:17",
+          "seen_count": 1
+        },
+        "コーシャハイム北千住|足立区|２ＤＫ|45.03|122,700|5,000": {
+          "name": "コーシャハイム北千住",
+          "area": "足立区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "45.03",
+          "rent_yen": "122,700",
+          "common_fee_yen": "5,000",
+          "units": "1",
+          "building_year": 2007,
+          "building_year_label": "竣工年月日 2007/02/22",
+          "first_seen_at": "2026-08-18T05:43:17",
+          "last_seen_at": "2026-08-18T05:43:17",
+          "seen_count": 1
+        },
+        "コーシャハイム清新|江戸川区|３ＤＫ|64.22|111,400|4,300": {
+          "name": "コーシャハイム清新",
+          "area": "江戸川区",
+          "layout": "３ＤＫ",
+          "floor_area_m2": "64.22",
+          "rent_yen": "111,400",
+          "common_fee_yen": "4,300",
+          "units": "1",
+          "building_year": 1983,
+          "building_year_label": "竣工年月日 1983/01/19",
+          "first_seen_at": "2026-08-18T05:43:17",
+          "last_seen_at": "2026-08-18T05:43:17",
           "seen_count": 1
         }
       }

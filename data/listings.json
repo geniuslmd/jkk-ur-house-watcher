@@ -1492,27 +1492,33 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-14T08:27:09",
-    "last_seen_at": "2026-07-14T08:27:09",
-    "current_appearance_started_at": "2026-07-14T08:27:09",
-    "disappeared_at": "2026-07-14T10:20:45",
-    "lifetime_minutes": 113.6,
-    "appearance_count": 1,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 1,
-    "current_status": "disappeared",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260714_102045",
+    "last_seen_at": "2026-08-18T05:43:17",
+    "current_appearance_started_at": "2026-08-18T05:43:17",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 2,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 2,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260818_054317",
     "appearances": [
       {
         "start": "2026-07-14T08:27:09",
         "end": "2026-07-14T10:20:45",
         "status": "disappeared",
         "lifetime_minutes": 113.6
+      },
+      {
+        "start": "2026-08-18T05:43:17",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
       "建议手动登录确认",
-      "低价"
+      "低价",
+      "重复出现"
     ]
   },
   "jkk_b820e44af5e44d6a": {
@@ -3343,8 +3349,8 @@
     "building_name": "コーシャハイム清新",
     "room_no": "",
     "layout": "３ＤＫ",
-    "area": "63.04",
-    "rent": "107,200",
+    "area": "64.22",
+    "rent": "111,400",
     "common_fee": "4,300",
     "detail_url": "https://jhomes.to-kousya.or.jp/search/jkknet/service/akiyaJyoukenStartInit",
     "is_high_priority": false,
@@ -3356,8 +3362,8 @@
       "priority": "子育・高齢",
       "housing_type": "一般賃貸住宅",
       "layout": "３ＤＫ",
-      "floor_area_m2": "63.04",
-      "rent_yen": "107,200",
+      "floor_area_m2": "64.22",
+      "rent_yen": "111,400",
       "common_fee_yen": "4,300",
       "units": "1",
       "detail_onclick": "javascript:senPage('','A1421','2380120','0002'); return false",
@@ -3382,27 +3388,33 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-22T03:43:38",
-    "last_seen_at": "2026-07-22T03:43:38",
-    "current_appearance_started_at": "2026-07-22T03:43:38",
-    "disappeared_at": "2026-07-22T06:17:58",
-    "lifetime_minutes": 154.3,
-    "appearance_count": 1,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 1,
-    "current_status": "disappeared",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260722_061758",
+    "last_seen_at": "2026-08-18T05:43:17",
+    "current_appearance_started_at": "2026-08-18T05:43:17",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 2,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 2,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260818_054317",
     "appearances": [
       {
         "start": "2026-07-22T03:43:38",
         "end": "2026-07-22T06:17:58",
         "status": "disappeared",
         "lifetime_minutes": 154.3
+      },
+      {
+        "start": "2026-08-18T05:43:17",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
       "建议手动登录确认",
-      "大户型"
+      "大户型",
+      "重复出现"
     ]
   },
   "jkk_9374c16b42cfd32a": {
@@ -3488,7 +3500,7 @@
     "room_no": "",
     "layout": "３ＤＫ",
     "area": "62.97",
-    "rent": "125,000",
+    "rent": "118,900～120,000",
     "common_fee": "3,900",
     "detail_url": "https://jhomes.to-kousya.or.jp/search/jkknet/service/akiyaJyoukenStartInit",
     "is_high_priority": false,
@@ -3501,9 +3513,9 @@
       "housing_type": "一般賃貸住宅",
       "layout": "３ＤＫ",
       "floor_area_m2": "62.97",
-      "rent_yen": "125,000",
+      "rent_yen": "118,900～120,000",
       "common_fee_yen": "3,900",
-      "units": "1",
+      "units": "2",
       "detail_onclick": "javascript:senPage('','A1461','1180210','0002'); return false",
       "detail_params": [
         "",
@@ -3526,16 +3538,16 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-22T06:17:58",
-    "last_seen_at": "2026-08-10T08:02:34",
-    "current_appearance_started_at": "2026-08-10T08:02:34",
-    "disappeared_at": "2026-08-10T09:46:28",
-    "lifetime_minutes": 103.9,
-    "appearance_count": 4,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 6,
-    "current_status": "disappeared",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260810_094628",
+    "last_seen_at": "2026-08-18T05:43:17",
+    "current_appearance_started_at": "2026-08-18T05:43:17",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 5,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 7,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260818_054317",
     "appearances": [
       {
         "start": "2026-07-22T06:17:58",
@@ -3560,10 +3572,16 @@
         "end": "2026-08-10T09:46:28",
         "status": "disappeared",
         "lifetime_minutes": 103.9
+      },
+      {
+        "start": "2026-08-18T05:43:17",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
       "建议手动登录确认",
+      "高价",
       "大户型",
       "重复出现"
     ]
@@ -7157,27 +7175,33 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-08-04T03:24:33",
-    "last_seen_at": "2026-08-04T03:34:28",
-    "current_appearance_started_at": "2026-08-04T03:24:33",
-    "disappeared_at": "2026-08-04T06:14:43",
-    "lifetime_minutes": 170.2,
-    "appearance_count": 1,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 2,
-    "current_status": "disappeared",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260804_061443",
+    "last_seen_at": "2026-08-18T05:43:17",
+    "current_appearance_started_at": "2026-08-18T05:43:17",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 2,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 3,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260818_054317",
     "appearances": [
       {
         "start": "2026-08-04T03:24:33",
         "end": "2026-08-04T06:14:43",
         "status": "disappeared",
         "lifetime_minutes": 170.2
+      },
+      {
+        "start": "2026-08-18T05:43:17",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
       "建议手动登录确认",
-      "大户型"
+      "大户型",
+      "重复出现"
     ]
   },
   "ur_78aa5564981cf0a3": {
@@ -9232,6 +9256,210 @@
     "quick_tags": [
       "建议手动登录确认",
       "小户型"
+    ]
+  },
+  "jkk_6c5a18248f14e261": {
+    "stable_id": "jkk_6c5a18248f14e261",
+    "source": "JKK",
+    "official_id": "jkk::L8762:1280930:0000",
+    "building_name": "コーシャハイム経堂フォレスト",
+    "room_no": "",
+    "layout": "１ＤＫ",
+    "area": "39.87",
+    "rent": "121,000",
+    "common_fee": "6,200",
+    "detail_url": "https://jhomes.to-kousya.or.jp/search/jkknet/service/akiyaJyoukenStartInit",
+    "is_high_priority": true,
+    "source_label": "JKK",
+    "action_hint": "发现新房，请尽快手动登录官网确认。",
+    "raw": {
+      "name": "コーシャハイム経堂フォレスト",
+      "area": "世田谷区",
+      "priority": "一般",
+      "housing_type": "一般賃貸住宅（期限付）",
+      "layout": "１ＤＫ",
+      "floor_area_m2": "39.87",
+      "rent_yen": "121,000",
+      "common_fee_yen": "6,200",
+      "units": "1",
+      "detail_onclick": "javascript:senPage('','L8762','1280930','0000'); return false",
+      "detail_params": [
+        "",
+        "L8762",
+        "1280930",
+        "0000"
+      ],
+      "building_year": 2020,
+      "building_year_label": "竣工年月日 2020/10/30",
+      "detail_error": "",
+      "is_target": false,
+      "is_excluded": false,
+      "is_newer_building": true,
+      "stable_id": "",
+      "current_status": "",
+      "first_seen_at": "",
+      "last_seen_at": "",
+      "lifetime_minutes": 0.0,
+      "appearance_count": 0,
+      "quick_tags": null
+    },
+    "first_seen_at": "2026-08-18T05:43:17",
+    "last_seen_at": "2026-08-18T05:43:17",
+    "current_appearance_started_at": "2026-08-18T05:43:17",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260818_054317",
+    "appearances": [
+      {
+        "start": "2026-08-18T05:43:17",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "建议手动登录确认",
+      "高优先级",
+      "小户型"
+    ]
+  },
+  "jkk_0980281856e69b8b": {
+    "stable_id": "jkk_0980281856e69b8b",
+    "source": "JKK",
+    "official_id": "jkk::L8322:1480320:0002",
+    "building_name": "コーシャハイム中野弥生町",
+    "room_no": "",
+    "layout": "２Ｋ",
+    "area": "40.79",
+    "rent": "121,300",
+    "common_fee": "5,400",
+    "detail_url": "https://jhomes.to-kousya.or.jp/search/jkknet/service/akiyaJyoukenStartInit",
+    "is_high_priority": true,
+    "source_label": "JKK",
+    "action_hint": "发现新房，请尽快手动登录官网确认。",
+    "raw": {
+      "name": "コーシャハイム中野弥生町",
+      "area": "中野区",
+      "priority": "子育・高齢",
+      "housing_type": "一般賃貸住宅（期限付）",
+      "layout": "２Ｋ",
+      "floor_area_m2": "40.79",
+      "rent_yen": "121,300",
+      "common_fee_yen": "5,400",
+      "units": "1",
+      "detail_onclick": "javascript:senPage('','L8322','1480320','0002'); return false",
+      "detail_params": [
+        "",
+        "L8322",
+        "1480320",
+        "0002"
+      ],
+      "building_year": 2010,
+      "building_year_label": "竣工年月日 2010/01/05",
+      "detail_error": "",
+      "is_target": false,
+      "is_excluded": false,
+      "is_newer_building": true,
+      "stable_id": "",
+      "current_status": "",
+      "first_seen_at": "",
+      "last_seen_at": "",
+      "lifetime_minutes": 0.0,
+      "appearance_count": 0,
+      "quick_tags": null
+    },
+    "first_seen_at": "2026-08-18T05:43:17",
+    "last_seen_at": "2026-08-18T05:43:17",
+    "current_appearance_started_at": "2026-08-18T05:43:17",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260818_054317",
+    "appearances": [
+      {
+        "start": "2026-08-18T05:43:17",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "建议手动登录确认",
+      "高优先级"
+    ]
+  },
+  "jkk_a046da9df43eb03e": {
+    "stable_id": "jkk_a046da9df43eb03e",
+    "source": "JKK",
+    "official_id": "jkk::L8233:2180430:0002",
+    "building_name": "コーシャハイム北千住",
+    "room_no": "",
+    "layout": "２ＤＫ",
+    "area": "45.03",
+    "rent": "122,700",
+    "common_fee": "5,000",
+    "detail_url": "https://jhomes.to-kousya.or.jp/search/jkknet/service/akiyaJyoukenStartInit",
+    "is_high_priority": false,
+    "source_label": "JKK",
+    "action_hint": "发现新房，请尽快手动登录官网确认。",
+    "raw": {
+      "name": "コーシャハイム北千住",
+      "area": "足立区",
+      "priority": "子育・高齢",
+      "housing_type": "一般賃貸住宅（期限付）",
+      "layout": "２ＤＫ",
+      "floor_area_m2": "45.03",
+      "rent_yen": "122,700",
+      "common_fee_yen": "5,000",
+      "units": "1",
+      "detail_onclick": "javascript:senPage('','L8233','2180430','0002'); return false",
+      "detail_params": [
+        "",
+        "L8233",
+        "2180430",
+        "0002"
+      ],
+      "building_year": 2007,
+      "building_year_label": "竣工年月日 2007/02/22",
+      "detail_error": "",
+      "is_target": false,
+      "is_excluded": false,
+      "is_newer_building": false,
+      "stable_id": "",
+      "current_status": "",
+      "first_seen_at": "",
+      "last_seen_at": "",
+      "lifetime_minutes": 0.0,
+      "appearance_count": 0,
+      "quick_tags": null
+    },
+    "first_seen_at": "2026-08-18T05:43:17",
+    "last_seen_at": "2026-08-18T05:43:17",
+    "current_appearance_started_at": "2026-08-18T05:43:17",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260818_054317",
+    "appearances": [
+      {
+        "start": "2026-08-18T05:43:17",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "建议手动登录确认"
     ]
   }
 }

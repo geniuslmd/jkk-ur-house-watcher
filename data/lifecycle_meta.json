@@ -1,9 +1,15 @@
 {
-  "boost_until": "2026-08-17T07:58:07",
+  "boost_until": "2026-08-18T06:03:17",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "JKK:トミンハイム宮坂二丁目"
+    "JKK:コーシャハイム中野弥生町",
+    "JKK:コーシャハイム光が丘第一",
+    "JKK:コーシャハイム北千住",
+    "JKK:コーシャハイム大森東",
+    "JKK:コーシャハイム清新",
+    "JKK:コーシャハイム経堂フォレスト",
+    "JKK:越中島"
   ],
   "last_ur_total_vacancies": 0,
-  "updated_at": "2026-08-18T05:00:43"
+  "updated_at": "2026-08-18T05:43:17"
 }
