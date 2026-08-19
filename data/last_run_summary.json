@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-08-19T07:52:53",
+  "checked_at": "2026-08-19T08:53:10",
   "jkk_total": 3,
   "ur_total_vacancies": 1,
-  "new_events": 3,
+  "new_events": 1,
   "slack_candidates": 0,
-  "slack_skipped": 3,
+  "slack_skipped": 1,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -15,18 +15,6 @@
       "stable_id": "ur_7fd29bf5ae2b9036",
       "building_name": "豊島五丁目",
       "event_type": "still_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_186bad496cedefa2",
-      "building_name": "コーシャハイム仲池上",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_1b3b2003cd84e456",
-      "building_name": "カーメスト新高円寺",
-      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]
