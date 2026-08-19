@@ -1,10 +1,10 @@
 {
-  "boost_until": "2026-08-19T03:30:11",
+  "boost_until": "2026-08-19T07:23:37",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "JKK:カーメスト大蔵の杜",
-    "JKK:カーメスト興野町"
+    "JKK:カーメスト新高円寺",
+    "JKK:コーシャハイム仲池上"
   ],
   "last_ur_total_vacancies": 1,
-  "updated_at": "2026-08-19T05:58:09"
+  "updated_at": "2026-08-19T07:03:37"
 }

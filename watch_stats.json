@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-19T05:58:11",
-  "total_checks": 242,
+  "updated_at": "2026-08-19T07:03:41",
+  "total_checks": 243,
   "buckets": {
     "09:00": {
       "checks": 29,
@@ -370,19 +370,22 @@
       }
     },
     "07:00": {
-      "checks": 19,
-      "candidate_checks": 11,
+      "checks": 20,
+      "candidate_checks": 12,
       "target_checks": 0,
-      "listing_rows": 71,
-      "candidate_rows": 13,
+      "listing_rows": 76,
+      "candidate_rows": 15,
       "target_rows": 0,
-      "last_checked_at": "2026-08-18T07:57:37",
-      "last_candidate_at": "2026-08-18T07:57:37",
+      "last_checked_at": "2026-08-19T07:03:37",
+      "last_candidate_at": "2026-08-19T07:03:37",
       "last_target_at": null,
       "last_candidate_names": [
-        "コーシャハイム大森東"
+        "カーメスト新高円寺",
+        "コーシャハイム仲池上"
       ],
       "candidate_names_seen": [
+        "カーメスト新高円寺",
+        "コーシャハイム仲池上",
         "コーシャハイム南葛西五丁目",
         "コーシャハイム大森東",
         "トミンタワー台場一番街",
@@ -502,6 +505,34 @@
           "first_seen_at": "2026-08-18T07:11:12",
           "last_seen_at": "2026-08-18T07:57:37",
           "seen_count": 2
+        },
+        "コーシャハイム仲池上|大田区|２ＤＫ|45.48|112,200|5,800": {
+          "name": "コーシャハイム仲池上",
+          "area": "大田区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "45.48",
+          "rent_yen": "112,200",
+          "common_fee_yen": "5,800",
+          "units": "1",
+          "building_year": 2008,
+          "building_year_label": "竣工年月日 2008/02/12",
+          "first_seen_at": "2026-08-19T07:03:37",
+          "last_seen_at": "2026-08-19T07:03:37",
+          "seen_count": 1
+        },
+        "カーメスト新高円寺|杉並区|２ＬＤＫ|49.99|154,000～154,400|7,800": {
+          "name": "カーメスト新高円寺",
+          "area": "杉並区",
+          "layout": "２ＬＤＫ",
+          "floor_area_m2": "49.99",
+          "rent_yen": "154,000～154,400",
+          "common_fee_yen": "7,800",
+          "units": "2",
+          "building_year": 2023,
+          "building_year_label": "竣工年月日 2023/08/15",
+          "first_seen_at": "2026-08-19T07:03:37",
+          "last_seen_at": "2026-08-19T07:03:37",
+          "seen_count": 1
         }
       }
     },
