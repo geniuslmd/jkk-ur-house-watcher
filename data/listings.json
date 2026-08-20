@@ -1568,16 +1568,16 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-14T08:27:09",
-    "last_seen_at": "2026-08-01T10:22:12",
-    "current_appearance_started_at": "2026-08-01T08:37:27",
-    "disappeared_at": "2026-08-02T03:37:58",
-    "lifetime_minutes": 1140.5,
-    "appearance_count": 2,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 3,
-    "current_status": "disappeared",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260802_033758",
+    "last_seen_at": "2026-08-20T03:56:49",
+    "current_appearance_started_at": "2026-08-20T03:56:49",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 3,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 4,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260820_035649",
     "appearances": [
       {
         "start": "2026-07-14T08:27:09",
@@ -1590,6 +1590,11 @@
         "end": "2026-08-02T03:37:58",
         "status": "disappeared",
         "lifetime_minutes": 1140.5
+      },
+      {
+        "start": "2026-08-20T03:56:49",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
@@ -6739,14 +6744,14 @@
     "first_seen_at": "2026-08-01T06:18:57",
     "last_seen_at": "2026-08-20T02:51:08",
     "current_appearance_started_at": "2026-08-18T07:57:37",
-    "disappeared_at": null,
-    "lifetime_minutes": 2573.5,
+    "disappeared_at": "2026-08-20T03:56:49",
+    "lifetime_minutes": 2639.2,
     "appearance_count": 10,
-    "consecutive_seen_count": 19,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 137,
-    "current_status": "stable",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260820_025108",
+    "current_status": "disappeared",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260820_035649",
     "appearances": [
       {
         "start": "2026-08-01T06:18:57",
@@ -6804,8 +6809,9 @@
       },
       {
         "start": "2026-08-18T07:57:37",
-        "end": null,
-        "status": "active"
+        "end": "2026-08-20T03:56:49",
+        "status": "disappeared",
+        "lifetime_minutes": 2639.2
       }
     ],
     "quick_tags": [

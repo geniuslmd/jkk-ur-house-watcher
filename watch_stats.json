@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-20T02:51:10",
-  "total_checks": 250,
+  "updated_at": "2026-08-20T03:56:52",
+  "total_checks": 251,
   "buckets": {
     "09:00": {
       "checks": 30,
@@ -733,18 +733,17 @@
       }
     },
     "03:00": {
-      "checks": 52,
-      "candidate_checks": 30,
+      "checks": 53,
+      "candidate_checks": 31,
       "target_checks": 0,
-      "listing_rows": 232,
-      "candidate_rows": 68,
+      "listing_rows": 236,
+      "candidate_rows": 69,
       "target_rows": 0,
-      "last_checked_at": "2026-08-19T03:10:11",
-      "last_candidate_at": "2026-08-19T03:10:11",
+      "last_checked_at": "2026-08-20T03:56:49",
+      "last_candidate_at": "2026-08-20T03:56:49",
       "last_target_at": null,
       "last_candidate_names": [
-        "カーメスト大蔵の杜",
-        "カーメスト興野町"
+        "西台"
       ],
       "candidate_names_seen": [
         "カーメスト大蔵の杜",
@@ -765,6 +764,7 @@
         "宇喜田第二",
         "新田",
         "蓮根三丁目",
+        "西台",
         "豊島町"
       ],
       "candidate_seen": {
@@ -1088,6 +1088,20 @@
           "building_year_label": "竣工年月日 2022/09/30",
           "first_seen_at": "2026-08-19T03:10:11",
           "last_seen_at": "2026-08-19T03:10:11",
+          "seen_count": 1
+        },
+        "西台|板橋区|３ＤＫ|43.21|71,100|3,000": {
+          "name": "西台",
+          "area": "板橋区",
+          "layout": "３ＤＫ",
+          "floor_area_m2": "43.21",
+          "rent_yen": "71,100",
+          "common_fee_yen": "3,000",
+          "units": "1",
+          "building_year": 1972,
+          "building_year_label": "竣工年月日 1972/12/05",
+          "first_seen_at": "2026-08-20T03:56:49",
+          "last_seen_at": "2026-08-20T03:56:49",
           "seen_count": 1
         }
       }
