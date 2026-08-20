@@ -9677,16 +9677,16 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-08-20T04:51:33",
-    "last_seen_at": "2026-08-20T05:45:02",
+    "last_seen_at": "2026-08-20T06:19:23",
     "current_appearance_started_at": "2026-08-20T04:51:33",
     "disappeared_at": null,
-    "lifetime_minutes": 53.5,
+    "lifetime_minutes": 87.8,
     "appearance_count": 1,
-    "consecutive_seen_count": 2,
-    "total_seen_checks": 2,
-    "current_status": "new",
+    "consecutive_seen_count": 3,
+    "total_seen_checks": 3,
+    "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260820_054502",
+    "last_snapshot_id": "snapshot_20260820_061923",
     "appearances": [
       {
         "start": "2026-08-20T04:51:33",
