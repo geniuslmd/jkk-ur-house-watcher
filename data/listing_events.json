@@ -22838,5 +22838,25 @@
     "is_high_priority": false,
     "created_at": "2026-08-20T06:19:23",
     "snapshot_id": "snapshot_20260820_061923"
+  },
+  {
+    "event_id": "e5d7504c0df31ee15b76",
+    "event_type": "disappeared",
+    "stable_id": "jkk_3ce0f38fa65e5290",
+    "source": "JKK",
+    "building_name": "コーシャハイム光が丘第一",
+    "room_no": "",
+    "layout": "２ＬＤＫ",
+    "area": "60.17",
+    "rent": "100,100",
+    "common_fee": "3,200",
+    "current_status": "disappeared",
+    "first_seen_at": "2026-08-20T04:51:33",
+    "last_seen_at": "2026-08-20T06:19:23",
+    "lifetime_minutes": 143.3,
+    "appearance_count": 1,
+    "is_high_priority": false,
+    "created_at": "2026-08-20T07:14:53",
+    "snapshot_id": "snapshot_20260820_071453"
   }
 ]

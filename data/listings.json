@@ -9679,19 +9679,20 @@
     "first_seen_at": "2026-08-20T04:51:33",
     "last_seen_at": "2026-08-20T06:19:23",
     "current_appearance_started_at": "2026-08-20T04:51:33",
-    "disappeared_at": null,
-    "lifetime_minutes": 87.8,
+    "disappeared_at": "2026-08-20T07:14:53",
+    "lifetime_minutes": 143.3,
     "appearance_count": 1,
-    "consecutive_seen_count": 3,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 3,
-    "current_status": "stable",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260820_061923",
+    "current_status": "disappeared",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260820_071453",
     "appearances": [
       {
         "start": "2026-08-20T04:51:33",
-        "end": null,
-        "status": "active"
+        "end": "2026-08-20T07:14:53",
+        "status": "disappeared",
+        "lifetime_minutes": 143.3
       }
     ],
     "quick_tags": [

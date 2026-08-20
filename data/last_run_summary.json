@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-08-20T06:19:23",
-  "jkk_total": 4,
+  "checked_at": "2026-08-20T07:14:53",
+  "jkk_total": 3,
   "ur_total_vacancies": 0,
   "new_events": 1,
   "slack_candidates": 0,
@@ -14,7 +14,7 @@
     {
       "stable_id": "jkk_3ce0f38fa65e5290",
       "building_name": "コーシャハイム光が丘第一",
-      "event_type": "stable",
+      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]
