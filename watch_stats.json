@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-20T03:56:52",
-  "total_checks": 251,
+  "updated_at": "2026-08-20T04:51:36",
+  "total_checks": 252,
   "buckets": {
     "09:00": {
       "checks": 30,
@@ -2088,21 +2088,22 @@
       }
     },
     "04:00": {
-      "checks": 17,
-      "candidate_checks": 7,
+      "checks": 18,
+      "candidate_checks": 8,
       "target_checks": 0,
-      "listing_rows": 66,
-      "candidate_rows": 15,
+      "listing_rows": 71,
+      "candidate_rows": 17,
       "target_rows": 0,
-      "last_checked_at": "2026-08-19T04:50:06",
-      "last_candidate_at": "2026-08-17T04:57:45",
+      "last_checked_at": "2026-08-20T04:51:33",
+      "last_candidate_at": "2026-08-20T04:51:33",
       "last_target_at": null,
       "last_candidate_names": [
-        "コーシャハイム千石",
-        "新田"
+        "コーシャハイム光が丘第一",
+        "西台"
       ],
       "candidate_names_seen": [
         "コーシャハイム仲池上",
+        "コーシャハイム光が丘第一",
         "コーシャハイム千石",
         "コーシャハイム南葛西五丁目",
         "トミンタワー台場一番街",
@@ -2110,6 +2111,7 @@
         "堀江",
         "新田",
         "蓮根三丁目",
+        "西台",
         "豊島町"
       ],
       "candidate_seen": {
@@ -2265,6 +2267,34 @@
           "building_year_label": "竣工年月日 1975/08/30",
           "first_seen_at": "2026-08-17T04:57:45",
           "last_seen_at": "2026-08-17T04:57:45",
+          "seen_count": 1
+        },
+        "西台|板橋区|３ＤＫ|43.21|71,100|3,000": {
+          "name": "西台",
+          "area": "板橋区",
+          "layout": "３ＤＫ",
+          "floor_area_m2": "43.21",
+          "rent_yen": "71,100",
+          "common_fee_yen": "3,000",
+          "units": "1",
+          "building_year": 1972,
+          "building_year_label": "竣工年月日 1972/12/05",
+          "first_seen_at": "2026-08-20T04:51:33",
+          "last_seen_at": "2026-08-20T04:51:33",
+          "seen_count": 1
+        },
+        "コーシャハイム光が丘第一|練馬区|２ＬＤＫ|60.17|100,100|3,200": {
+          "name": "コーシャハイム光が丘第一",
+          "area": "練馬区",
+          "layout": "２ＬＤＫ",
+          "floor_area_m2": "60.17",
+          "rent_yen": "100,100",
+          "common_fee_yen": "3,200",
+          "units": "1",
+          "building_year": 1984,
+          "building_year_label": "竣工年月日 1984/03/01",
+          "first_seen_at": "2026-08-20T04:51:33",
+          "last_seen_at": "2026-08-20T04:51:33",
           "seen_count": 1
         }
       }

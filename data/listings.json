@@ -1568,16 +1568,16 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-14T08:27:09",
-    "last_seen_at": "2026-08-20T03:56:49",
+    "last_seen_at": "2026-08-20T04:51:33",
     "current_appearance_started_at": "2026-08-20T03:56:49",
     "disappeared_at": null,
-    "lifetime_minutes": 0.0,
+    "lifetime_minutes": 54.7,
     "appearance_count": 3,
-    "consecutive_seen_count": 1,
-    "total_seen_checks": 4,
+    "consecutive_seen_count": 2,
+    "total_seen_checks": 5,
     "current_status": "reappeared",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260820_035649",
+    "last_snapshot_id": "snapshot_20260820_045133",
     "appearances": [
       {
         "start": "2026-07-14T08:27:09",
@@ -9628,6 +9628,74 @@
       "建议手动登录确认",
       "高优先级",
       "高价"
+    ]
+  },
+  "jkk_3ce0f38fa65e5290": {
+    "stable_id": "jkk_3ce0f38fa65e5290",
+    "source": "JKK",
+    "official_id": "jkk::A1481:2080060:0002",
+    "building_name": "コーシャハイム光が丘第一",
+    "room_no": "",
+    "layout": "２ＬＤＫ",
+    "area": "60.17",
+    "rent": "100,100",
+    "common_fee": "3,200",
+    "detail_url": "https://jhomes.to-kousya.or.jp/search/jkknet/service/akiyaJyoukenStartInit",
+    "is_high_priority": false,
+    "source_label": "JKK",
+    "action_hint": "发现新房，请尽快手动登录官网确认。",
+    "raw": {
+      "name": "コーシャハイム光が丘第一",
+      "area": "練馬区",
+      "priority": "子育・高齢",
+      "housing_type": "一般賃貸住宅",
+      "layout": "２ＬＤＫ",
+      "floor_area_m2": "60.17",
+      "rent_yen": "100,100",
+      "common_fee_yen": "3,200",
+      "units": "1",
+      "detail_onclick": "javascript:senPage('','A1481','2080060','0002'); return false",
+      "detail_params": [
+        "",
+        "A1481",
+        "2080060",
+        "0002"
+      ],
+      "building_year": 1984,
+      "building_year_label": "竣工年月日 1984/03/01",
+      "detail_error": "",
+      "is_target": false,
+      "is_excluded": false,
+      "is_newer_building": false,
+      "stable_id": "",
+      "current_status": "",
+      "first_seen_at": "",
+      "last_seen_at": "",
+      "lifetime_minutes": 0.0,
+      "appearance_count": 0,
+      "quick_tags": null
+    },
+    "first_seen_at": "2026-08-20T04:51:33",
+    "last_seen_at": "2026-08-20T04:51:33",
+    "current_appearance_started_at": "2026-08-20T04:51:33",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260820_045133",
+    "appearances": [
+      {
+        "start": "2026-08-20T04:51:33",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "建议手动登录确认",
+      "大户型"
     ]
   }
 }

@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-08-20T03:56:49",
-  "jkk_total": 4,
+  "checked_at": "2026-08-20T04:51:33",
+  "jkk_total": 5,
   "ur_total_vacancies": 0,
   "new_events": 2,
   "slack_candidates": 0,
@@ -14,13 +14,13 @@
     {
       "stable_id": "jkk_b820e44af5e44d6a",
       "building_name": "西台",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
-      "stable_id": "ur_7fd29bf5ae2b9036",
-      "building_name": "豊島五丁目",
-      "event_type": "disappeared",
+      "stable_id": "jkk_3ce0f38fa65e5290",
+      "building_name": "コーシャハイム光が丘第一",
+      "event_type": "first_seen",
       "reason": "not_actionable"
     }
   ]
