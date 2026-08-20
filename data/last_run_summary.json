@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-08-20T04:51:33",
-  "jkk_total": 5,
+  "checked_at": "2026-08-20T05:45:02",
+  "jkk_total": 4,
   "ur_total_vacancies": 0,
   "new_events": 2,
   "slack_candidates": 0,
@@ -12,15 +12,15 @@
   "candidate_ids": [],
   "skipped": [
     {
-      "stable_id": "jkk_b820e44af5e44d6a",
-      "building_name": "西台",
+      "stable_id": "jkk_3ce0f38fa65e5290",
+      "building_name": "コーシャハイム光が丘第一",
       "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
-      "stable_id": "jkk_3ce0f38fa65e5290",
-      "building_name": "コーシャハイム光が丘第一",
-      "event_type": "first_seen",
+      "stable_id": "jkk_b820e44af5e44d6a",
+      "building_name": "西台",
+      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]

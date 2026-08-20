@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-20T04:51:36",
-  "total_checks": 252,
+  "updated_at": "2026-08-20T05:45:05",
+  "total_checks": 253,
   "buckets": {
     "09:00": {
       "checks": 30,
@@ -1107,23 +1107,17 @@
       }
     },
     "05:00": {
-      "checks": 17,
-      "candidate_checks": 9,
+      "checks": 18,
+      "candidate_checks": 10,
       "target_checks": 0,
-      "listing_rows": 69,
-      "candidate_rows": 18,
+      "listing_rows": 73,
+      "candidate_rows": 19,
       "target_rows": 0,
-      "last_checked_at": "2026-08-19T05:58:09",
-      "last_candidate_at": "2026-08-18T05:43:17",
+      "last_checked_at": "2026-08-20T05:45:02",
+      "last_candidate_at": "2026-08-20T05:45:02",
       "last_target_at": null,
       "last_candidate_names": [
-        "コーシャハイム中野弥生町",
-        "コーシャハイム光が丘第一",
-        "コーシャハイム北千住",
-        "コーシャハイム大森東",
-        "コーシャハイム清新",
-        "コーシャハイム経堂フォレスト",
-        "越中島"
+        "コーシャハイム光が丘第一"
       ],
       "candidate_names_seen": [
         "コーシャハイム中野弥生町",
@@ -1334,6 +1328,20 @@
           "building_year_label": "竣工年月日 1983/01/19",
           "first_seen_at": "2026-08-18T05:43:17",
           "last_seen_at": "2026-08-18T05:43:17",
+          "seen_count": 1
+        },
+        "コーシャハイム光が丘第一|練馬区|２ＬＤＫ|60.17|100,100|3,200": {
+          "name": "コーシャハイム光が丘第一",
+          "area": "練馬区",
+          "layout": "２ＬＤＫ",
+          "floor_area_m2": "60.17",
+          "rent_yen": "100,100",
+          "common_fee_yen": "3,200",
+          "units": "1",
+          "building_year": 1984,
+          "building_year_label": "竣工年月日 1984/03/01",
+          "first_seen_at": "2026-08-20T05:45:02",
+          "last_seen_at": "2026-08-20T05:45:02",
           "seen_count": 1
         }
       }
