@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-08-21T08:08:04",
-  "jkk_total": 5,
+  "checked_at": "2026-08-21T08:58:42",
+  "jkk_total": 4,
   "ur_total_vacancies": 1,
   "new_events": 3,
   "slack_candidates": 0,
@@ -12,21 +12,21 @@
   "candidate_ids": [],
   "skipped": [
     {
-      "stable_id": "jkk_6c5a18248f14e261",
-      "building_name": "コーシャハイム経堂フォレスト",
-      "event_type": "reappeared",
-      "reason": "not_actionable"
-    },
-    {
       "stable_id": "jkk_11b299dc755d8d82",
       "building_name": "春江町椿",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_1f3aaa7511958963",
       "building_name": "豊島五丁目",
       "event_type": "still_seen",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_6c5a18248f14e261",
+      "building_name": "コーシャハイム経堂フォレスト",
+      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]

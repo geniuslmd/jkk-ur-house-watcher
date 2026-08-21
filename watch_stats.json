@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-21T08:08:09",
-  "total_checks": 268,
+  "updated_at": "2026-08-21T08:58:45",
+  "total_checks": 269,
   "buckets": {
     "09:00": {
       "checks": 31,
@@ -1347,17 +1347,16 @@
       }
     },
     "08:00": {
-      "checks": 22,
-      "candidate_checks": 10,
+      "checks": 23,
+      "candidate_checks": 11,
       "target_checks": 0,
-      "listing_rows": 92,
-      "candidate_rows": 25,
+      "listing_rows": 96,
+      "candidate_rows": 26,
       "target_rows": 0,
-      "last_checked_at": "2026-08-21T08:08:04",
-      "last_candidate_at": "2026-08-21T08:08:04",
+      "last_checked_at": "2026-08-21T08:58:42",
+      "last_candidate_at": "2026-08-21T08:58:42",
       "last_target_at": null,
       "last_candidate_names": [
-        "コーシャハイム経堂フォレスト",
         "春江町椿"
       ],
       "candidate_names_seen": [
@@ -1701,8 +1700,8 @@
           "building_year": 1976,
           "building_year_label": "竣工年月日 1976/10/31",
           "first_seen_at": "2026-08-21T08:08:04",
-          "last_seen_at": "2026-08-21T08:08:04",
-          "seen_count": 1
+          "last_seen_at": "2026-08-21T08:58:42",
+          "seen_count": 2
         }
       }
     },
