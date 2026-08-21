@@ -22898,5 +22898,25 @@
     "is_high_priority": false,
     "created_at": "2026-08-21T01:56:06",
     "snapshot_id": "snapshot_20260821_015606"
+  },
+  {
+    "event_id": "771fd65351072146c9f6",
+    "event_type": "stable",
+    "stable_id": "ur_4e93a9e2359fa11c",
+    "source": "UR",
+    "building_name": "豊島五丁目",
+    "room_no": "1号棟 635号室",
+    "layout": "2DK",
+    "area": "48m2",
+    "rent": "92,400円",
+    "common_fee": "3,300円",
+    "current_status": "stable",
+    "first_seen_at": "2026-08-21T01:47:19",
+    "last_seen_at": "2026-08-21T03:14:33",
+    "lifetime_minutes": 87.2,
+    "appearance_count": 1,
+    "is_high_priority": false,
+    "created_at": "2026-08-21T03:14:33",
+    "snapshot_id": "snapshot_20260821_031433"
   }
 ]
