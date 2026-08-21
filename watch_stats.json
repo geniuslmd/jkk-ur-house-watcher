@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-21T04:53:26",
-  "total_checks": 264,
+  "updated_at": "2026-08-21T05:46:36",
+  "total_checks": 265,
   "buckets": {
     "09:00": {
       "checks": 31,
@@ -1107,13 +1107,13 @@
       }
     },
     "05:00": {
-      "checks": 18,
+      "checks": 19,
       "candidate_checks": 10,
       "target_checks": 0,
-      "listing_rows": 73,
+      "listing_rows": 76,
       "candidate_rows": 19,
       "target_rows": 0,
-      "last_checked_at": "2026-08-20T05:45:02",
+      "last_checked_at": "2026-08-21T05:46:34",
       "last_candidate_at": "2026-08-20T05:45:02",
       "last_target_at": null,
       "last_candidate_names": [

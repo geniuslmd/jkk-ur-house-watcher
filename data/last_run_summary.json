@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-08-21T04:53:24",
+  "checked_at": "2026-08-21T05:46:34",
   "jkk_total": 3,
   "ur_total_vacancies": 1,
-  "new_events": 1,
+  "new_events": 2,
   "slack_candidates": 0,
-  "slack_skipped": 1,
+  "slack_skipped": 2,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -12,9 +12,15 @@
   "candidate_ids": [],
   "skipped": [
     {
+      "stable_id": "ur_1f3aaa7511958963",
+      "building_name": "豊島五丁目",
+      "event_type": "reappeared",
+      "reason": "not_actionable"
+    },
+    {
       "stable_id": "ur_4e93a9e2359fa11c",
       "building_name": "豊島五丁目",
-      "event_type": "still_seen",
+      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]
