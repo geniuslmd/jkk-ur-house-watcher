@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-21T07:25:19",
-  "total_checks": 267,
+  "updated_at": "2026-08-21T08:08:09",
+  "total_checks": 268,
   "buckets": {
     "09:00": {
       "checks": 31,
@@ -1347,17 +1347,18 @@
       }
     },
     "08:00": {
-      "checks": 21,
-      "candidate_checks": 9,
+      "checks": 22,
+      "candidate_checks": 10,
       "target_checks": 0,
-      "listing_rows": 87,
-      "candidate_rows": 23,
+      "listing_rows": 92,
+      "candidate_rows": 25,
       "target_rows": 0,
-      "last_checked_at": "2026-08-20T08:54:53",
-      "last_candidate_at": "2026-08-17T08:24:32",
+      "last_checked_at": "2026-08-21T08:08:04",
+      "last_candidate_at": "2026-08-21T08:08:04",
       "last_target_at": null,
       "last_candidate_names": [
-        "トミンハイム宮坂二丁目"
+        "コーシャハイム経堂フォレスト",
+        "春江町椿"
       ],
       "candidate_names_seen": [
         "カーメスト興野町",
@@ -1366,6 +1367,7 @@
         "コーシャハイム大森東",
         "コーシャハイム太子堂",
         "コーシャハイム小竹町",
+        "コーシャハイム経堂フォレスト",
         "コーシャハイム緑四丁目",
         "トミンタワー台場一番街",
         "トミンハイム宮坂二丁目",
@@ -1672,6 +1674,34 @@
           "building_year_label": "竣工年月日 1999/04/26",
           "first_seen_at": "2026-08-17T08:24:32",
           "last_seen_at": "2026-08-17T08:24:32",
+          "seen_count": 1
+        },
+        "コーシャハイム経堂フォレスト|世田谷区|１ＤＫ|39.87|121,000|6,200": {
+          "name": "コーシャハイム経堂フォレスト",
+          "area": "世田谷区",
+          "layout": "１ＤＫ",
+          "floor_area_m2": "39.87",
+          "rent_yen": "121,000",
+          "common_fee_yen": "6,200",
+          "units": "1",
+          "building_year": 2020,
+          "building_year_label": "竣工年月日 2020/10/30",
+          "first_seen_at": "2026-08-21T08:08:04",
+          "last_seen_at": "2026-08-21T08:08:04",
+          "seen_count": 1
+        },
+        "春江町椿|江戸川区|２ＤＫ|43.35|68,600|3,200": {
+          "name": "春江町椿",
+          "area": "江戸川区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "43.35",
+          "rent_yen": "68,600",
+          "common_fee_yen": "3,200",
+          "units": "1",
+          "building_year": 1976,
+          "building_year_label": "竣工年月日 1976/10/31",
+          "first_seen_at": "2026-08-21T08:08:04",
+          "last_seen_at": "2026-08-21T08:08:04",
           "seen_count": 1
         }
       }
