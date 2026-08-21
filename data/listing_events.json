@@ -23018,5 +23018,25 @@
     "is_high_priority": false,
     "created_at": "2026-08-21T06:20:35",
     "snapshot_id": "snapshot_20260821_062035"
+  },
+  {
+    "event_id": "e05ca6b4bd7b13c0e13a",
+    "event_type": "stable",
+    "stable_id": "ur_1f3aaa7511958963",
+    "source": "UR",
+    "building_name": "豊島五丁目",
+    "room_no": "1号棟 402号室",
+    "layout": "1LDK",
+    "area": "48m2",
+    "rent": "91,900円",
+    "common_fee": "3,300円",
+    "current_status": "stable",
+    "first_seen_at": "2026-08-11T02:14:29",
+    "last_seen_at": "2026-08-21T07:25:16",
+    "lifetime_minutes": 98.7,
+    "appearance_count": 2,
+    "is_high_priority": false,
+    "created_at": "2026-08-21T07:25:16",
+    "snapshot_id": "snapshot_20260821_072516"
   }
 ]
