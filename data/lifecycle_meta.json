@@ -1,9 +1,9 @@
 {
-  "boost_until": "2026-08-22T04:29:04",
+  "boost_until": "2026-08-22T06:00:22",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "UR:フレーシェル王子神谷"
+    "UR:神谷堀公園ハイツ"
   ],
-  "last_ur_total_vacancies": 3,
-  "updated_at": "2026-08-22T04:50:53"
+  "last_ur_total_vacancies": 2,
+  "updated_at": "2026-08-22T05:40:22"
 }
