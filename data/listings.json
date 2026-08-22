@@ -1239,14 +1239,14 @@
     "first_seen_at": "2026-07-13T10:42:51",
     "last_seen_at": "2026-08-21T09:50:49",
     "current_appearance_started_at": "2026-08-21T08:08:04",
-    "disappeared_at": null,
-    "lifetime_minutes": 102.8,
+    "disappeared_at": "2026-08-22T01:40:09",
+    "lifetime_minutes": 1052.1,
     "appearance_count": 3,
-    "consecutive_seen_count": 3,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 6,
-    "current_status": "stable",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260821_095049",
+    "current_status": "disappeared",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260822_014009",
     "appearances": [
       {
         "start": "2026-07-13T10:42:51",
@@ -1262,8 +1262,9 @@
       },
       {
         "start": "2026-08-21T08:08:04",
-        "end": null,
-        "status": "active"
+        "end": "2026-08-22T01:40:09",
+        "status": "disappeared",
+        "lifetime_minutes": 1052.1
       }
     ],
     "quick_tags": [
@@ -8244,14 +8245,14 @@
     "first_seen_at": "2026-08-11T02:14:29",
     "last_seen_at": "2026-08-21T09:50:49",
     "current_appearance_started_at": "2026-08-21T05:46:34",
-    "disappeared_at": null,
-    "lifetime_minutes": 244.2,
+    "disappeared_at": "2026-08-22T01:40:09",
+    "lifetime_minutes": 1193.6,
     "appearance_count": 2,
-    "consecutive_seen_count": 6,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 25,
-    "current_status": "stable",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260821_095049",
+    "current_status": "disappeared",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260822_014009",
     "appearances": [
       {
         "start": "2026-08-11T02:14:29",
@@ -8261,8 +8262,9 @@
       },
       {
         "start": "2026-08-21T05:46:34",
-        "end": null,
-        "status": "active"
+        "end": "2026-08-22T01:40:09",
+        "status": "disappeared",
+        "lifetime_minutes": 1193.6
       }
     ],
     "quick_tags": [
@@ -9786,6 +9788,263 @@
     "quick_tags": [
       "参考向",
       "低价"
+    ]
+  },
+  "ur_d7be482c10a23d4b": {
+    "stable_id": "ur_d7be482c10a23d4b",
+    "source": "UR",
+    "official_id": "ur:20:308:0:https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3080_room.html?JKSS=000020515",
+    "building_name": "赤羽南一丁目",
+    "room_no": "2号棟 515号室",
+    "layout": "1LDK",
+    "area": "54m2",
+    "rent": "124,400円",
+    "common_fee": "2,800円",
+    "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3080_room.html?JKSS=000020515",
+    "is_high_priority": false,
+    "source_label": "UR",
+    "action_hint": "发现参考房源，请关注户型/价格/楼层；如需行动，请电话或线下确认。",
+    "raw": {
+      "listing": {
+        "name": "赤羽南一丁目",
+        "place": "北区赤羽南1-16",
+        "traffic": "JR埼京線「赤羽」駅 徒歩6～7分 東京メトロ南北線「志茂」駅 徒歩9～10分",
+        "room_count": 1,
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3080.html",
+        "shisya": "20",
+        "danchi": "308",
+        "shikibetu": "0",
+        "is_target": false,
+        "rooms": [
+          {
+            "building": "2号棟",
+            "room_no": "515号室",
+            "layout": "1LDK",
+            "floor_area_m2": "54m2",
+            "floor": "5階",
+            "rent_yen": "124,400円",
+            "common_fee_yen": "2,800円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3080_room.html?JKSS=000020515",
+            "stable_id": "",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          }
+        ]
+      },
+      "room": {
+        "building": "2号棟",
+        "room_no": "515号室",
+        "layout": "1LDK",
+        "floor_area_m2": "54m2",
+        "floor": "5階",
+        "rent_yen": "124,400円",
+        "common_fee_yen": "2,800円",
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3080_room.html?JKSS=000020515",
+        "stable_id": "",
+        "current_status": "",
+        "first_seen_at": "",
+        "last_seen_at": "",
+        "lifetime_minutes": 0.0,
+        "appearance_count": 0,
+        "quick_tags": null
+      }
+    },
+    "first_seen_at": "2026-08-22T01:40:09",
+    "last_seen_at": "2026-08-22T01:40:09",
+    "current_appearance_started_at": "2026-08-22T01:40:09",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260822_014009",
+    "appearances": [
+      {
+        "start": "2026-08-22T01:40:09",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "参考向"
+    ]
+  },
+  "ur_dfd0c0fb14420e9e": {
+    "stable_id": "ur_dfd0c0fb14420e9e",
+    "source": "UR",
+    "official_id": "ur:20:420:0:https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4200_room.html?JKSS=103030808",
+    "building_name": "神谷堀公園ハイツ",
+    "room_no": "1-3-3号棟 808号室",
+    "layout": "3DK",
+    "area": "67m2",
+    "rent": "147,000円",
+    "common_fee": "3,500円",
+    "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4200_room.html?JKSS=103030808",
+    "is_high_priority": false,
+    "source_label": "UR",
+    "action_hint": "发现参考房源，请关注户型/价格/楼层；如需行动，请电话或线下确认。",
+    "raw": {
+      "listing": {
+        "name": "神谷堀公園ハイツ",
+        "place": "北区神谷1-3",
+        "traffic": "東京メトロ南北線「王子神谷」駅 徒歩5～6分 JR京浜東北・根岸線「東十条」駅 徒歩12～14分",
+        "room_count": 1,
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4200.html",
+        "shisya": "20",
+        "danchi": "420",
+        "shikibetu": "0",
+        "is_target": false,
+        "rooms": [
+          {
+            "building": "1-3-3号棟",
+            "room_no": "808号室",
+            "layout": "3DK",
+            "floor_area_m2": "67m2",
+            "floor": "8階",
+            "rent_yen": "147,000円",
+            "common_fee_yen": "3,500円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4200_room.html?JKSS=103030808",
+            "stable_id": "",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          }
+        ]
+      },
+      "room": {
+        "building": "1-3-3号棟",
+        "room_no": "808号室",
+        "layout": "3DK",
+        "floor_area_m2": "67m2",
+        "floor": "8階",
+        "rent_yen": "147,000円",
+        "common_fee_yen": "3,500円",
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4200_room.html?JKSS=103030808",
+        "stable_id": "",
+        "current_status": "",
+        "first_seen_at": "",
+        "last_seen_at": "",
+        "lifetime_minutes": 0.0,
+        "appearance_count": 0,
+        "quick_tags": null
+      }
+    },
+    "first_seen_at": "2026-08-22T01:40:09",
+    "last_seen_at": "2026-08-22T01:40:09",
+    "current_appearance_started_at": "2026-08-22T01:40:09",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260822_014009",
+    "appearances": [
+      {
+        "start": "2026-08-22T01:40:09",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "参考向",
+      "大户型"
+    ]
+  },
+  "ur_42334da42c29647e": {
+    "stable_id": "ur_42334da42c29647e",
+    "source": "UR",
+    "official_id": "ur:20:694:0:https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6940_room.html?JKSS=000020101",
+    "building_name": "ヌーヴェル赤羽台",
+    "room_no": "2号棟 101号室",
+    "layout": "1K",
+    "area": "52m2",
+    "rent": "145,500円",
+    "common_fee": "4,200円",
+    "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6940_room.html?JKSS=000020101",
+    "is_high_priority": true,
+    "source_label": "UR",
+    "action_hint": "发现参考房源，请关注户型/价格/楼层；如需行动，请电话或线下确认。",
+    "raw": {
+      "listing": {
+        "name": "ヌーヴェル赤羽台",
+        "place": "北区赤羽台2-3ほか",
+        "traffic": "JR埼京線「赤羽」駅 徒歩6～11分 東京メトロ南北線「赤羽岩淵」駅 徒歩11～17分 JR京浜東北・根岸線「赤羽」駅 徒歩6～11分",
+        "room_count": 1,
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6940.html",
+        "shisya": "20",
+        "danchi": "694",
+        "shikibetu": "0",
+        "is_target": true,
+        "rooms": [
+          {
+            "building": "2号棟",
+            "room_no": "101号室",
+            "layout": "1K",
+            "floor_area_m2": "52m2",
+            "floor": "1階",
+            "rent_yen": "145,500円",
+            "common_fee_yen": "4,200円",
+            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6940_room.html?JKSS=000020101",
+            "stable_id": "",
+            "current_status": "",
+            "first_seen_at": "",
+            "last_seen_at": "",
+            "lifetime_minutes": 0.0,
+            "appearance_count": 0,
+            "quick_tags": null
+          }
+        ]
+      },
+      "room": {
+        "building": "2号棟",
+        "room_no": "101号室",
+        "layout": "1K",
+        "floor_area_m2": "52m2",
+        "floor": "1階",
+        "rent_yen": "145,500円",
+        "common_fee_yen": "4,200円",
+        "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6940_room.html?JKSS=000020101",
+        "stable_id": "",
+        "current_status": "",
+        "first_seen_at": "",
+        "last_seen_at": "",
+        "lifetime_minutes": 0.0,
+        "appearance_count": 0,
+        "quick_tags": null
+      }
+    },
+    "first_seen_at": "2026-08-22T01:40:09",
+    "last_seen_at": "2026-08-22T01:40:09",
+    "current_appearance_started_at": "2026-08-22T01:40:09",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 1,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 1,
+    "current_status": "new",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260822_014009",
+    "appearances": [
+      {
+        "start": "2026-08-22T01:40:09",
+        "end": null,
+        "status": "active"
+      }
+    ],
+    "quick_tags": [
+      "参考向",
+      "高优先级"
     ]
   }
 }

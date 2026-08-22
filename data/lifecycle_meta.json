@@ -1,10 +1,12 @@
 {
-  "boost_until": "2026-08-21T08:28:04",
+  "boost_until": "2026-08-22T02:00:09",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "JKK:コーシャハイム経堂フォレスト",
-    "JKK:春江町椿"
+    "UR:ヌーヴェル赤羽台",
+    "UR:北区总空室上升",
+    "UR:神谷堀公園ハイツ",
+    "UR:赤羽南一丁目"
   ],
-  "last_ur_total_vacancies": 1,
-  "updated_at": "2026-08-21T09:50:49"
+  "last_ur_total_vacancies": 3,
+  "updated_at": "2026-08-22T01:40:09"
 }
