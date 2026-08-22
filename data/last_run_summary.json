@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-08-22T08:52:10",
+  "checked_at": "2026-08-22T09:39:55",
   "jkk_total": 5,
   "ur_total_vacancies": 1,
-  "new_events": 4,
+  "new_events": 3,
   "slack_candidates": 0,
-  "slack_skipped": 4,
+  "slack_skipped": 3,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -14,25 +14,19 @@
     {
       "stable_id": "jkk_f59b2b32671d80a0",
       "building_name": "トミンタワー台場一番街",
-      "event_type": "stable",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "jkk_1b93173fd3281e83",
       "building_name": "コーシャハイム光が丘第一",
-      "event_type": "stable",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_dfd0c0fb14420e9e",
       "building_name": "神谷堀公園ハイツ",
       "event_type": "still_seen",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_20c56dcf00affa12",
-      "building_name": "蓮根三丁目",
-      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]
