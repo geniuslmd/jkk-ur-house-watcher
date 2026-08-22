@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-22T06:14:57",
+  "checked_at": "2026-08-22T07:05:26",
   "jkk_total": 3,
   "ur_total_vacancies": 2,
   "new_events": 2,
@@ -14,7 +14,7 @@
     {
       "stable_id": "ur_dfd0c0fb14420e9e",
       "building_name": "神谷堀公園ハイツ",
-      "event_type": "still_seen",
+      "event_type": "stable",
       "reason": "not_actionable"
     },
     {
