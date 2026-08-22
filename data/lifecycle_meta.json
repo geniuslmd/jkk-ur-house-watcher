@@ -1,9 +1,13 @@
 {
-  "boost_until": "2026-08-22T06:00:22",
+  "boost_until": "2026-08-22T08:04:32",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "UR:神谷堀公園ハイツ"
+    "JKK:コーシャハイム光が丘第一",
+    "JKK:コーシャハイム光が丘第二",
+    "JKK:コーシャハイム小松川一丁目",
+    "JKK:トミンタワー台場一番街",
+    "JKK:蓮根三丁目"
   ],
-  "last_ur_total_vacancies": 2,
-  "updated_at": "2026-08-22T07:05:26"
+  "last_ur_total_vacancies": 1,
+  "updated_at": "2026-08-22T07:44:32"
 }
