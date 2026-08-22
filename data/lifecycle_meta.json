@@ -1,12 +1,9 @@
 {
-  "boost_until": "2026-08-22T02:00:09",
+  "boost_until": "2026-08-22T04:29:04",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "UR:ヌーヴェル赤羽台",
-    "UR:北区总空室上升",
-    "UR:神谷堀公園ハイツ",
-    "UR:赤羽南一丁目"
+    "UR:フレーシェル王子神谷"
   ],
   "last_ur_total_vacancies": 3,
-  "updated_at": "2026-08-22T03:29:39"
+  "updated_at": "2026-08-22T04:09:04"
 }
