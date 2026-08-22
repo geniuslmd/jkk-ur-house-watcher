@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-08-22T07:44:32",
-  "jkk_total": 8,
+  "checked_at": "2026-08-22T08:12:24",
+  "jkk_total": 6,
   "ur_total_vacancies": 1,
-  "new_events": 7,
+  "new_events": 6,
   "slack_candidates": 0,
-  "slack_skipped": 7,
+  "slack_skipped": 6,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -14,31 +14,19 @@
     {
       "stable_id": "jkk_f59b2b32671d80a0",
       "building_name": "トミンタワー台場一番街",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "jkk_20c56dcf00affa12",
       "building_name": "蓮根三丁目",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "jkk_1b93173fd3281e83",
       "building_name": "コーシャハイム光が丘第一",
-      "event_type": "reappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_d57ad729fc64ca15",
-      "building_name": "コーシャハイム光が丘第二",
-      "event_type": "reappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_5c71dbfb7a5e9c0e",
-      "building_name": "コーシャハイム小松川一丁目",
-      "event_type": "first_seen",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
@@ -48,8 +36,14 @@
       "reason": "not_actionable"
     },
     {
-      "stable_id": "ur_632f23f76db15621",
-      "building_name": "フレーシェル王子神谷",
+      "stable_id": "jkk_d57ad729fc64ca15",
+      "building_name": "コーシャハイム光が丘第二",
+      "event_type": "disappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_5c71dbfb7a5e9c0e",
+      "building_name": "コーシャハイム小松川一丁目",
       "event_type": "disappeared",
       "reason": "not_actionable"
     }
