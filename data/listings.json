@@ -5904,16 +5904,16 @@
       }
     },
     "first_seen_at": "2026-07-28T03:21:10",
-    "last_seen_at": "2026-08-22T05:40:22",
+    "last_seen_at": "2026-08-22T06:14:57",
     "current_appearance_started_at": "2026-08-22T04:09:04",
     "disappeared_at": null,
-    "lifetime_minutes": 91.3,
+    "lifetime_minutes": 125.9,
     "appearance_count": 6,
-    "consecutive_seen_count": 3,
-    "total_seen_checks": 48,
+    "consecutive_seen_count": 4,
+    "total_seen_checks": 49,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260822_054022",
+    "last_snapshot_id": "snapshot_20260822_061457",
     "appearances": [
       {
         "start": "2026-07-28T03:21:10",
@@ -9945,16 +9945,16 @@
       }
     },
     "first_seen_at": "2026-08-22T01:40:09",
-    "last_seen_at": "2026-08-22T05:40:22",
+    "last_seen_at": "2026-08-22T06:14:57",
     "current_appearance_started_at": "2026-08-22T05:40:22",
     "disappeared_at": null,
-    "lifetime_minutes": 0.0,
+    "lifetime_minutes": 34.6,
     "appearance_count": 2,
-    "consecutive_seen_count": 1,
-    "total_seen_checks": 5,
+    "consecutive_seen_count": 2,
+    "total_seen_checks": 6,
     "current_status": "reappeared",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260822_054022",
+    "last_snapshot_id": "snapshot_20260822_061457",
     "appearances": [
       {
         "start": "2026-08-22T01:40:09",

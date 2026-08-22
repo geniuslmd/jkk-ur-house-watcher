@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-08-22T05:40:22",
+  "checked_at": "2026-08-22T06:14:57",
   "jkk_total": 3,
   "ur_total_vacancies": 2,
-  "new_events": 4,
+  "new_events": 2,
   "slack_candidates": 0,
-  "slack_skipped": 4,
+  "slack_skipped": 2,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -14,25 +14,13 @@
     {
       "stable_id": "ur_dfd0c0fb14420e9e",
       "building_name": "神谷堀公園ハイツ",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "ur_632f23f76db15621",
       "building_name": "フレーシェル王子神谷",
-      "event_type": "stable",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_d7be482c10a23d4b",
-      "building_name": "赤羽南一丁目",
-      "event_type": "disappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_42334da42c29647e",
-      "building_name": "ヌーヴェル赤羽台",
-      "event_type": "disappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     }
   ]
