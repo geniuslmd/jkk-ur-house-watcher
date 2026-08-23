@@ -9159,30 +9159,13 @@
         "name": "豊島五丁目",
         "place": "北区豊島5-4ほか",
         "traffic": "JR京浜東北・根岸線「王子」駅バス7分 徒歩2～6分 東京メトロ南北線「王子」駅バス7分 徒歩2～6分",
-        "room_count": 2,
+        "room_count": 1,
         "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320.html",
         "shisya": "20",
         "danchi": "232",
         "shikibetu": "0",
         "is_target": false,
         "rooms": [
-          {
-            "building": "10号棟",
-            "room_no": "417号室",
-            "layout": "2DK",
-            "floor_area_m2": "49m2",
-            "floor": "4階",
-            "rent_yen": "86,800円",
-            "common_fee_yen": "3,300円",
-            "detail_url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000100417",
-            "stable_id": "ur_7fd29bf5ae2b9036",
-            "current_status": "",
-            "first_seen_at": "",
-            "last_seen_at": "",
-            "lifetime_minutes": 0.0,
-            "appearance_count": 0,
-            "quick_tags": null
-          },
           {
             "building": "11号棟",
             "room_no": "510号室",
@@ -9221,27 +9204,33 @@
       }
     },
     "first_seen_at": "2026-08-15T04:05:30",
-    "last_seen_at": "2026-08-15T05:12:19",
-    "current_appearance_started_at": "2026-08-15T04:05:30",
-    "disappeared_at": "2026-08-15T05:45:44",
-    "lifetime_minutes": 100.2,
-    "appearance_count": 1,
-    "consecutive_seen_count": 0,
-    "total_seen_checks": 3,
-    "current_status": "disappeared",
-    "is_present": false,
-    "last_snapshot_id": "snapshot_20260815_054544",
+    "last_seen_at": "2026-08-23T04:05:47",
+    "current_appearance_started_at": "2026-08-23T04:05:47",
+    "disappeared_at": null,
+    "lifetime_minutes": 0.0,
+    "appearance_count": 2,
+    "consecutive_seen_count": 1,
+    "total_seen_checks": 4,
+    "current_status": "reappeared",
+    "is_present": true,
+    "last_snapshot_id": "snapshot_20260823_040547",
     "appearances": [
       {
         "start": "2026-08-15T04:05:30",
         "end": "2026-08-15T05:45:44",
         "status": "disappeared",
         "lifetime_minutes": 100.2
+      },
+      {
+        "start": "2026-08-23T04:05:47",
+        "end": null,
+        "status": "active"
       }
     ],
     "quick_tags": [
       "参考向",
-      "低价"
+      "低价",
+      "重复出现"
     ]
   },
   "jkk_849c3e8e46ee2395": {
@@ -9973,14 +9962,14 @@
     "first_seen_at": "2026-08-22T01:40:09",
     "last_seen_at": "2026-08-23T03:13:58",
     "current_appearance_started_at": "2026-08-22T05:40:22",
-    "disappeared_at": null,
-    "lifetime_minutes": 1293.6,
+    "disappeared_at": "2026-08-23T04:05:47",
+    "lifetime_minutes": 1345.4,
     "appearance_count": 2,
-    "consecutive_seen_count": 11,
+    "consecutive_seen_count": 0,
     "total_seen_checks": 15,
-    "current_status": "stable",
-    "is_present": true,
-    "last_snapshot_id": "snapshot_20260823_031358",
+    "current_status": "disappeared",
+    "is_present": false,
+    "last_snapshot_id": "snapshot_20260823_040547",
     "appearances": [
       {
         "start": "2026-08-22T01:40:09",
@@ -9990,8 +9979,9 @@
       },
       {
         "start": "2026-08-22T05:40:22",
-        "end": null,
-        "status": "active"
+        "end": "2026-08-23T04:05:47",
+        "status": "disappeared",
+        "lifetime_minutes": 1345.4
       }
     ],
     "quick_tags": [
