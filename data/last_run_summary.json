@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-08-23T04:05:47",
+  "checked_at": "2026-08-23T04:50:48",
   "jkk_total": 3,
   "ur_total_vacancies": 1,
-  "new_events": 2,
+  "new_events": 1,
   "slack_candidates": 0,
-  "slack_skipped": 2,
+  "slack_skipped": 1,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -14,13 +14,7 @@
     {
       "stable_id": "ur_a5f8c53659687832",
       "building_name": "豊島五丁目",
-      "event_type": "reappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "ur_dfd0c0fb14420e9e",
-      "building_name": "神谷堀公園ハイツ",
-      "event_type": "disappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     }
   ]
