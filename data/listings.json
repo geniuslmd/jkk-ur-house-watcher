@@ -9204,16 +9204,16 @@
       }
     },
     "first_seen_at": "2026-08-15T04:05:30",
-    "last_seen_at": "2026-08-23T06:16:35",
+    "last_seen_at": "2026-08-23T07:07:31",
     "current_appearance_started_at": "2026-08-23T04:05:47",
     "disappeared_at": null,
-    "lifetime_minutes": 130.8,
+    "lifetime_minutes": 181.7,
     "appearance_count": 2,
-    "consecutive_seen_count": 4,
-    "total_seen_checks": 7,
+    "consecutive_seen_count": 5,
+    "total_seen_checks": 8,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260823_061635",
+    "last_snapshot_id": "snapshot_20260823_070731",
     "appearances": [
       {
         "start": "2026-08-15T04:05:30",

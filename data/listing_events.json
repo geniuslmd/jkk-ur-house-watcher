@@ -24438,5 +24438,25 @@
     "is_high_priority": false,
     "created_at": "2026-08-23T06:16:35",
     "snapshot_id": "snapshot_20260823_061635"
+  },
+  {
+    "event_id": "954ef0a3058e278d0a3b",
+    "event_type": "still_seen",
+    "stable_id": "ur_a5f8c53659687832",
+    "source": "UR",
+    "building_name": "豊島五丁目",
+    "room_no": "11号棟 510号室",
+    "layout": "2DK",
+    "area": "49m2",
+    "rent": "85,500円",
+    "common_fee": "3,300円",
+    "current_status": "stable",
+    "first_seen_at": "2026-08-15T04:05:30",
+    "last_seen_at": "2026-08-23T07:07:31",
+    "lifetime_minutes": 181.7,
+    "appearance_count": 2,
+    "is_high_priority": false,
+    "created_at": "2026-08-23T07:07:31",
+    "snapshot_id": "snapshot_20260823_070731"
   }
 ]
