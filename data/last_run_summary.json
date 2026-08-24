@@ -1,14 +1,45 @@
 {
-  "checked_at": "2026-08-24T04:10:47",
-  "jkk_total": 3,
+  "checked_at": "2026-08-24T05:06:01",
+  "jkk_total": 8,
   "ur_total_vacancies": 0,
-  "new_events": 0,
+  "new_events": 5,
   "slack_candidates": 0,
-  "slack_skipped": 0,
+  "slack_skipped": 5,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
   "dry_run_slack": false,
   "candidate_ids": [],
-  "skipped": []
+  "skipped": [
+    {
+      "stable_id": "jkk_b820e44af5e44d6a",
+      "building_name": "西台",
+      "event_type": "reappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_20c56dcf00affa12",
+      "building_name": "蓮根三丁目",
+      "event_type": "reappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_012809924aff6627",
+      "building_name": "宇喜田第二",
+      "event_type": "reappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_11774355eaa41ec4",
+      "building_name": "堀江",
+      "event_type": "reappeared",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_2af168f761e61020",
+      "building_name": "コーシャハイム南葛西五丁目",
+      "event_type": "reappeared",
+      "reason": "not_actionable"
+    }
+  ]
 }

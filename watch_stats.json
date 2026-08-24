@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-24T04:10:48",
-  "total_checks": 301,
+  "updated_at": "2026-08-24T05:06:09",
+  "total_checks": 302,
   "buckets": {
     "09:00": {
       "checks": 34,
@@ -1201,17 +1201,21 @@
       }
     },
     "05:00": {
-      "checks": 21,
-      "candidate_checks": 10,
+      "checks": 22,
+      "candidate_checks": 11,
       "target_checks": 0,
-      "listing_rows": 82,
-      "candidate_rows": 19,
+      "listing_rows": 90,
+      "candidate_rows": 24,
       "target_rows": 0,
-      "last_checked_at": "2026-08-23T05:43:02",
-      "last_candidate_at": "2026-08-20T05:45:02",
+      "last_checked_at": "2026-08-24T05:06:01",
+      "last_candidate_at": "2026-08-24T05:06:01",
       "last_target_at": null,
       "last_candidate_names": [
-        "コーシャハイム光が丘第一"
+        "コーシャハイム南葛西五丁目",
+        "堀江",
+        "宇喜田第二",
+        "蓮根三丁目",
+        "西台"
       ],
       "candidate_names_seen": [
         "コーシャハイム中野弥生町",
@@ -1224,7 +1228,10 @@
         "コーシャハイム経堂フォレスト",
         "トミンタワー台場一番街",
         "堀江",
+        "宇喜田第二",
         "新田",
+        "蓮根三丁目",
+        "西台",
         "越中島"
       ],
       "candidate_seen": {
@@ -1281,8 +1288,8 @@
           "building_year": 1986,
           "building_year_label": "竣工年月日 1986/03/25",
           "first_seen_at": "2026-08-10T05:51:21",
-          "last_seen_at": "2026-08-10T05:51:21",
-          "seen_count": 1
+          "last_seen_at": "2026-08-24T05:06:01",
+          "seen_count": 2
         },
         "堀江|江戸川区|２ＤＫ|43.0|69,600|4,200": {
           "name": "堀江",
@@ -1295,8 +1302,8 @@
           "building_year": 1975,
           "building_year_label": "竣工年月日 1975/10/31",
           "first_seen_at": "2026-08-15T05:12:19",
-          "last_seen_at": "2026-08-15T05:45:44",
-          "seen_count": 2
+          "last_seen_at": "2026-08-24T05:06:01",
+          "seen_count": 3
         },
         "コーシャハイム南葛西五丁目|江戸川区|３ＤＫ|60.47|90,500|3,100": {
           "name": "コーシャハイム南葛西五丁目",
@@ -1436,6 +1443,48 @@
           "building_year_label": "竣工年月日 1984/03/01",
           "first_seen_at": "2026-08-20T05:45:02",
           "last_seen_at": "2026-08-20T05:45:02",
+          "seen_count": 1
+        },
+        "西台|板橋区|３ＤＫ|43.21|71,100|3,000": {
+          "name": "西台",
+          "area": "板橋区",
+          "layout": "３ＤＫ",
+          "floor_area_m2": "43.21",
+          "rent_yen": "71,100",
+          "common_fee_yen": "3,000",
+          "units": "1",
+          "building_year": 1972,
+          "building_year_label": "竣工年月日 1972/12/05",
+          "first_seen_at": "2026-08-24T05:06:01",
+          "last_seen_at": "2026-08-24T05:06:01",
+          "seen_count": 1
+        },
+        "蓮根三丁目|板橋区|３ＤＫ|50.44|82,700|3,900": {
+          "name": "蓮根三丁目",
+          "area": "板橋区",
+          "layout": "３ＤＫ",
+          "floor_area_m2": "50.44",
+          "rent_yen": "82,700",
+          "common_fee_yen": "3,900",
+          "units": "1",
+          "building_year": 1978,
+          "building_year_label": "竣工年月日 1978/08/05",
+          "first_seen_at": "2026-08-24T05:06:01",
+          "last_seen_at": "2026-08-24T05:06:01",
+          "seen_count": 1
+        },
+        "宇喜田第二|江戸川区|２ＤＫ|42.83|72,500|3,100": {
+          "name": "宇喜田第二",
+          "area": "江戸川区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "42.83",
+          "rent_yen": "72,500",
+          "common_fee_yen": "3,100",
+          "units": "1",
+          "building_year": 1973,
+          "building_year_label": "竣工年月日 1973/12/01",
+          "first_seen_at": "2026-08-24T05:06:01",
+          "last_seen_at": "2026-08-24T05:06:01",
           "seen_count": 1
         }
       }
