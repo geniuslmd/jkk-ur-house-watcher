@@ -1,13 +1,10 @@
 {
-  "boost_until": "2026-08-24T05:26:01",
+  "boost_until": "2026-08-24T06:12:29",
   "boost_reason": "new_or_increased_vacancy",
   "boost_scopes": [
-    "JKK:コーシャハイム南葛西五丁目",
-    "JKK:堀江",
-    "JKK:宇喜田第二",
-    "JKK:蓮根三丁目",
-    "JKK:西台"
+    "JKK:コーシャハイム久我山",
+    "JKK:コーシャハイム芦花公園"
   ],
   "last_ur_total_vacancies": 0,
-  "updated_at": "2026-08-24T05:06:01"
+  "updated_at": "2026-08-24T05:52:29"
 }

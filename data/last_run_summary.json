@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-08-24T05:06:01",
-  "jkk_total": 8,
+  "checked_at": "2026-08-24T05:52:29",
+  "jkk_total": 9,
   "ur_total_vacancies": 0,
-  "new_events": 5,
+  "new_events": 7,
   "slack_candidates": 0,
-  "slack_skipped": 5,
+  "slack_skipped": 7,
   "slack_configured": true,
   "slack_sent": false,
   "heartbeat_sent": false,
@@ -12,33 +12,45 @@
   "candidate_ids": [],
   "skipped": [
     {
+      "stable_id": "jkk_7c350eec96cd43db",
+      "building_name": "コーシャハイム芦花公園",
+      "event_type": "first_seen",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_777854780c3c52fb",
+      "building_name": "コーシャハイム久我山",
+      "event_type": "first_seen",
+      "reason": "not_actionable"
+    },
+    {
       "stable_id": "jkk_b820e44af5e44d6a",
       "building_name": "西台",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "jkk_20c56dcf00affa12",
       "building_name": "蓮根三丁目",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "jkk_012809924aff6627",
       "building_name": "宇喜田第二",
-      "event_type": "reappeared",
-      "reason": "not_actionable"
-    },
-    {
-      "stable_id": "jkk_11774355eaa41ec4",
-      "building_name": "堀江",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
       "reason": "not_actionable"
     },
     {
       "stable_id": "jkk_2af168f761e61020",
       "building_name": "コーシャハイム南葛西五丁目",
-      "event_type": "reappeared",
+      "event_type": "still_seen",
+      "reason": "not_actionable"
+    },
+    {
+      "stable_id": "jkk_11774355eaa41ec4",
+      "building_name": "堀江",
+      "event_type": "disappeared",
       "reason": "not_actionable"
     }
   ]
