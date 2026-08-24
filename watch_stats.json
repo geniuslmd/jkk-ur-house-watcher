@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-24T05:52:36",
-  "total_checks": 303,
+  "updated_at": "2026-08-24T07:18:43",
+  "total_checks": 304,
   "buckets": {
     "09:00": {
       "checks": 34,
@@ -385,21 +385,21 @@
       }
     },
     "07:00": {
-      "checks": 27,
-      "candidate_checks": 13,
+      "checks": 28,
+      "candidate_checks": 14,
       "target_checks": 0,
-      "listing_rows": 102,
-      "candidate_rows": 20,
+      "listing_rows": 110,
+      "candidate_rows": 25,
       "target_rows": 0,
-      "last_checked_at": "2026-08-23T07:47:11",
-      "last_candidate_at": "2026-08-22T07:44:32",
+      "last_checked_at": "2026-08-24T07:18:38",
+      "last_candidate_at": "2026-08-24T07:18:38",
       "last_target_at": null,
       "last_candidate_names": [
-        "コーシャハイム光が丘第一",
-        "コーシャハイム光が丘第二",
-        "コーシャハイム小松川一丁目",
-        "トミンタワー台場一番街",
-        "蓮根三丁目"
+        "コーシャハイム南葛西五丁目",
+        "コーシャハイム芦花公園",
+        "宇喜田第二",
+        "蓮根三丁目",
+        "西台"
       ],
       "candidate_names_seen": [
         "カーメスト新高円寺",
@@ -409,11 +409,14 @@
         "コーシャハイム南葛西五丁目",
         "コーシャハイム大森東",
         "コーシャハイム小松川一丁目",
+        "コーシャハイム芦花公園",
         "トミンタワー台場一番街",
         "トミンハイム宮坂二丁目",
         "堀江",
+        "宇喜田第二",
         "春江町椿",
-        "蓮根三丁目"
+        "蓮根三丁目",
+        "西台"
       ],
       "candidate_seen": {
         "コーシャハイム南葛西五丁目|江戸川区|３ＤＫ|60.47|94,000|3,100": {
@@ -567,8 +570,8 @@
           "building_year": 1978,
           "building_year_label": "竣工年月日 1978/08/05",
           "first_seen_at": "2026-08-22T07:44:32",
-          "last_seen_at": "2026-08-22T07:44:32",
-          "seen_count": 1
+          "last_seen_at": "2026-08-24T07:18:38",
+          "seen_count": 2
         },
         "コーシャハイム光が丘第一|練馬区|３ＤＫ|60.17|103,100|3,200": {
           "name": "コーシャハイム光が丘第一",
@@ -610,6 +613,62 @@
           "building_year_label": "竣工年月日 1988/12/15",
           "first_seen_at": "2026-08-22T07:44:32",
           "last_seen_at": "2026-08-22T07:44:32",
+          "seen_count": 1
+        },
+        "コーシャハイム芦花公園|世田谷区|２ＤＫ|43.92|122,900|4,300": {
+          "name": "コーシャハイム芦花公園",
+          "area": "世田谷区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "43.92",
+          "rent_yen": "122,900",
+          "common_fee_yen": "4,300",
+          "units": "1",
+          "building_year": 2008,
+          "building_year_label": "竣工年月日 2008/01/11",
+          "first_seen_at": "2026-08-24T07:18:38",
+          "last_seen_at": "2026-08-24T07:18:38",
+          "seen_count": 1
+        },
+        "西台|板橋区|３ＤＫ|43.21|71,100|3,000": {
+          "name": "西台",
+          "area": "板橋区",
+          "layout": "３ＤＫ",
+          "floor_area_m2": "43.21",
+          "rent_yen": "71,100",
+          "common_fee_yen": "3,000",
+          "units": "1",
+          "building_year": 1972,
+          "building_year_label": "竣工年月日 1972/12/05",
+          "first_seen_at": "2026-08-24T07:18:38",
+          "last_seen_at": "2026-08-24T07:18:38",
+          "seen_count": 1
+        },
+        "宇喜田第二|江戸川区|２ＤＫ|42.83|72,500|3,100": {
+          "name": "宇喜田第二",
+          "area": "江戸川区",
+          "layout": "２ＤＫ",
+          "floor_area_m2": "42.83",
+          "rent_yen": "72,500",
+          "common_fee_yen": "3,100",
+          "units": "1",
+          "building_year": 1973,
+          "building_year_label": "竣工年月日 1973/12/01",
+          "first_seen_at": "2026-08-24T07:18:38",
+          "last_seen_at": "2026-08-24T07:18:38",
+          "seen_count": 1
+        },
+        "コーシャハイム南葛西五丁目|江戸川区|３ＤＫ|60.47|90,800|3,100": {
+          "name": "コーシャハイム南葛西五丁目",
+          "area": "江戸川区",
+          "layout": "３ＤＫ",
+          "floor_area_m2": "60.47",
+          "rent_yen": "90,800",
+          "common_fee_yen": "3,100",
+          "units": "1",
+          "building_year": 1986,
+          "building_year_label": "竣工年月日 1986/03/25",
+          "first_seen_at": "2026-08-24T07:18:38",
+          "last_seen_at": "2026-08-24T07:18:38",
           "seen_count": 1
         }
       }
