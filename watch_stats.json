@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-24T07:18:43",
-  "total_checks": 304,
+  "updated_at": "2026-08-24T08:09:36",
+  "total_checks": 305,
   "buckets": {
     "09:00": {
       "checks": 34,
@@ -1580,18 +1580,18 @@
       }
     },
     "08:00": {
-      "checks": 27,
-      "candidate_checks": 13,
+      "checks": 28,
+      "candidate_checks": 14,
       "target_checks": 0,
-      "listing_rows": 113,
-      "candidate_rows": 31,
+      "listing_rows": 118,
+      "candidate_rows": 33,
       "target_rows": 0,
-      "last_checked_at": "2026-08-23T08:53:03",
-      "last_candidate_at": "2026-08-22T08:52:10",
+      "last_checked_at": "2026-08-24T08:09:33",
+      "last_candidate_at": "2026-08-24T08:09:33",
       "last_target_at": null,
       "last_candidate_names": [
-        "コーシャハイム光が丘第一",
-        "トミンタワー台場一番街"
+        "コーシャハイム南葛西五丁目",
+        "蓮根三丁目"
       ],
       "candidate_names_seen": [
         "カーメスト興野町",
@@ -1950,8 +1950,8 @@
           "building_year": 1978,
           "building_year_label": "竣工年月日 1978/08/05",
           "first_seen_at": "2026-08-22T08:12:24",
-          "last_seen_at": "2026-08-22T08:12:24",
-          "seen_count": 1
+          "last_seen_at": "2026-08-24T08:09:33",
+          "seen_count": 2
         },
         "コーシャハイム光が丘第一|練馬区|３ＤＫ|60.17|103,100|3,200": {
           "name": "コーシャハイム光が丘第一",
@@ -1966,6 +1966,20 @@
           "first_seen_at": "2026-08-22T08:12:24",
           "last_seen_at": "2026-08-22T08:52:10",
           "seen_count": 2
+        },
+        "コーシャハイム南葛西五丁目|江戸川区|３ＤＫ|60.47|90,800|3,100": {
+          "name": "コーシャハイム南葛西五丁目",
+          "area": "江戸川区",
+          "layout": "３ＤＫ",
+          "floor_area_m2": "60.47",
+          "rent_yen": "90,800",
+          "common_fee_yen": "3,100",
+          "units": "1",
+          "building_year": 1986,
+          "building_year_label": "竣工年月日 1986/03/25",
+          "first_seen_at": "2026-08-24T08:09:33",
+          "last_seen_at": "2026-08-24T08:09:33",
+          "seen_count": 1
         }
       }
     },
