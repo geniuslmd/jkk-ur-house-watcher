@@ -2,8 +2,8 @@
   "version": 1,
   "bucket_minutes": 60,
   "created_at": "2026-07-10T09:11:44",
-  "updated_at": "2026-08-24T09:06:12",
-  "total_checks": 306,
+  "updated_at": "2026-08-24T10:02:47",
+  "total_checks": 307,
   "buckets": {
     "09:00": {
       "checks": 35,
@@ -673,18 +673,17 @@
       }
     },
     "10:00": {
-      "checks": 25,
-      "candidate_checks": 8,
+      "checks": 26,
+      "candidate_checks": 9,
       "target_checks": 0,
-      "listing_rows": 93,
-      "candidate_rows": 16,
+      "listing_rows": 97,
+      "candidate_rows": 17,
       "target_rows": 0,
-      "last_checked_at": "2026-08-23T10:08:25",
-      "last_candidate_at": "2026-08-22T10:00:52",
+      "last_checked_at": "2026-08-24T10:02:44",
+      "last_candidate_at": "2026-08-24T10:02:44",
       "last_target_at": null,
       "last_candidate_names": [
-        "コーシャハイム光が丘第一",
-        "トミンタワー台場一番街"
+        "コーシャハイム南葛西五丁目"
       ],
       "candidate_names_seen": [
         "コーシャハイム光が丘第一",
@@ -865,8 +864,8 @@
           "building_year": 1986,
           "building_year_label": "竣工年月日 1986/03/25",
           "first_seen_at": "2026-08-13T10:43:26",
-          "last_seen_at": "2026-08-13T10:43:26",
-          "seen_count": 1
+          "last_seen_at": "2026-08-24T10:02:44",
+          "seen_count": 2
         },
         "コーシャハイム光が丘第一|練馬区|３ＤＫ|60.17|103,100|3,200": {
           "name": "コーシャハイム光が丘第一",

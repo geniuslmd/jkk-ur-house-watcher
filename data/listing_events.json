@@ -24978,5 +24978,25 @@
     "is_high_priority": false,
     "created_at": "2026-08-24T09:06:10",
     "snapshot_id": "snapshot_20260824_090610"
+  },
+  {
+    "event_id": "1b0d85989557a79b4b23",
+    "event_type": "still_seen",
+    "stable_id": "jkk_2af168f761e61020",
+    "source": "JKK",
+    "building_name": "コーシャハイム南葛西五丁目",
+    "room_no": "",
+    "layout": "３ＤＫ",
+    "area": "60.47",
+    "rent": "90,800",
+    "common_fee": "3,100",
+    "current_status": "stable",
+    "first_seen_at": "2026-07-13T07:35:55",
+    "last_seen_at": "2026-08-24T10:02:44",
+    "lifetime_minutes": 296.7,
+    "appearance_count": 11,
+    "is_high_priority": false,
+    "created_at": "2026-08-24T10:02:44",
+    "snapshot_id": "snapshot_20260824_100244"
   }
 ]

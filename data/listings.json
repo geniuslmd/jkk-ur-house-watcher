@@ -1024,16 +1024,16 @@
       "quick_tags": null
     },
     "first_seen_at": "2026-07-13T07:35:55",
-    "last_seen_at": "2026-08-24T09:06:10",
+    "last_seen_at": "2026-08-24T10:02:44",
     "current_appearance_started_at": "2026-08-24T05:06:01",
     "disappeared_at": null,
-    "lifetime_minutes": 240.2,
+    "lifetime_minutes": 296.7,
     "appearance_count": 11,
-    "consecutive_seen_count": 5,
-    "total_seen_checks": 28,
+    "consecutive_seen_count": 6,
+    "total_seen_checks": 29,
     "current_status": "stable",
     "is_present": true,
-    "last_snapshot_id": "snapshot_20260824_090610",
+    "last_snapshot_id": "snapshot_20260824_100244",
     "appearances": [
       {
         "start": "2026-07-13T07:35:55",
