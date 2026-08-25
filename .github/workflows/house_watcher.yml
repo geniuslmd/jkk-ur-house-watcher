@@ -10,7 +10,7 @@ on:
         default: false
         type: boolean
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
   group: house-watcher
@@ -44,23 +44,6 @@ jobs:
         run: |
           if [ "${{ inputs.test_slack }}" = "true" ]; then
             python scripts/run_watcher_once.py --test-slack
-          elif [ "${{ github.event.schedule }}" = "0 0 * * *" ]; then
-            python scripts/run_watcher_once.py --daily-heartbeat
           else
             python scripts/run_watcher_once.py
-          fi
-
-      - name: Persist watcher state
-        if: ${{ inputs.test_slack != true }}
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # These state files are ignored locally, but deliberately persisted by Actions
-          # so the next scheduled run can identify new/reappeared listings.
-          git add -f data/listings.json data/listing_events.json data/lifecycle_meta.json data/last_notifications.json data/last_run_summary.json watch_stats.json
-          if git diff --cached --quiet; then
-            echo "No watcher state changes to commit."
-          else
-            git commit -m "chore: update house watcher state [skip ci]"
-            git push
           fi
